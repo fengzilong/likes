@@ -9,3 +9,6 @@
 
 ### August 18, 2016
 - [Realm](https://realm.io/) 
+
+### August 19, 2016
+- [How to rename a published npm module | gregJS](https://www.gregjs.com/javascript/2016/how-to-rename-a-published-npm-module/) 

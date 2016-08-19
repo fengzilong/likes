@@ -12,3 +12,4 @@
 
 ### August 19, 2016
 - [How to rename a published npm module | gregJS](https://www.gregjs.com/javascript/2016/how-to-rename-a-published-npm-module/) 
+- [bvaughn/react-virtualized: React components for efficiently rendering large lists and tabular data](https://github.com/bvaughn/react-virtualized) 

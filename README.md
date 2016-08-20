@@ -13,3 +13,6 @@
 ### August 19, 2016
 - [How to rename a published npm module | gregJS](https://www.gregjs.com/javascript/2016/how-to-rename-a-published-npm-module/) 
 - [bvaughn/react-virtualized: React components for efficiently rendering large lists and tabular data](https://github.com/bvaughn/react-virtualized) 
+
+### August 20, 2016
+- [javascript - Selecting all text in HTML text input when clicked - Stack Overflow](http://stackoverflow.com/questions/4067469/selecting-all-text-in-html-text-input-when-clicked) 

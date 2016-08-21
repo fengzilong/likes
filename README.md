@@ -16,3 +16,6 @@
 
 ### August 20, 2016
 - [javascript - Selecting all text in HTML text input when clicked - Stack Overflow](http://stackoverflow.com/questions/4067469/selecting-all-text-in-html-text-input-when-clicked) 
+
+### August 21, 2016
+- [Git status ignore line endings / identical files / windows & linux environment / dropbox / mled - Stack Overflow](http://stackoverflow.com/questions/20496084/git-status-ignore-line-endings-identical-files-windows-linux-environment) 

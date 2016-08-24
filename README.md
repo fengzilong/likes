@@ -19,3 +19,6 @@
 
 ### August 21, 2016
 - [Git status ignore line endings / identical files / windows & linux environment / dropbox / mled - Stack Overflow](http://stackoverflow.com/questions/20496084/git-status-ignore-line-endings-identical-files-windows-linux-environment) 
+
+### August 25, 2016
+- [vue.js](http://vuejs.org/api/#data) 

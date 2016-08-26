@@ -26,3 +26,4 @@
 
 ### August 26, 2016
 - [JavaScript: The World's Most Misunderstood Programming Language](http://javascript.crockford.com/javascript.html) 
+- [Top Down Operator Precedence](http://javascript.crockford.com/tdop/tdop.html) 

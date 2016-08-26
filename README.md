@@ -23,3 +23,6 @@
 ### August 25, 2016
 - [vue.js](http://vuejs.org/api/#data) 
 - [Reactivity in Depth - vue.js](http://vuejs.org/guide/reactivity.html) 
+
+### August 26, 2016
+- [JavaScript: The World's Most Misunderstood Programming Language](http://javascript.crockford.com/javascript.html) 

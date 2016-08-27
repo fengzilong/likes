@@ -29,3 +29,6 @@
 - [Top Down Operator Precedence](http://javascript.crockford.com/tdop/tdop.html) 
 - [Top Down Operator Precedence](http://javascript.crockford.com/tdop/index.html) 
 - [Solved by Flexbox — Cleaner, hack-free CSS](https://philipwalton.github.io/solved-by-flexbox/) 
+
+### August 27, 2016
+- [Text Animation: Montserrat](http://codepen.io/ClaireLarsen/pen/XmVyVX) 

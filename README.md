@@ -32,3 +32,6 @@
 
 ### August 27, 2016
 - [Text Animation: Montserrat](http://codepen.io/ClaireLarsen/pen/XmVyVX) 
+
+### August 28, 2016
+- [Operator precedence - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence) 

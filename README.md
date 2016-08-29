@@ -35,3 +35,6 @@
 
 ### August 28, 2016
 - [Operator precedence - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence) 
+
+### August 30, 2016
+- [Frequently Answered Questions | Open Source Initiative](https://opensource.org/faq) 

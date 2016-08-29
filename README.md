@@ -38,3 +38,4 @@
 
 ### August 30, 2016
 - [Frequently Answered Questions | Open Source Initiative](https://opensource.org/faq) 
+- [licensing - How to manage a copyright notice in an open source project? - Programmers Stack Exchange](http://programmers.stackexchange.com/questions/157968/how-to-manage-a-copyright-notice-in-an-open-source-project) 

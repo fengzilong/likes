@@ -42,3 +42,6 @@
 - [Edge Side Includes - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Edge_Side_Includes) 
 - [ESI Language Specification 1.0](https://www.w3.org/TR/esi-lang) 
 - [Safari 10.0](https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_10_0.html) 
+
+### August 31, 2016
+- [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.](https://www.debuggex.com/) 

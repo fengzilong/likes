@@ -45,3 +45,6 @@
 
 ### August 31, 2016
 - [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.](https://www.debuggex.com/) 
+
+### September 3, 2016
+- [javascript/packages/eslint-config-airbnb at master · airbnb/javascript](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) 

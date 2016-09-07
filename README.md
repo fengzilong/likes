@@ -49,3 +49,6 @@
 ### September 3, 2016
 - [javascript/packages/eslint-config-airbnb at master · airbnb/javascript](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) 
 - [How to Get Started with ESLint v1.0](http://devnull.guru/get-started-with-eslint/) 
+
+### September 7, 2016
+- [require() 源码解读 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/05/require.html) 

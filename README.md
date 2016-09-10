@@ -52,3 +52,6 @@
 
 ### September 7, 2016
 - [require() 源码解读 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/05/require.html) 
+
+### September 10, 2016
+- [comma-dangle - Rules - ESLint - Pluggable JavaScript linter](http://eslint.org/docs/rules/comma-dangle) 

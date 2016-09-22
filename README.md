@@ -62,3 +62,4 @@
 ### September 23, 2016
 - [revue/revue: Redux binding for Vue.](https://github.com/revue/revue) 
 - [ESNextbin](https://esnextb.in/?gist=b300931ac26da8e9de2f) 
+- [Revue 指南](https://egoistian.com/2015/12/18/revue-guide/) 

@@ -58,3 +58,6 @@
 
 ### September 22, 2016
 - [Improve tutorial based on suggestions · vuejs/vuex@d5737d2](https://github.com/vuejs/vuex/commit/d5737d2027ceee27af5a93f96be247c6d42dac99#diff-710a2c45d880cfea6260a78fe646cc41R249) 
+
+### September 23, 2016
+- [revue/revue: Redux binding for Vue.](https://github.com/revue/revue) 

@@ -63,3 +63,6 @@
 - [revue/revue: Redux binding for Vue.](https://github.com/revue/revue) 
 - [ESNextbin](https://esnextb.in/?gist=b300931ac26da8e9de2f) 
 - [Revue 指南](https://egoistian.com/2015/12/18/revue-guide/) 
+
+### September 26, 2016
+- [javascript - Redux - multiple stores, why not? - Stack Overflow](http://stackoverflow.com/questions/33619775/redux-multiple-stores-why-not) 

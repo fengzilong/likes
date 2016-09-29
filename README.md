@@ -69,3 +69,6 @@
 
 ### September 29, 2016
 - [A Simple Way to Route with Redux](http://jlongster.com/A-Simple-Way-to-Route-with-Redux) 
+
+### September 30, 2016
+- [vuex-router-sync/index.js at master · vuejs/vuex-router-sync](https://github.com/vuejs/vuex-router-sync/blob/master/index.js) 

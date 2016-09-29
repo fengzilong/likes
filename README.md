@@ -66,3 +66,6 @@
 
 ### September 26, 2016
 - [javascript - Redux - multiple stores, why not? - Stack Overflow](http://stackoverflow.com/questions/33619775/redux-multiple-stores-why-not) 
+
+### September 29, 2016
+- [A Simple Way to Route with Redux](http://jlongster.com/A-Simple-Way-to-Route-with-Redux) 

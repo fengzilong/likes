@@ -72,3 +72,6 @@
 
 ### September 30, 2016
 - [vuex-router-sync/index.js at master · vuejs/vuex-router-sync](https://github.com/vuejs/vuex-router-sync/blob/master/index.js) 
+
+### October 8, 2016
+- [networking - Get Local IP of a device in chrome extension - Stack Overflow](http://stackoverflow.com/questions/18572365/get-local-ip-of-a-device-in-chrome-extension) 

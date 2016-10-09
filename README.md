@@ -78,3 +78,4 @@
 
 ### October 9, 2016
 - [babel-handbook/plugin-handbook.md at master · thejameskyle/babel-handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md) 
+- [babel-handbook/plugin-handbook.md at master · thejameskyle/babel-handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md) 

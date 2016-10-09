@@ -75,3 +75,6 @@
 
 ### October 8, 2016
 - [networking - Get Local IP of a device in chrome extension - Stack Overflow](http://stackoverflow.com/questions/18572365/get-local-ip-of-a-device-in-chrome-extension) 
+
+### October 9, 2016
+- [babel-handbook/plugin-handbook.md at master · thejameskyle/babel-handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md) 

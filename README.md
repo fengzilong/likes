@@ -79,3 +79,6 @@
 ### October 9, 2016
 - [babel-handbook/plugin-handbook.md at master · thejameskyle/babel-handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md) 
 - [babel-handbook/plugin-handbook.md at master · thejameskyle/babel-handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md) 
+
+### October 10, 2016
+- [tsayen/dom-to-image: Generates an image from a DOM node using HTML5 canvas](https://github.com/tsayen/dom-to-image) 

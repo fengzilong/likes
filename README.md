@@ -82,3 +82,6 @@
 
 ### October 10, 2016
 - [tsayen/dom-to-image: Generates an image from a DOM node using HTML5 canvas](https://github.com/tsayen/dom-to-image) 
+
+### October 14, 2016
+- [javascript - How do I force seconds to appear on an HTML5 "time" input control? - Stack Overflow](http://stackoverflow.com/questions/14487621/how-do-i-force-seconds-to-appear-on-an-html5-time-input-control) 

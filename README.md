@@ -85,3 +85,6 @@
 
 ### October 14, 2016
 - [javascript - How do I force seconds to appear on an HTML5 "time" input control? - Stack Overflow](http://stackoverflow.com/questions/14487621/how-do-i-force-seconds-to-appear-on-an-html5-time-input-control) 
+
+### October 20, 2016
+- [15 Ways to Write Self-documenting JavaScript](https://www.sitepoint.com/self-documenting-javascript/) 

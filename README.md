@@ -88,3 +88,6 @@
 
 ### October 20, 2016
 - [15 Ways to Write Self-documenting JavaScript](https://www.sitepoint.com/self-documenting-javascript/) 
+
+### October 25, 2016
+- [为什么我不使用 shrinkwrap（lock） - 死马的文章 - 知乎专栏](https://zhuanlan.zhihu.com/p/22934066) 

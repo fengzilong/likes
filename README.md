@@ -91,3 +91,6 @@
 
 ### October 25, 2016
 - [为什么我不使用 shrinkwrap（lock） - 死马的文章 - 知乎专栏](https://zhuanlan.zhihu.com/p/22934066) 
+
+### October 30, 2016
+- [Bug? babel-jest creating malformed transformations in preprocessor · Issue #1942 · facebook/jest](https://github.com/facebook/jest/issues/1942#issuecomment-257064638) 

@@ -95,3 +95,4 @@
 ### October 30, 2016
 - [Bug? babel-jest creating malformed transformations in preprocessor · Issue #1942 · facebook/jest](https://github.com/facebook/jest/issues/1942#issuecomment-257064638) 
 - [https://api.npms.io/v2/package/pure-ui](https://api.npms.io/v2/package/pure-ui) 
+- [npms.io API documentation](https://api-docs.npms.io/) 

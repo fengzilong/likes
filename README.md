@@ -96,3 +96,6 @@
 - [Bug? babel-jest creating malformed transformations in preprocessor · Issue #1942 · facebook/jest](https://github.com/facebook/jest/issues/1942#issuecomment-257064638) 
 - [https://api.npms.io/v2/package/pure-ui](https://api.npms.io/v2/package/pure-ui) 
 - [npms.io API documentation](https://api-docs.npms.io/) 
+
+### November 2, 2016
+- [asyncComputed · Issue #4083 · vuejs/vue](https://github.com/vuejs/vue/issues/4083) 

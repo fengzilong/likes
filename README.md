@@ -99,3 +99,6 @@
 
 ### November 2, 2016
 - [asyncComputed · Issue #4083 · vuejs/vue](https://github.com/vuejs/vue/issues/4083) 
+
+### November 4, 2016
+- [jareware/css-architecture: 8 simple rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture) 

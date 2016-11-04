@@ -102,3 +102,4 @@
 
 ### November 4, 2016
 - [jareware/css-architecture: 8 simple rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture) 
+- [Retiring vue-resource – The Vue Point – Medium](https://medium.com/the-vue-point/retiring-vue-resource-871a82880af4#.ijdbey5qf) 

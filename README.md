@@ -106,3 +106,6 @@
 
 ### November 15, 2016
 - [Simple](http://annvov.github.io/forEach.html) 
+
+### November 21, 2016
+- [Vivus Instant - inline SVG animation with CSS](https://maxwellito.github.io/vivus-instant/) 

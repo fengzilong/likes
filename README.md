@@ -109,3 +109,6 @@
 
 ### November 21, 2016
 - [Vivus Instant - inline SVG animation with CSS](https://maxwellito.github.io/vivus-instant/) 
+
+### November 23, 2016
+- [backbone.js](http://backbonejs.org/docs/backbone.html) 

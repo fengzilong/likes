@@ -119,3 +119,4 @@
 
 ### November 25, 2016
 - [Electron Rocks!](http://electron.rocks/) 
+- [Boosting productivity with Electron](http://electron.rocks/boosting-dev-productivity/) 

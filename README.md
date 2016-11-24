@@ -112,3 +112,6 @@
 
 ### November 23, 2016
 - [backbone.js](http://backbonejs.org/docs/backbone.html) 
+
+### November 24, 2016
+- [border-radius 移动之伤 · Issue #2 · yisibl/blog](https://github.com/yisibl/blog/issues/2) 

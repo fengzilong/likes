@@ -116,3 +116,6 @@
 ### November 24, 2016
 - [border-radius 移动之伤 · Issue #2 · yisibl/blog](https://github.com/yisibl/blog/issues/2) 
 - [How To Make Your Electron App Sexy - DC](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy) 
+
+### November 25, 2016
+- [Electron Rocks!](http://electron.rocks/) 

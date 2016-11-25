@@ -120,3 +120,6 @@
 ### November 25, 2016
 - [Electron Rocks!](http://electron.rocks/) 
 - [Boosting productivity with Electron](http://electron.rocks/boosting-dev-productivity/) 
+
+### November 26, 2016
+- [javascript - Open local file in electron and render in wavesurfer.js - Stack Overflow](http://stackoverflow.com/questions/31310904/open-local-file-in-electron-and-render-in-wavesurfer-js) 

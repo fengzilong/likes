@@ -123,3 +123,6 @@
 
 ### November 26, 2016
 - [javascript - Open local file in electron and render in wavesurfer.js - Stack Overflow](http://stackoverflow.com/questions/31310904/open-local-file-in-electron-and-render-in-wavesurfer-js) 
+
+### November 30, 2016
+- [package.json | npm Documentation](https://docs.npmjs.com/files/package.json#files) 

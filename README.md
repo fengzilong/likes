@@ -126,3 +126,4 @@
 
 ### November 30, 2016
 - [package.json | npm Documentation](https://docs.npmjs.com/files/package.json#files) 
+- [Closures | JavaScript Tutorial](http://javascript.info/tutorial/closures) 

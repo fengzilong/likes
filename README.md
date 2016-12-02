@@ -127,3 +127,6 @@
 ### November 30, 2016
 - [package.json | npm Documentation](https://docs.npmjs.com/files/package.json#files) 
 - [Closures | JavaScript Tutorial](http://javascript.info/tutorial/closures) 
+
+### December 2, 2016
+- [How to Use Code Snippets in Atom](https://www.sitepoint.com/use-code-snippets-atom/) 

@@ -140,3 +140,4 @@
 - [uxdesign.cc – User Experience Design](https://uxdesign.cc/) 
 - [Using the Console  |  Web  |  Google Developers](https://developers.google.com/web/tools/chrome-devtools/console/) 
 - [Kent C. Dodds 的 Twitter: “Need to format some json? Your browser can do that for you! (works in Firefox and Safari too!) Docs 👉 https://t.co/ZxmLHmnLD1 💯 https://t.co/jjgi7jRbRG”](https://twitter.com/kentcdodds/status/795761027795288066) 
+- [Professor Frisby Introduces Composable Functional JavaScript - Course by @drboolean @eggheadio](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript?utm_content=buffera05d2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 

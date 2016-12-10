@@ -130,3 +130,6 @@
 
 ### December 2, 2016
 - [How to Use Code Snippets in Atom](https://www.sitepoint.com/use-code-snippets-atom/) 
+
+### December 10, 2016
+- [My one weird trick to be more productive - Max Stoibers Blog](http://mxstbr.blog/2016/12/productivity-trick/) 

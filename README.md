@@ -136,3 +136,4 @@
 - [The magic behind 💅 styled-components - Max Stoibers Blog](http://mxstbr.blog/2016/11/styled-components-magic-explained/) 
 - [Writing your styles in JS ≠ writing inline styles - Max Stoibers Blog](http://mxstbr.blog/2016/11/inline-styles-vs-css-in-js/) 
 - [ASCIIFlow Infinity](http://asciiflow.com/) 
+- [Free Typing Speed Test – Check your typing skills](https://www.livechatinc.com/typing-speed-test/?t=274383#/) 

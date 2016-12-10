@@ -147,3 +147,4 @@
 
 ### December 11, 2016
 - [Lockfiles should be committed on all projects | Yarn Blog](https://yarnpkg.com/blog/2016/11/24/lockfiles-for-all) 
+- [How to be* a compiler — make a compiler with JavaScript – Medium](https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4#.s0vddqf6y) 

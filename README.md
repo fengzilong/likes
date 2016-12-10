@@ -144,3 +144,6 @@
 - [Denise Nepraunig 的 Twitter: “Did you know that you can create folders/sub-folders directly in the @github web UI? #devLife https://t.co/kPfxMNSnop”](https://twitter.com/denisenepraunig/status/806923058686496768) 
 - [Custom Elements That Work Anywhere – Dev Channel – Medium](https://medium.com/dev-channel/custom-elements-that-work-anywhere-898e1dd2bc48#.8i4i50njv) 
 - [Making your first contribution – Medium](https://medium.com/@vadimdemedes/making-your-first-contribution-de6576ddb190#.xeq1k88ny) 
+
+### December 11, 2016
+- [Lockfiles should be committed on all projects | Yarn Blog](https://yarnpkg.com/blog/2016/11/24/lockfiles-for-all) 

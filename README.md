@@ -139,3 +139,4 @@
 - [Free Typing Speed Test – Check your typing skills](https://www.livechatinc.com/typing-speed-test/?t=274383#/) 
 - [uxdesign.cc – User Experience Design](https://uxdesign.cc/) 
 - [Using the Console  |  Web  |  Google Developers](https://developers.google.com/web/tools/chrome-devtools/console/) 
+- [Kent C. Dodds 的 Twitter: “Need to format some json? Your browser can do that for you! (works in Firefox and Safari too!) Docs 👉 https://t.co/ZxmLHmnLD1 💯 https://t.co/jjgi7jRbRG”](https://twitter.com/kentcdodds/status/795761027795288066) 

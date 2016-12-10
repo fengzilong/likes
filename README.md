@@ -138,3 +138,4 @@
 - [ASCIIFlow Infinity](http://asciiflow.com/) 
 - [Free Typing Speed Test – Check your typing skills](https://www.livechatinc.com/typing-speed-test/?t=274383#/) 
 - [uxdesign.cc – User Experience Design](https://uxdesign.cc/) 
+- [Using the Console  |  Web  |  Google Developers](https://developers.google.com/web/tools/chrome-devtools/console/) 

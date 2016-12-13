@@ -153,3 +153,4 @@
 
 ### December 14, 2016
 - [The Inner Workings Of Virtual DOM – Medium](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.bahjx6b9s) 
+- [11 lessons learned as a React contractor – Medium](https://medium.com/@jolyon_russ/11-lessons-learned-as-a-react-contractor-f515cd0491cf#.kto91lcig) 

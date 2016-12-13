@@ -150,3 +150,6 @@
 - [How to be* a compiler — make a compiler with JavaScript – Medium](https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4#.s0vddqf6y) 
 - [[译] 成为一个编译器之「使用 JavaScript 来制作编译器」 - 掘金](https://gold.xitu.io/entry/582343555bbb500059056d4b/) 
 - [How To Scale React Applications – Smashing Magazine](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/) 
+
+### December 14, 2016
+- [The Inner Workings Of Virtual DOM – Medium](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.bahjx6b9s) 

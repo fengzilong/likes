@@ -156,3 +156,4 @@
 - [11 lessons learned as a React contractor – Medium](https://medium.com/@jolyon_russ/11-lessons-learned-as-a-react-contractor-f515cd0491cf#.kto91lcig) 
 - [Web Advent Calendar | 25 writings by people who make web](http://web.advent.today/) 
 - [Web design and development articles and tutorials for advent ◆ 24 ways](https://24ways.org/) 
+- [Audit Rules · GoogleChrome/accessibility-developer-tools Wiki](https://github.com/GoogleChrome/accessibility-developer-tools/wiki/Audit-Rules) 

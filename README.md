@@ -170,3 +170,4 @@
 
 ### December 25, 2016
 - [You-Dont-Know-JS/ch4.md at master · getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch4.md#loose-equals-vs-strict-equals) 
+- [The new way of doing CSP takes the pain away](https://www.websec.be/blog/cspstrictdynamic/?utm_content=bufferf2997&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 

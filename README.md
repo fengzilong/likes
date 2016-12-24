@@ -167,3 +167,6 @@
 ### December 24, 2016
 - [» Pure UI](http://rauchg.com/2015/pure-ui/) 
 - [Buttons · Primer](http://primercss.io/buttons/) 
+
+### December 25, 2016
+- [You-Dont-Know-JS/ch4.md at master · getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch4.md#loose-equals-vs-strict-equals) 

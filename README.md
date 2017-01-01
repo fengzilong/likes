@@ -175,3 +175,8 @@
 
 ### December 31, 2016
 - [SurviveJS - Inferno - Blazing fast, React-like UI library - Interview with Dominic Gannaway](http://survivejs.com/blog/inferno-interview/) 
+
+### January 1, 2017
+- [最小编辑距离问题（Edit Distance） - Stephen'blog](https://stephenlyao.github.io/2016/11/23/Min-Edit-Distance/) 
+- [How to win in Web Framework Benchmarks – Medium](https://medium.com/@localvoid/how-to-win-in-web-framework-benchmarks-8bc31af76ce7#.x080fyu0f) 
+- [Object rest spread transform · Babel](https://babeljs.io/docs/plugins/transform-object-rest-spread/) 

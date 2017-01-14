@@ -195,3 +195,6 @@
 - [让我们一起来学习 RxJS](https://fe.ele.me/let-us-learn-rxjs/) 
 - [2 minute introduction to Rx – Medium](https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877#.z4h5h7c7h) 
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
+
+### January 15, 2017
+- [node.js - "style" field in package.json - Stack Overflow](http://stackoverflow.com/questions/32037150/style-field-in-package-json) 

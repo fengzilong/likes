@@ -187,3 +187,6 @@
 ### January 13, 2017
 - [IntersectionObserver API 使用教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/11/intersectionobserver_api.html) 
 - [Thunk 函数的含义和用法 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/05/thunk.html) 
+
+### January 14, 2017
+- [关于启用 HTTPS 的一些经验分享（一） | JerryQu 的小站](https://imququ.com/post/sth-about-switch-to-https.html) 

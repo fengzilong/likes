@@ -198,3 +198,6 @@
 
 ### January 15, 2017
 - [node.js - "style" field in package.json - Stack Overflow](http://stackoverflow.com/questions/32037150/style-field-in-package-json) 
+
+### January 20, 2017
+- [14 - Working with scoped packages | npm Documentation](https://docs.npmjs.com/getting-started/scoped-packages) 

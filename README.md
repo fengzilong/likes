@@ -201,3 +201,6 @@
 
 ### January 20, 2017
 - [14 - Working with scoped packages | npm Documentation](https://docs.npmjs.com/getting-started/scoped-packages) 
+
+### January 21, 2017
+- [André Staltz - Setting up a JavaScript monorepo](http://staltz.com/setting-up-a-javascript-monorepo.html) 

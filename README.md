@@ -209,3 +209,4 @@
 
 ### January 27, 2017
 - [Babel 入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/01/babel.html) 
+- [React 测试入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/02/react-testing-tutorial.html) 

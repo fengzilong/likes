@@ -210,3 +210,6 @@
 ### January 27, 2017
 - [Babel 入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/01/babel.html) 
 - [React 测试入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/02/react-testing-tutorial.html) 
+
+### January 31, 2017
+- [技术不是全部 - stormzhang](http://stormzhang.com/2016/12/22/technology-is-not-all/) 

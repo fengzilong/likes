@@ -217,3 +217,4 @@
 
 ### February 1, 2017
 - [How to decouple state and UI (a.k.a. you don’t need componentWillMount) – Medium](https://medium.com/@mweststrate/how-to-decouple-state-and-ui-a-k-a-you-dont-need-componentwillmount-cc90b787aa37#.i8nzly3md) 
+- [kitze/mobx-router: A simple router for MobX + React apps](https://github.com/kitze/mobx-router) 

@@ -214,3 +214,6 @@
 ### January 31, 2017
 - [技术不是全部 - stormzhang](http://stormzhang.com/2016/12/22/technology-is-not-all/) 
 - [Android Developers](https://developer.android.google.cn/index.html) 
+
+### February 1, 2017
+- [How to decouple state and UI (a.k.a. you don’t need componentWillMount) – Medium](https://medium.com/@mweststrate/how-to-decouple-state-and-ui-a-k-a-you-dont-need-componentwillmount-cc90b787aa37#.i8nzly3md) 

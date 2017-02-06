@@ -222,3 +222,6 @@
 
 ### February 2, 2017
 - [使用 CSS 跨域获取数据 | ccloli](http://ccloli.com/201605/get-cross-origin-data-with-css/) 
+
+### February 7, 2017
+- [javascript - Can't restore selection after HTML modify, even if it's the same HTML - Stack Overflow](http://stackoverflow.com/questions/17678843/cant-restore-selection-after-html-modify-even-if-its-the-same-html) 

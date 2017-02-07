@@ -225,3 +225,4 @@
 
 ### February 7, 2017
 - [javascript - Can't restore selection after HTML modify, even if it's the same HTML - Stack Overflow](http://stackoverflow.com/questions/17678843/cant-restore-selection-after-html-modify-even-if-its-the-same-html) 
+- [理解ES6中的暂时死区(TDZ) - 勤勉的JS与React - SegmentFault](https://segmentfault.com/a/1190000008213835) 

@@ -227,3 +227,4 @@
 - [javascript - Can't restore selection after HTML modify, even if it's the same HTML - Stack Overflow](http://stackoverflow.com/questions/17678843/cant-restore-selection-after-html-modify-even-if-its-the-same-html) 
 - [理解ES6中的暂时死区(TDZ) - 勤勉的JS与React - SegmentFault](https://segmentfault.com/a/1190000008213835) 
 - [扼杀 304，Cache-Control: immutable - 紫云飞 - 博客园](http://www.cnblogs.com/ziyunfei/p/5642796.html) 
+- [关于缓存和 Chrome 的“新版刷新” - 紫云飞 - 博客园](http://www.cnblogs.com/ziyunfei/p/6308652.html) 

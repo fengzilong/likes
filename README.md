@@ -229,3 +229,6 @@
 - [扼杀 304，Cache-Control: immutable - 紫云飞 - 博客园](http://www.cnblogs.com/ziyunfei/p/5642796.html) 
 - [关于缓存和 Chrome 的“新版刷新” - 紫云飞 - 博客园](http://www.cnblogs.com/ziyunfei/p/6308652.html) 
 - [JavaScript 函数式编程存在性能问题么？ - JavaScript - 知乎](https://www.zhihu.com/question/54637225) 
+
+### February 8, 2017
+- [Installing past or future versions of npm packages](http://www.2ality.com/2015/12/npm-install-tag-version.html) 

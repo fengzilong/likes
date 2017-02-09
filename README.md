@@ -232,3 +232,6 @@
 
 ### February 8, 2017
 - [Installing past or future versions of npm packages](http://www.2ality.com/2015/12/npm-install-tag-version.html) 
+
+### February 9, 2017
+- [HTML 5.2: 4.10. Forms](https://w3c.github.io/html/sec-forms.html#form-submission-algorithm) 

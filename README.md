@@ -238,3 +238,4 @@
 
 ### February 11, 2017
 - [How do you write such amazing documentations? · Issue #21 · staltz/ama](https://github.com/staltz/ama/issues/21) 
+- [Using Redux DevTools in production – Medium](https://medium.com/@zalmoxis/using-redux-devtools-in-production-4c5b56c5600f#.eatnfdsgv) 

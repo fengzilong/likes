@@ -240,3 +240,4 @@
 - [How do you write such amazing documentations? · Issue #21 · staltz/ama](https://github.com/staltz/ama/issues/21) 
 - [Using Redux DevTools in production – Medium](https://medium.com/@zalmoxis/using-redux-devtools-in-production-4c5b56c5600f#.eatnfdsgv) 
 - [Improve your development workflow with Redux DevTools Extension – Medium](https://medium.com/@zalmoxis/improve-your-development-workflow-with-redux-devtools-extension-f0379227ff83#.k1o0pe5jf) 
+- [V8 JavaScript Engine](http://v8project.blogspot.com.ar/) 

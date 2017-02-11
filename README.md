@@ -235,3 +235,6 @@
 
 ### February 9, 2017
 - [HTML 5.2: 4.10. Forms](https://w3c.github.io/html/sec-forms.html#form-submission-algorithm) 
+
+### February 11, 2017
+- [How do you write such amazing documentations? · Issue #21 · staltz/ama](https://github.com/staltz/ama/issues/21) 

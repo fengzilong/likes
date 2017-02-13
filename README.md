@@ -244,3 +244,4 @@
 
 ### February 14, 2017
 - [CSS 高级布局技巧 · Issue #14 · sorrycc/blog](https://github.com/sorrycc/blog/issues/14) 
+- [docs/tracker-manual.md at version-NEXT · meteor/docs](https://github.com/meteor/docs/blob/version-NEXT/long-form/tracker-manual.md) 

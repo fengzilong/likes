@@ -245,3 +245,6 @@
 ### February 14, 2017
 - [CSS 高级布局技巧 · Issue #14 · sorrycc/blog](https://github.com/sorrycc/blog/issues/14) 
 - [docs/tracker-manual.md at version-NEXT · meteor/docs](https://github.com/meteor/docs/blob/version-NEXT/long-form/tracker-manual.md) 
+
+### February 18, 2017
+- [Jest 14.0: React Tree Snapshot Testing · Jest](http://facebook.github.io/jest/blog/2016/07/27/jest-14.html) 

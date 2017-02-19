@@ -248,3 +248,6 @@
 
 ### February 18, 2017
 - [Jest 14.0: React Tree Snapshot Testing · Jest](http://facebook.github.io/jest/blog/2016/07/27/jest-14.html) 
+
+### February 19, 2017
+- [typescript - Property 'assign' does not exist on type 'ObjectConstructor' - Stack Overflow](http://stackoverflow.com/questions/35959372/property-assign-does-not-exist-on-type-objectconstructor/36304926#36304926) 

@@ -251,3 +251,4 @@
 
 ### February 19, 2017
 - [typescript - Property 'assign' does not exist on type 'ObjectConstructor' - Stack Overflow](http://stackoverflow.com/questions/35959372/property-assign-does-not-exist-on-type-objectconstructor/36304926#36304926) 
+- [javascript - Webpack umd library return Object.default - Stack Overflow](http://stackoverflow.com/questions/34736771/webpack-umd-library-return-object-default) 

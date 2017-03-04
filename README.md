@@ -265,3 +265,6 @@
 ### March 4, 2017
 - [Double Helix [pure css]](http://codepen.io/drewendly/pen/ZBqazz) 
 - [Icon: remove EOT and SVG font by niceue · Pull Request #3086 · ElemeFE/element](https://github.com/ElemeFE/element/pull/3086) 
+
+### March 5, 2017
+- [Closing issues via commit messages - User Documentation](https://help.github.com/articles/closing-issues-via-commit-messages/) 

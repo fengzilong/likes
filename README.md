@@ -268,3 +268,6 @@
 
 ### March 5, 2017
 - [Closing issues via commit messages - User Documentation](https://help.github.com/articles/closing-issues-via-commit-messages/) 
+
+### March 12, 2017
+- [Add lint-staged + husky for prettier auto-formatting on commit by kentcdodds · Pull Request #1759 · facebookincubator/create-react-app](https://github.com/facebookincubator/create-react-app/pull/1759) 

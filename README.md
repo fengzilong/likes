@@ -274,3 +274,6 @@
 - [Dan Abramov 的 Twitter: “Just because you reached the return statement, doesn’t mean that’s what the function will return. https://t.co/4qljGch44j”](https://twitter.com/dan_abramov/status/839163612761587712) 
 - [Debugger stops at "SyntaxError: Unexpected token in JSON at position 1" · Issue #1642 · facebookincubator/create-react-app](https://github.com/facebookincubator/create-react-app/issues/1642#issuecomment-282747266) 
 - [Hack！如何让Github Pages支持SPA - Stephen'blog](https://stephenlyao.github.io/2017/03/01/github-spa/) 
+
+### March 13, 2017
+- [Introduction · SVG教程（中文翻译版）](https://brucewar.gitbooks.io/svg-tutorial/) 

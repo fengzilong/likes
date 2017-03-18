@@ -280,3 +280,4 @@
 
 ### March 18, 2017
 - ["scoped" packages · Issue #5239 · npm/npm](https://github.com/npm/npm/issues/5239#issuecomment-42609948) 
+- [01 - What are Organizations? | npm Documentation](https://docs.npmjs.com/orgs/what-are-orgs) 

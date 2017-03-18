@@ -277,3 +277,6 @@
 
 ### March 13, 2017
 - [Introduction · SVG教程（中文翻译版）](https://brucewar.gitbooks.io/svg-tutorial/) 
+
+### March 18, 2017
+- ["scoped" packages · Issue #5239 · npm/npm](https://github.com/npm/npm/issues/5239#issuecomment-42609948) 

@@ -282,3 +282,6 @@
 - ["scoped" packages · Issue #5239 · npm/npm](https://github.com/npm/npm/issues/5239#issuecomment-42609948) 
 - [01 - What are Organizations? | npm Documentation](https://docs.npmjs.com/orgs/what-are-orgs) 
 - [淘宝网站上的 HTTP 缓存问题两则 - 紫云飞 - 博客园](http://www.cnblogs.com/ziyunfei/p/6430623.html) 
+
+### March 22, 2017
+- [语法分析算法LR(1)基础教程（上） - winter-cn - 博客园](http://www.cnblogs.com/winter-cn/archive/2011/07/20/LR1.html) 

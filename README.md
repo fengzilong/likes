@@ -288,3 +288,6 @@
 
 ### March 25, 2017
 - [Glitch](https://glitch.com/) 
+
+### April 3, 2017
+- [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) 

@@ -292,3 +292,6 @@
 ### April 3, 2017
 - [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) 
 - [Configuring Your .npmrc for an Optimal Node.js Environment](https://nodesource.com/blog/configuring-your-npmrc-for-an-optimal-node-js-environment) 
+
+### April 5, 2017
+- [The npm Blog — announcing free Orgs](http://blog.npmjs.org/post/158718200065/announcing-free-orgs) 

@@ -295,3 +295,6 @@
 
 ### April 5, 2017
 - [The npm Blog — announcing free Orgs](http://blog.npmjs.org/post/158718200065/announcing-free-orgs) 
+
+### April 7, 2017
+- [Best Practices for Modals / Overlays / Dialog Windows](https://uxplanet.org/best-practices-for-modals-overlays-dialog-windows-c00c66cddd8c) 

@@ -305,3 +305,4 @@
 ### April 11, 2017
 - [HTTP 代理原理及实现（一） | JerryQu 的小站](https://imququ.com/post/web-proxy.html) 
 - [HTTP 代理原理及实现（二） | JerryQu 的小站](https://imququ.com/post/web-proxy-2.html) 
+- [Number 和 parseInt 转化数值有何不同？ · Issue #33 · fwon/blog](https://github.com/fwon/blog/issues/33) 

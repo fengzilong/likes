@@ -307,5 +307,3 @@
 - [HTTP 代理原理及实现（二） | JerryQu 的小站](https://imququ.com/post/web-proxy-2.html) 
 - [Number 和 parseInt 转化数值有何不同？ · Issue #33 · fwon/blog](https://github.com/fwon/blog/issues/33) 
 
-### April 13, 2017
-- [新人专享，低至1折](http://127.0.0.1:9999/pages/oneinviteone/newer.ftl) 

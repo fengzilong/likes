@@ -310,3 +310,4 @@
 
 ### April 14, 2017
 - [package.json | npm Documentation](https://docs.npmjs.com/files/package.json#publishconfig) 
+- [config | npm Documentation](https://docs.npmjs.com/misc/config#config-settings) 

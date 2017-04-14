@@ -307,3 +307,6 @@
 - [HTTP 代理原理及实现（二） | JerryQu 的小站](https://imququ.com/post/web-proxy-2.html) 
 - [Number 和 parseInt 转化数值有何不同？ · Issue #33 · fwon/blog](https://github.com/fwon/blog/issues/33) 
 
+
+### April 14, 2017
+- [package.json | npm Documentation](https://docs.npmjs.com/files/package.json#publishconfig) 

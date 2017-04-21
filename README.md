@@ -314,3 +314,4 @@
 
 ### April 21, 2017
 - [Fabulous macOS Tips & Tricks – 🦄 Sindre Sorhus’ blog](https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8) 
+- [Sam Saccone 的 Twitter: “A friendly reminder that any <link rel="stylesheet" in your <head> will block first paint 🎨 until *all* of them are done downloading.”](https://twitter.com/samccone/status/791665852454100997) 

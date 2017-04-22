@@ -319,3 +319,4 @@
 
 ### April 22, 2017
 - [Is Hyper needed to use Pure? · Issue #294 · sindresorhus/pure](https://github.com/sindresorhus/pure/issues/294) 
+- [Ability to specify which shell to use · Issue #81 · zeit/hyper](https://github.com/zeit/hyper/issues/81) 

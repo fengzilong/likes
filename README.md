@@ -316,3 +316,6 @@
 - [Fabulous macOS Tips & Tricks – 🦄 Sindre Sorhus’ blog](https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8) 
 - [Sam Saccone 的 Twitter: “A friendly reminder that any <link rel="stylesheet" in your <head> will block first paint 🎨 until *all* of them are done downloading.”](https://twitter.com/samccone/status/791665852454100997) 
 - [Addy Osmani 的 Twitter: “The @ChromeDevTools Console now supports multiple carets, column selection, word matching & many Sublime Text keyboard shortcuts 🔥 https://t.co/CO9ebsDWtY”](https://twitter.com/addyosmani/status/781887602265694208) 
+
+### April 22, 2017
+- [Is Hyper needed to use Pure? · Issue #294 · sindresorhus/pure](https://github.com/sindresorhus/pure/issues/294) 

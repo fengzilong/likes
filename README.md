@@ -320,3 +320,6 @@
 ### April 22, 2017
 - [Is Hyper needed to use Pure? · Issue #294 · sindresorhus/pure](https://github.com/sindresorhus/pure/issues/294) 
 - [Ability to specify which shell to use · Issue #81 · zeit/hyper](https://github.com/zeit/hyper/issues/81) 
+
+### April 23, 2017
+- [添加了几个复杂场景的demo，增加了单元测试 by xufei · Pull Request #15 · dvajs/dva-example-user-dashboard](https://github.com/dvajs/dva-example-user-dashboard/pull/15) 

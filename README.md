@@ -323,3 +323,6 @@
 
 ### April 23, 2017
 - [添加了几个复杂场景的demo，增加了单元测试 by xufei · Pull Request #15 · dvajs/dva-example-user-dashboard](https://github.com/dvajs/dva-example-user-dashboard/pull/15) 
+
+### April 26, 2017
+- [How to Write an Open Source JavaScript Library - Course by @kentcdodds @eggheadio](https://egghead.io/courses/how-to-write-an-open-source-javascript-library) 

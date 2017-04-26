@@ -328,3 +328,4 @@
 - [How to Write an Open Source JavaScript Library - Course by @kentcdodds @eggheadio](https://egghead.io/courses/how-to-write-an-open-source-javascript-library) 
 - [Get Started With Analyzing Runtime Performance  |  Web  |  Google Developers](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/) 
 - [Preload, Prefetch And Priorities in Chrome – reloading – Medium](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf) 
+- [对于重型组件的基于功能粒度的拆分能力 · Issue #5910 · ant-design/ant-design](https://github.com/ant-design/ant-design/issues/5910) 

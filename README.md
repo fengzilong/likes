@@ -332,3 +332,6 @@
 
 ### May 2, 2017
 - [The names of functions in ES6](http://2ality.com/2015/09/function-names-es6.html#changing-the-names-of-functions) 
+
+### May 3, 2017
+- [tsconfig.json · TypeScript](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) 

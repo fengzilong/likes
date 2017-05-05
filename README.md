@@ -340,3 +340,4 @@
 - [Javascript Hidden Classes and Inline Caching in V8](https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html) 
 - [Chrome Developer Tools: Videos  |  Chrome V8  |  Google Developers](https://developers.google.com/v8/videos?hl=sv#video0a) 
 - [Hidden classes in JavaScript and Inline Caching](https://gist.github.com/twokul/9501770) 
+- [Understanding hidden classes in v8 » Debuggable - Node.js Consulting](http://debuggable.com/posts/understanding-hidden-classes-in-v8:4c7e81e4-1330-4398-8bd2-761bcbdd56cb) 

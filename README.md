@@ -335,3 +335,6 @@
 
 ### May 3, 2017
 - [tsconfig.json · TypeScript](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) 
+
+### May 5, 2017
+- [Javascript Hidden Classes and Inline Caching in V8](https://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html) 

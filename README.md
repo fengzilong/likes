@@ -342,3 +342,6 @@
 - [Hidden classes in JavaScript and Inline Caching](https://gist.github.com/twokul/9501770) 
 - [Understanding hidden classes in v8 » Debuggable - Node.js Consulting](http://debuggable.com/posts/understanding-hidden-classes-in-v8:4c7e81e4-1330-4398-8bd2-761bcbdd56cb) 
 - [V8 Hidden Class - w3ctech - 中国最大的前端技术社区](https://www.w3ctech.com/topic/660) 
+
+### May 7, 2017
+- [Releasing Prettier 1.0](http://jlongster.com/prettier-1.0) 

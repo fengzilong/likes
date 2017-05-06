@@ -345,3 +345,4 @@
 
 ### May 7, 2017
 - [Releasing Prettier 1.0](http://jlongster.com/prettier-1.0) 
+- [Adopt Prettier/TypeScript? · Issue #508 · sveltejs/svelte](https://github.com/sveltejs/svelte/issues/508) 

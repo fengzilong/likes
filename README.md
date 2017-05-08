@@ -350,3 +350,4 @@
 ### May 8, 2017
 - [vue/codegen.spec.js at e7dfcc334d6f6513d2ed1cddfa28a08796e07df7 · vuejs/vue](https://github.com/vuejs/vue/blob/e7dfcc334d6f6513d2ed1cddfa28a08796e07df7/test/unit/modules/compiler/codegen.spec.js) 
 - [leozdgao - The blog](https://leozdgao.me/) 
+- [React创建组件的三种方式及其区别 - wonyun - 博客园](http://www.cnblogs.com/wonyun/p/5930333.html) 

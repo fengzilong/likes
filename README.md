@@ -346,3 +346,6 @@
 ### May 7, 2017
 - [Releasing Prettier 1.0](http://jlongster.com/prettier-1.0) 
 - [Adopt Prettier/TypeScript? · Issue #508 · sveltejs/svelte](https://github.com/sveltejs/svelte/issues/508) 
+
+### May 8, 2017
+- [vue/codegen.spec.js at e7dfcc334d6f6513d2ed1cddfa28a08796e07df7 · vuejs/vue](https://github.com/vuejs/vue/blob/e7dfcc334d6f6513d2ed1cddfa28a08796e07df7/test/unit/modules/compiler/codegen.spec.js) 

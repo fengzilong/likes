@@ -358,3 +358,6 @@
 ### May 22, 2017
 - [virtual-dom/vtree at master · Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom/tree/master/vtree) 
 - [构建一个使用 Virtual-DOM 的前端模版引擎 · Issue #14 · livoras/blog](https://github.com/livoras/blog/issues/14) 
+
+### June 16, 2017
+- [SyntaxError: 'import' and 'export' may appear only with 'sourceType: module' · Issue #220 · babel/babylon](https://github.com/babel/babylon/issues/220#issuecomment-260141150) 

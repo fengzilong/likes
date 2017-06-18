@@ -361,3 +361,6 @@
 
 ### June 16, 2017
 - [SyntaxError: 'import' and 'export' may appear only with 'sourceType: module' · Issue #220 · babel/babylon](https://github.com/babel/babylon/issues/220#issuecomment-260141150) 
+
+### June 18, 2017
+- [Asynchronous Programming: The End of The Loop - Course by @jhusain @eggheadio](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) 

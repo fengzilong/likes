@@ -364,3 +364,6 @@
 
 ### June 18, 2017
 - [Asynchronous Programming: The End of The Loop - Course by @jhusain @eggheadio](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) 
+
+### June 20, 2017
+- [Tasks, microtasks, queues and schedules - JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly&utm_medium=email) 

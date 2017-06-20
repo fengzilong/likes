@@ -368,3 +368,4 @@
 ### June 20, 2017
 - [Tasks, microtasks, queues and schedules - JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly&utm_medium=email) 
 - [Code Splitting - Async](https://webpack.js.org/guides/code-splitting-async/#dynamic-import-import-) 
+- [git - Commit without setting user.email and user.name - Stack Overflow](https://stackoverflow.com/questions/22058041/commit-without-setting-user-email-and-user-name/32794854#32794854) 

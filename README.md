@@ -369,3 +369,6 @@
 - [Tasks, microtasks, queues and schedules - JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly&utm_medium=email) 
 - [Code Splitting - Async](https://webpack.js.org/guides/code-splitting-async/#dynamic-import-import-) 
 - [git - Commit without setting user.email and user.name - Stack Overflow](https://stackoverflow.com/questions/22058041/commit-without-setting-user-email-and-user-name/32794854#32794854) 
+
+### June 27, 2017
+- [Use Higher Order Observables in RxJS Effectively - Course by @andrestaltz @eggheadio](https://egghead.io/courses/use-higher-order-observables-in-rxjs-effectively?utm_content=buffer93049&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 

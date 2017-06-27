@@ -373,3 +373,4 @@
 ### June 27, 2017
 - [Use Higher Order Observables in RxJS Effectively - Course by @andrestaltz @eggheadio](https://egghead.io/courses/use-higher-order-observables-in-rxjs-effectively?utm_content=buffer93049&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [Editor - CodeSandbox](https://codesandbox.io/s/new) 
+- [-webkit-background-clip:text CSS effect](https://codepen.io/Jintos/pen/crlxk) 

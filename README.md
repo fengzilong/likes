@@ -377,3 +377,4 @@
 
 ### June 28, 2017
 - [ECMAScript® 2018 Language Specification](https://tc39.github.io/ecma262/#sec-intro) 
+- [Fabulous macOS Tips & Tricks – 🦄 Sindre Sorhus’ blog](https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8) 

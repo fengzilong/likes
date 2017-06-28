@@ -374,3 +374,6 @@
 - [Use Higher Order Observables in RxJS Effectively - Course by @andrestaltz @eggheadio](https://egghead.io/courses/use-higher-order-observables-in-rxjs-effectively?utm_content=buffer93049&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [Editor - CodeSandbox](https://codesandbox.io/s/new) 
 - [-webkit-background-clip:text CSS effect](https://codepen.io/Jintos/pen/crlxk) 
+
+### June 28, 2017
+- [ECMAScript® 2018 Language Specification](https://tc39.github.io/ecma262/#sec-intro) 

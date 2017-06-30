@@ -381,3 +381,6 @@
 
 ### June 29, 2017
 - [Provider API · atom/autocomplete-plus Wiki](https://github.com/atom/autocomplete-plus/wiki/Provider-API) 
+
+### June 30, 2017
+- [Scoped Settings, Scopes and Scope Descriptors](http://flight-manual.atom.io/behind-atom/sections/scoped-settings-scopes-and-scope-descriptors/) 

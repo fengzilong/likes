@@ -384,3 +384,6 @@
 
 ### June 30, 2017
 - [Scoped Settings, Scopes and Scope Descriptors](http://flight-manual.atom.io/behind-atom/sections/scoped-settings-scopes-and-scope-descriptors/) 
+
+### July 2, 2017
+- [Babel 6: loose mode](http://2ality.com/2015/12/babel6-loose-mode.html) 

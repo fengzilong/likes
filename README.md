@@ -387,3 +387,6 @@
 
 ### July 2, 2017
 - [Babel 6: loose mode](http://2ality.com/2015/12/babel6-loose-mode.html) 
+
+### July 3, 2017
+- [Learn Git Branching](http://learngitbranching.js.org/) 

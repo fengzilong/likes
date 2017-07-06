@@ -393,3 +393,4 @@
 
 ### July 6, 2017
 - [(1 封私信)安装babel不就是为了使用es的所有新特性么，为什么还要弄个插件配置来说明我要用哪些新特性？ - 知乎](https://www.zhihu.com/question/61124018/answer/184718397) 
+- [如何看待 snabbdom 的作者开发的前端框架 Turbine 抛弃了虚拟DOM？ - 知乎](https://www.zhihu.com/question/59953136/answer/170705334) 

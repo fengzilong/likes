@@ -390,3 +390,6 @@
 
 ### July 3, 2017
 - [Learn Git Branching](http://learngitbranching.js.org/) 
+
+### July 6, 2017
+- [(1 封私信)安装babel不就是为了使用es的所有新特性么，为什么还要弄个插件配置来说明我要用哪些新特性？ - 知乎](https://www.zhihu.com/question/61124018/answer/184718397) 

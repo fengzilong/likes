@@ -399,3 +399,6 @@
 
 ### July 8, 2017
 - [Hyperthemes – Browse all Themes for Hyper(term)](https://hyperthemes.matthi.coffee/) 
+
+### July 9, 2017
+- [Page Loading Effects | Demo 3](https://tympanus.net/Development/PageLoadingEffects/index3.html) 

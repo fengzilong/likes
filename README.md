@@ -402,3 +402,6 @@
 
 ### July 9, 2017
 - [Page Loading Effects | Demo 3](https://tympanus.net/Development/PageLoadingEffects/index3.html) 
+
+### July 10, 2017
+- [How to keep up to date on Front-End Technologies - The Recipe](https://uptodate.frontendrescue.org/) 

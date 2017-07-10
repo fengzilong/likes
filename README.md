@@ -416,3 +416,4 @@
 - [Authentication in Single Page Applications With Angular.js](http://frederiknakstad.com/2013/01/21/authentication-in-single-page-applications-with-angular-js/) 
 - [Authentication in Single Page Applications with Angular.js Part 2](http://frederiknakstad.com/2013/08/04/authentication-in-single-page-applications-with-angular-js-part-2/) 
 - [fnakstad/angular-client-side-auth: One way to implement authentication/authorization in Angular applications](https://github.com/fnakstad/angular-client-side-auth) 
+- [draft-ietf-oauth-json-web-token-15 - JSON Web Token (JWT)](https://tools.ietf.org/html/draft-ietf-oauth-json-web-token-15#section-4.1.4) 

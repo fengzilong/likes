@@ -412,3 +412,4 @@
 - [Cookie-based Auth vs Token-based Auth - Google绘图](https://docs.google.com/drawings/d/1wtiF_UK2e4sZVorvfBUZh2UCaZq9sTCGoaDojSdwp7I/edit) 
 - [Cookies vs Tokens: The Definitive Guide](https://auth0.com/blog/cookies-vs-tokens-definitive-guide/) 
 - [Token-based Authentication with Socket.IO](https://auth0.com/blog/auth-with-socket-io/) 
+- [10 Things You Should Know about Tokens](https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/) 

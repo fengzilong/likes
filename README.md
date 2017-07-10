@@ -405,3 +405,6 @@
 
 ### July 10, 2017
 - [How to keep up to date on Front-End Technologies - The Recipe](https://uptodate.frontendrescue.org/) 
+
+### July 11, 2017
+- [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/angularjs-authentication-with-cookies-vs-token/) 

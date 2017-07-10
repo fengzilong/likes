@@ -408,3 +408,4 @@
 
 ### July 11, 2017
 - [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/angularjs-authentication-with-cookies-vs-token/) 
+- [auth0-blog/angular-token-auth: Token-based authentication in AngularJS](https://github.com/auth0-blog/angular-token-auth) 

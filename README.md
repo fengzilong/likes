@@ -413,3 +413,4 @@
 - [Cookies vs Tokens: The Definitive Guide](https://auth0.com/blog/cookies-vs-tokens-definitive-guide/) 
 - [Token-based Authentication with Socket.IO](https://auth0.com/blog/auth-with-socket-io/) 
 - [10 Things You Should Know about Tokens](https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/) 
+- [Authentication in Single Page Applications With Angular.js](http://frederiknakstad.com/2013/01/21/authentication-in-single-page-applications-with-angular-js/) 

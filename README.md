@@ -419,3 +419,4 @@
 - [draft-ietf-oauth-json-web-token-15 - JSON Web Token (JWT)](https://tools.ietf.org/html/draft-ietf-oauth-json-web-token-15#section-4.1.4) 
 - [Blacklist Based on User ID · Issue #300 · tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth/issues/300) 
 - [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) 
+- [[HELP] Issue Protecting Routes · Issue #117 · alexmingoia/koa-router](https://github.com/alexmingoia/koa-router/issues/117) 

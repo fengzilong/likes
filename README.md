@@ -429,3 +429,4 @@
 
 ### July 15, 2017
 - [TC39 Proposals](https://prop-tc39.now.sh/) 
+- [Concurrency model and Event Loop - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop) 

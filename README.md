@@ -432,3 +432,4 @@
 - [Concurrency model and Event Loop - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop) 
 - [gtor/presentation at master · kriskowal/gtor](https://github.com/kriskowal/gtor/tree/master/presentation) 
 - [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014 - YouTube](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [javascript - Is there a difference between event loop and task queue in browsers? - Stack Overflow](https://stackoverflow.com/questions/15093838/is-there-a-difference-between-event-loop-and-task-queue-in-browsers/29667590#29667590) 

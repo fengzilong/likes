@@ -434,3 +434,4 @@
 - [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014 - YouTube](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [javascript - Is there a difference between event loop and task queue in browsers? - Stack Overflow](https://stackoverflow.com/questions/15093838/is-there-a-difference-between-event-loop-and-task-queue-in-browsers/29667590#29667590) 
 - [latentflip.com/loupe/?code=Y29uc29sZS5sb2coIkhlbGxvLCB3b3JsZCEiKTsgIAo%3D!!!](http://latentflip.com/loupe/?code=Y29uc29sZS5sb2coIkhlbGxvLCB3b3JsZCEiKTsgIAo%3D!!!) 
+- [javascript - setTimeout and V8 - Stack Overflow](https://stackoverflow.com/questions/12335222/settimeout-and-v8/12338399#12338399) 

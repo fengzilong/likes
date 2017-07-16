@@ -442,3 +442,4 @@
 - [nodejs异步控制「co、async、Q 、『es6原生promise』、then.js、bluebird」有何优缺点？最爱哪个？哪个简单？ - 知乎](https://www.zhihu.com/question/25413141) 
 - [Promises: resolve is not the opposite of reject - JakeArchibald.com](https://jakearchibald.com/2014/resolve-not-opposite-of-reject/) 
 - [No promises: asynchronous JavaScript with only generators](http://2ality.com/2015/03/no-promises.html) 
+- [Async Functions](https://tc39.github.io/ecmascript-asyncawait/) 

@@ -458,3 +458,4 @@
 - [Excuse me？这个前端面试在搞事！ - 知乎专栏](https://zhuanlan.zhihu.com/p/25407758) 
 - [Tasks, microtasks, queues and schedules - JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) 
 - [javascript - Difference between microtask and macrotask within an event loop context - Stack Overflow](https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context#) 
+- [从Promise来看JavaScript中的Event Loop、Tasks和Microtasks · Issue #21 · creeperyang/blog](https://github.com/creeperyang/blog/issues/21) 

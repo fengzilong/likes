@@ -457,3 +457,4 @@
 - [Vue 中如何使用 MutationObserver 做批量处理？ - 知乎](https://www.zhihu.com/question/55364497/answer/144215284) 
 - [Excuse me？这个前端面试在搞事！ - 知乎专栏](https://zhuanlan.zhihu.com/p/25407758) 
 - [Tasks, microtasks, queues and schedules - JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) 
+- [javascript - Difference between microtask and macrotask within an event loop context - Stack Overflow](https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context#) 

@@ -452,3 +452,4 @@
 - [How is setTimeout implemented in node.js - Stack Overflow](https://stackoverflow.com/questions/13616102/how-is-settimeout-implemented-in-node-js/13616530#13616530) 
 - [如何阅读express代码呢？ · Issue #12 · yorkie/ama](https://github.com/yorkie/ama/issues/12) 
 - [proposal-observable/parser.js at master · tc39/proposal-observable](https://github.com/tc39/proposal-observable/blob/master/demo/parser.js) 
+- [怎样理解阻塞非阻塞与同步异步的区别？ - 知乎](https://www.zhihu.com/question/19732473/answer/20851256) 

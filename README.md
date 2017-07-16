@@ -445,3 +445,4 @@
 - [Async Functions](https://tc39.github.io/ecmascript-asyncawait/) 
 - [The Basics Of ES6 Generators](https://davidwalsh.name/es6-generators) 
 - [Diving Deeper With ES6 Generators](https://davidwalsh.name/es6-generators-dive) 
+- [Going Async With ES6 Generators](https://davidwalsh.name/async-generators) 

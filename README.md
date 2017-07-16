@@ -443,3 +443,4 @@
 - [Promises: resolve is not the opposite of reject - JakeArchibald.com](https://jakearchibald.com/2014/resolve-not-opposite-of-reject/) 
 - [No promises: asynchronous JavaScript with only generators](http://2ality.com/2015/03/no-promises.html) 
 - [Async Functions](https://tc39.github.io/ecmascript-asyncawait/) 
+- [The Basics Of ES6 Generators](https://davidwalsh.name/es6-generators) 

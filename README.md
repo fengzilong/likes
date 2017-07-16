@@ -447,3 +447,4 @@
 - [Diving Deeper With ES6 Generators](https://davidwalsh.name/es6-generators-dive) 
 - [Going Async With ES6 Generators](https://davidwalsh.name/async-generators) 
 - [Getting Concurrent With ES6 Generators](https://davidwalsh.name/concurrent-generators) 
+- [[timers] setImmediate executes after setTimeout · Issue #25788 · nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive/issues/25788) 

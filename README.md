@@ -455,3 +455,4 @@
 - [怎样理解阻塞非阻塞与同步异步的区别？ - 知乎](https://www.zhihu.com/question/19732473/answer/20851256) 
 - [JavaScript 运行机制详解：再谈Event Loop - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/10/event-loop.html) 
 - [Vue 中如何使用 MutationObserver 做批量处理？ - 知乎](https://www.zhihu.com/question/55364497/answer/144215284) 
+- [Excuse me？这个前端面试在搞事！ - 知乎专栏](https://zhuanlan.zhihu.com/p/25407758) 

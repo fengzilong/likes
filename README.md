@@ -459,3 +459,4 @@
 - [Tasks, microtasks, queues and schedules - JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) 
 - [javascript - Difference between microtask and macrotask within an event loop context - Stack Overflow](https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context#) 
 - [从Promise来看JavaScript中的Event Loop、Tasks和Microtasks · Issue #21 · creeperyang/blog](https://github.com/creeperyang/blog/issues/21) 
+- [【新手向】Node.js事件循环中的：Macrotask 与 Microtask - Node踩坑简史 - SegmentFault](https://segmentfault.com/a/1190000007710772) 

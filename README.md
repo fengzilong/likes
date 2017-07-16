@@ -453,3 +453,4 @@
 - [如何阅读express代码呢？ · Issue #12 · yorkie/ama](https://github.com/yorkie/ama/issues/12) 
 - [proposal-observable/parser.js at master · tc39/proposal-observable](https://github.com/tc39/proposal-observable/blob/master/demo/parser.js) 
 - [怎样理解阻塞非阻塞与同步异步的区别？ - 知乎](https://www.zhihu.com/question/19732473/answer/20851256) 
+- [JavaScript 运行机制详解：再谈Event Loop - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/10/event-loop.html) 

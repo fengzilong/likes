@@ -465,3 +465,4 @@
 ### July 17, 2017
 - [Understanding the Node.js Event Loop - NodeSource](https://nodesource.com/blog/understanding-the-nodejs-event-loop/) 
 - [Callbacks vs Coroutines – TJ Holowaychuk – Medium](https://medium.com/@tjholowaychuk/callbacks-vs-coroutines-174f1fe66127) 
+- [Generator 函数 - ECMAScript 6 入门 - 极客学院Wiki](http://wiki.jikexueyuan.com/project/es6/generator.html) 

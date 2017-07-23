@@ -477,3 +477,4 @@
 ### July 23, 2017 
 - [Twitter Emoji (Twemoji) Preview](https://twitter.github.io/twemoji/preview.html) 
 - [XMLHttpRequest.withCredentials - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/withCredentials) 
+- [前端跨域问题及解决方案 · Issue #2 · wengjq/Blog](https://github.com/wengjq/Blog/issues/2) 

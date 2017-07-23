@@ -478,3 +478,4 @@
 - [Twitter Emoji (Twemoji) Preview](https://twitter.github.io/twemoji/preview.html) 
 - [XMLHttpRequest.withCredentials - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/withCredentials) 
 - [前端跨域问题及解决方案 · Issue #2 · wengjq/Blog](https://github.com/wengjq/Blog/issues/2) 
+- [Secure a Koa API With a JWT Token - Theodo](https://www.theodo.fr/blog/2016/11/securize-a-koa-api-with-a-jwt-token/) 

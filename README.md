@@ -485,3 +485,6 @@
 - [javascript - koa-router not working with generator - Stack Overflow](https://stackoverflow.com/questions/40392605/koa-router-not-working-with-generator/40440100#40440100) 
 - [Introduction to RxJS Marble Testing from @btroncone on @eggheadio](https://egghead.io/lessons/rxjs-introduction-to-rxjs-marble-testing) 
 - [RxMarbles: Interactive diagrams of Rx Observables](http://rxmarbles.com/#concat) 
+
+### July 25, 2017 
+- [Mongoose docs encourage storing timezone-specific Dates on server, which is harmful · Issue #2258 · Automattic/mongoose](https://github.com/Automattic/mongoose/issues/2258) 

@@ -488,3 +488,4 @@
 
 ### July 25, 2017 
 - [Mongoose docs encourage storing timezone-specific Dates on server, which is harmful · Issue #2258 · Automattic/mongoose](https://github.com/Automattic/mongoose/issues/2258) 
+- [Dealing with line endings - User Documentation](https://help.github.com/articles/dealing-with-line-endings/) 

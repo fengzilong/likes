@@ -494,3 +494,4 @@
 
 ### July 26, 2017 
 - [A result of .find() has no method 'toObject' · Issue #2396 · Automattic/mongoose](https://github.com/Automattic/mongoose/issues/2396) 
+- [node.js - MongoDB: output 'id' instead of '_id' - Stack Overflow](https://stackoverflow.com/questions/7034848/mongodb-output-id-instead-of-id/21310130#21310130) 

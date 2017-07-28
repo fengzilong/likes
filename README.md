@@ -496,3 +496,6 @@
 - [A result of .find() has no method 'toObject' · Issue #2396 · Automattic/mongoose](https://github.com/Automattic/mongoose/issues/2396) 
 - [node.js - MongoDB: output 'id' instead of '_id' - Stack Overflow](https://stackoverflow.com/questions/7034848/mongodb-output-id-instead-of-id/21310130#21310130) 
 - [Mongoose API v4.11.4 - document_Document-toObject](http://mongoosejs.com/docs/api.html#document_Document-toObject) 
+
+### July 29, 2017 
+- [Netlify: All-in-one platform for automating modern web projects](https://www.netlify.com/) 

@@ -499,3 +499,6 @@
 
 ### July 29, 2017 
 - [Netlify: All-in-one platform for automating modern web projects](https://www.netlify.com/) 
+
+### July 31, 2017 
+- [Base64 Encode of 1x1px Transparent GIF | CSS-Tricks](https://css-tricks.com/snippets/html/base64-encode-of-1x1px-transparent-gif/) 

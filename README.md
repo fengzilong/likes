@@ -503,3 +503,4 @@
 ### July 31, 2017 
 - [Base64 Encode of 1x1px Transparent GIF | CSS-Tricks](https://css-tricks.com/snippets/html/base64-encode-of-1x1px-transparent-gif/) 
 - [node.js hash string? - Stack Overflow](https://stackoverflow.com/questions/5878682/node-js-hash-string/11869589#11869589) 
+- [request库使用时, gb2312、GBK中文乱码解决方法 - CNode技术社区](https://cnodejs.org/topic/53142ef833dbcb076d007230#5314871f09549ffc6e015aa0) 

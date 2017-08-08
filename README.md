@@ -512,3 +512,6 @@
 ### August 3, 2017 
 - [unload - Event reference | MDN](https://developer.mozilla.org/en-US/docs/Web/Events/unload) 
 - [html5 - Javascript trick for 'paste as plain text` in execCommand - Stack Overflow](https://stackoverflow.com/questions/12027137/javascript-trick-for-paste-as-plain-text-in-execcommand) 
+
+### August 8, 2017 
+- [Getting Started with Headless Chrome  |  Web  |  Google Developers](https://developers.google.com/web/updates/2017/04/headless-chrome) 

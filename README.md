@@ -521,3 +521,4 @@
 - [Instant Loading Web Apps With An Application Shell Architecture](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73) 
 - [枸杞的由来和技术栈 · Issue #1 · yuche/gouqi](https://github.com/yuche/gouqi/issues/1) 
 - [单元测试 - 为企业级框架和应用而生](https://eggjs.org/zh-cn/core/unittest.html) 
+- [Unlocking Test Performance — Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50) 

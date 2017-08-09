@@ -519,3 +519,4 @@
 
 ### August 9, 2017 
 - [Instant Loading Web Apps With An Application Shell Architecture](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73) 
+- [枸杞的由来和技术栈 · Issue #1 · yuche/gouqi](https://github.com/yuche/gouqi/issues/1) 

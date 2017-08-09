@@ -522,3 +522,6 @@
 - [枸杞的由来和技术栈 · Issue #1 · yuche/gouqi](https://github.com/yuche/gouqi/issues/1) 
 - [单元测试 - 为企业级框架和应用而生](https://eggjs.org/zh-cn/core/unittest.html) 
 - [Unlocking Test Performance — Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50) 
+
+### August 10, 2017 
+- [Package a module for npm in CommonJS/ES2015/UMD with babel and rollup | Topheman JS](http://dev.topheman.com/package-a-module-for-npm-in-commonjs-es2015-umd-with-babel-and-rollup/) 

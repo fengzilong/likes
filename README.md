@@ -537,3 +537,6 @@
 - [ES6 In Depth: Iterators and the for-of loop ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2015/04/es6-in-depth-iterators-and-the-for-of-loop/) 
 - [Iteration protocols - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols) 
 - [Iterables and iterators in ECMAScript 6](http://2ality.com/2015/02/es6-iteration.html) 
+
+### August 12, 2017 
+- [Take page screenshot · cyrus-and/chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki/Take-page-screenshot) 

@@ -533,3 +533,4 @@
 - [Vue 2.0 为什么选用 Flow 进行静态代码检查而不是直接使用 TypeScript？ - 知乎](https://www.zhihu.com/question/46397274) 
 - [Symbol.iterator - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator) 
 - [An Introduction to JavaScript ES6 Iterators - Node.js @ IBM](https://developer.ibm.com/node/2015/07/16/introduction-to-es6-iterators/) 
+- [ES6, ES2015 : Iteration protocol](http://putaindecode.io/en/articles/js/es2015/iterators/) 

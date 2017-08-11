@@ -528,3 +528,6 @@
 - [ES6 Let, Const and the “Temporal Dead Zone” (TDZ) in Depth](https://ponyfoo.com/articles/es6-let-const-and-temporal-dead-zone-in-depth) 
 - [ES6 Iterators in Depth](https://ponyfoo.com/articles/es6-iterators-in-depth) 
 - [The State of Design Tooling & React](http://jxnblk.com/react-design-tooling/) 
+
+### August 11, 2017 
+- [Vue 2.0 为什么选用 Flow 进行静态代码检查而不是直接使用 TypeScript？ - 知乎](https://www.zhihu.com/question/46397274) 

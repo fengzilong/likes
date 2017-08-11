@@ -535,3 +535,4 @@
 - [An Introduction to JavaScript ES6 Iterators - Node.js @ IBM](https://developer.ibm.com/node/2015/07/16/introduction-to-es6-iterators/) 
 - [ES6, ES2015 : Iteration protocol](http://putaindecode.io/en/articles/js/es2015/iterators/) 
 - [ES6 In Depth: Iterators and the for-of loop ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2015/04/es6-in-depth-iterators-and-the-for-of-loop/) 
+- [Iteration protocols - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols) 

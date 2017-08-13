@@ -545,3 +545,6 @@
 
 ### August 13, 2017 
 - [RFC: Use <slot> instead of {{yield}} · Issue #763 · sveltejs/svelte](https://github.com/sveltejs/svelte/issues/763) 
+
+### August 14, 2017 
+- [Glossary | MDN](https://developer.mozilla.org/en-US/docs/Glossary) 

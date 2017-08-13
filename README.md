@@ -550,3 +550,4 @@
 - [Glossary | MDN](https://developer.mozilla.org/en-US/docs/Glossary) 
 - [ECMAScript 2015 Language Specification – ECMA-262 6th Edition](http://www.ecma-international.org/ecma-262/6.0/#sec-well-known-symbols) 
 - [JavaScript data types and data structures - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) 
+- [Symbol - Glossary | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Symbol) 

@@ -542,3 +542,6 @@
 - [Take page screenshot · cyrus-and/chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki/Take-page-screenshot) 
 - [Using headless Chrome as an automated screenshot tool](https://medium.com/@dschnr/using-headless-chrome-as-an-automated-screenshot-tool-4b07dffba79a?1) 
 - [Chrome DevTools Protocol Viewer - Page](https://chromedevtools.github.io/devtools-protocol/tot/Page/#method-captureScreenshot) 
+
+### August 13, 2017 
+- [RFC: Use <slot> instead of {{yield}} · Issue #763 · sveltejs/svelte](https://github.com/sveltejs/svelte/issues/763) 

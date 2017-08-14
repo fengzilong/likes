@@ -552,3 +552,4 @@
 - [JavaScript data types and data structures - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) 
 - [Symbol - Glossary | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Symbol) 
 - [Chrome DevTools for Mobile: Screencast and Emulation - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/developertools/mobile/) 
+- [Dev Tips - Developer Tips by Umar Hansa](https://umaar.com/dev-tips/) 

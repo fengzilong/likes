@@ -553,3 +553,4 @@
 - [Symbol - Glossary | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Symbol) 
 - [Chrome DevTools for Mobile: Screencast and Emulation - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/developertools/mobile/) 
 - [Dev Tips - Developer Tips by Umar Hansa](https://umaar.com/dev-tips/) 
+- [git分支管理规范 · Issue #283 · ecomfe/edp](https://github.com/ecomfe/edp/issues/283) 

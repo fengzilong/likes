@@ -554,3 +554,6 @@
 - [Chrome DevTools for Mobile: Screencast and Emulation - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/developertools/mobile/) 
 - [Dev Tips - Developer Tips by Umar Hansa](https://umaar.com/dev-tips/) 
 - [git分支管理规范 · Issue #283 · ecomfe/edp](https://github.com/ecomfe/edp/issues/283) 
+
+### August 15, 2017 
+- [ES proposal: Rest/Spread Properties](http://2ality.com/2016/10/rest-spread-properties.html) 

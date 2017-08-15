@@ -562,3 +562,4 @@
 - [The TC39 process for ECMAScript features](http://2ality.com/2015/11/tc39-process.html) 
 - [tc39/proposals: Tracking ECMAScript Proposals](https://github.com/tc39/proposals) 
 - [Air/shots – Airbnb Design](https://airbnb.design/airshots-discovering-a-workflow-for-app-screenshots/) 
+- [The Way We Build – Airbnb Design](https://airbnb.design/the-way-we-build/) 

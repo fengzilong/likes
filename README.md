@@ -561,3 +561,4 @@
 - [ecmascript 6 - Using spread operator multiple times in javascript? - Stack Overflow](https://stackoverflow.com/questions/35019557/using-spread-operator-multiple-times-in-javascript) 
 - [The TC39 process for ECMAScript features](http://2ality.com/2015/11/tc39-process.html) 
 - [tc39/proposals: Tracking ECMAScript Proposals](https://github.com/tc39/proposals) 
+- [Air/shots – Airbnb Design](https://airbnb.design/airshots-discovering-a-workflow-for-app-screenshots/) 

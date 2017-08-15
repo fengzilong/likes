@@ -557,3 +557,4 @@
 
 ### August 15, 2017 
 - [ES proposal: Rest/Spread Properties](http://2ality.com/2016/10/rest-spread-properties.html) 
+- [javascript - Array.from() vs spread syntax - Stack Overflow](https://stackoverflow.com/questions/40548213/array-from-vs-spread-syntax) 

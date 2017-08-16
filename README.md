@@ -568,3 +568,4 @@
 - [Building a Visual Language – Airbnb Design](https://airbnb.design/building-a-visual-language/) 
 - [Designer News](https://www.designernews.co/) 
 - [java - Iterator vs for - Stack Overflow](https://stackoverflow.com/questions/22267919/iterator-vs-for/22269332#22269332) 
+- [Generator - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator) 

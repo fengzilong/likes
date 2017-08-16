@@ -563,3 +563,6 @@
 - [tc39/proposals: Tracking ECMAScript Proposals](https://github.com/tc39/proposals) 
 - [Air/shots – Airbnb Design](https://airbnb.design/airshots-discovering-a-workflow-for-app-screenshots/) 
 - [The Way We Build – Airbnb Design](https://airbnb.design/the-way-we-build/) 
+
+### August 16, 2017 
+- [Building a Visual Language – Airbnb Design](https://airbnb.design/building-a-visual-language/) 

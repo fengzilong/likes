@@ -572,3 +572,6 @@
 
 ### August 17, 2017 
 - [Generator (computer programming) - Wikipedia](https://en.wikipedia.org/wiki/Generator_(computer_programming)#ECMAScript) 
+
+### August 19, 2017 
+- [javascript - What is SpreadElement in ECMAScript documentation? Is it the same as Spread operator at MDN? - Stack Overflow](https://stackoverflow.com/questions/37151966/what-is-spreadelement-in-ecmascript-documentation-is-it-the-same-as-spread-oper/37152508#37152508) 

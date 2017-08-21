@@ -578,3 +578,4 @@
 
 ### August 21, 2017 
 - [What Are Progressive Web AMPs? – Smashing Magazine](https://www.smashingmagazine.com/2016/12/progressive-web-amps/) 
+- [How AMP Works – AMP](https://www.ampproject.org/learn/about-how/) 

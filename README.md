@@ -575,3 +575,6 @@
 
 ### August 19, 2017 
 - [javascript - What is SpreadElement in ECMAScript documentation? Is it the same as Spread operator at MDN? - Stack Overflow](https://stackoverflow.com/questions/37151966/what-is-spreadelement-in-ecmascript-documentation-is-it-the-same-as-spread-oper/37152508#37152508) 
+
+### August 21, 2017 
+- [What Are Progressive Web AMPs? – Smashing Magazine](https://www.smashingmagazine.com/2016/12/progressive-web-amps/) 

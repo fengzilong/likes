@@ -582,3 +582,4 @@
 - [Everything You Need To Know About Google's Accelerated Mobile Pages – Smashing Magazine](https://www.smashingmagazine.com/2016/02/everything-about-google-accelerated-mobile-pages/) 
 - [amp-img (Built-in) – AMP](https://www.ampproject.org/zh_cn/docs/reference/components/amp-img) 
 - [Top-down parsing - Wikipedia](https://en.wikipedia.org/wiki/Top-down_parsing) 
+- [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3) 

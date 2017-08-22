@@ -587,3 +587,6 @@
 - [How we built Twitter Lite](https://blog.twitter.com/engineering/en_us/topics/open-source/2017/how-we-built-twitter-lite.html) 
 - [PRPL 模式  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) 
 - [改造你的网站，变身 PWA - 闻醉 - SegmentFault](https://segmentfault.com/a/1190000008880637) 
+
+### August 22, 2017 
+- [svelte/directives.ts · sveltejs/svelte / read string](https://github.com/sveltejs/svelte/blob/aa59dafb8122df0c9218644089248c6333b06693/src/parse/read/directives.ts#L6-L32) 

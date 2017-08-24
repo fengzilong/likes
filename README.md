@@ -590,3 +590,6 @@
 
 ### August 22, 2017 
 - [svelte/directives.ts · sveltejs/svelte / read string](https://github.com/sveltejs/svelte/blob/aa59dafb8122df0c9218644089248c6333b06693/src/parse/read/directives.ts#L6-L32) 
+
+### August 24, 2017 
+- [loader order](https://webpack.github.io/docs/loaders.html#loader-order) 

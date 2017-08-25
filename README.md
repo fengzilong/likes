@@ -593,3 +593,6 @@
 
 ### August 24, 2017 
 - [loader order](https://webpack.github.io/docs/loaders.html#loader-order) 
+
+### August 25, 2017 
+- [exports 和 module.exports 的区别 - CNode技术社区](https://cnodejs.org/topic/5231a630101e574521e45ef8) 

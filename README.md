@@ -601,3 +601,4 @@
 - [React Virtual DOM vs Incremental DOM vs Ember’s Glimmer: Fight](https://auth0.com/blog/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/) 
 - [Minimum viable view library, part I](https://freezer.js.org/minimum-viable-view-library/) 
 - [Performance Calendar » React’s diff algorithm](https://calendar.perfplanet.com/2013/diff/) 
+- [简洁清晰的virtual dom实现：snabbdom源码阅读 - 简书](http://www.jianshu.com/p/b461657e49c0) 

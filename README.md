@@ -599,3 +599,4 @@
 
 ### August 26, 2017 
 - [React Virtual DOM vs Incremental DOM vs Ember’s Glimmer: Fight](https://auth0.com/blog/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/) 
+- [Minimum viable view library, part I](https://freezer.js.org/minimum-viable-view-library/) 

@@ -596,3 +596,6 @@
 
 ### August 25, 2017 
 - [exports 和 module.exports 的区别 - CNode技术社区](https://cnodejs.org/topic/5231a630101e574521e45ef8) 
+
+### August 26, 2017 
+- [React Virtual DOM vs Incremental DOM vs Ember’s Glimmer: Fight](https://auth0.com/blog/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/) 

@@ -602,3 +602,6 @@
 - [Minimum viable view library, part I](https://freezer.js.org/minimum-viable-view-library/) 
 - [Performance Calendar » React’s diff algorithm](https://calendar.perfplanet.com/2013/diff/) 
 - [简洁清晰的virtual dom实现：snabbdom源码阅读 - 简书](http://www.jianshu.com/p/b461657e49c0) 
+
+### August 28, 2017 
+- [运算符优先级 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence) 

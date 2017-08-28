@@ -606,3 +606,4 @@
 ### August 28, 2017 
 - [运算符优先级 - JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence) 
 - [Vue 2.0 的 virtual-dom 实现简析 · Issue #18 · DDFE/DDFE-blog](https://github.com/DDFE/DDFE-blog/issues/18) 
+- [Dive into Vue.js - 知乎专栏](https://zhuanlan.zhihu.com/p/25869382) 

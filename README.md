@@ -612,3 +612,6 @@
 ### August 29, 2017 
 - [<slot> can be nested · Issue #790 · sveltejs/svelte](https://github.com/sveltejs/svelte/issues/790) 
 - [GOTO 2016 • The Return of Stream I/O • Andre 'Staltz' Medeiros - YouTube](https://www.youtube.com/watch?v=Tkjg179M-Nc) 
+
+### August 30, 2017 
+- [Creating a parallel, offline, extensible, browser based bundler for CodeSandbox](https://hackernoon.com/how-i-created-a-parallel-offline-extensible-browser-based-bundler-886db508cc31) 

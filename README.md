@@ -608,3 +608,6 @@
 - [Vue 2.0 的 virtual-dom 实现简析 · Issue #18 · DDFE/DDFE-blog](https://github.com/DDFE/DDFE-blog/issues/18) 
 - [Dive into Vue.js - 知乎专栏](https://zhuanlan.zhihu.com/p/25869382) 
 - [JavaScript Errors and Stack Traces in Depth](http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html) 
+
+### August 29, 2017 
+- [<slot> can be nested · Issue #790 · sveltejs/svelte](https://github.com/sveltejs/svelte/issues/790) 

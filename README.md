@@ -615,3 +615,6 @@
 
 ### August 30, 2017 
 - [Creating a parallel, offline, extensible, browser based bundler for CodeSandbox](https://hackernoon.com/how-i-created-a-parallel-offline-extensible-browser-based-bundler-886db508cc31) 
+
+### August 31, 2017 
+- [0.8.0 breaks svg sprite · Issue #1153 · facebookincubator/create-react-app](https://github.com/facebookincubator/create-react-app/issues/1153) 

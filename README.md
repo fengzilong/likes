@@ -619,3 +619,6 @@
 ### August 31, 2017 
 - [0.8.0 breaks svg sprite · Issue #1153 · facebookincubator/create-react-app](https://github.com/facebookincubator/create-react-app/issues/1153) 
 - [How SVG Fragment Identifiers Work | CSS-Tricks](https://css-tricks.com/svg-fragment-identifiers-work/) 
+
+### September 1, 2017 
+- [Aerotwist - FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/) 

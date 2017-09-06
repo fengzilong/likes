@@ -625,3 +625,4 @@
 
 ### September 6, 2017 
 - [delapuente/service-workers-101: An infographic to summarize the most important parts of the Service Workers' API](https://github.com/delapuente/service-workers-101) 
+- [XMLHttpRequest.getResponseHeader() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/getResponseHeader) 

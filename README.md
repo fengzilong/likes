@@ -622,3 +622,6 @@
 
 ### September 1, 2017 
 - [Aerotwist - FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/) 
+
+### September 6, 2017 
+- [delapuente/service-workers-101: An infographic to summarize the most important parts of the Service Workers' API](https://github.com/delapuente/service-workers-101) 

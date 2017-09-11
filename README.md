@@ -630,3 +630,6 @@
 ### September 8, 2017 
 - [Prevent Body Scrolling](https://davidwalsh.name/prevent-body-scrolling) 
 - [jquery - Trigger click on input=file on asynchronous ajax done() - Stack Overflow](https://stackoverflow.com/questions/29728705/trigger-click-on-input-file-on-asynchronous-ajax-done/43719739#43719739) 
+
+### September 11, 2017 
+- [[Feature Request] Make moduleId's hash from project root · Issue #613 · vuejs/vue-loader](https://github.com/vuejs/vue-loader/issues/613) 

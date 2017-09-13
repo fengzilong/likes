@@ -637,3 +637,4 @@
 
 ### September 13, 2017 
 - [A Practical Guide to SVGs on the web](https://svgontheweb.com/#implementation) 
+- [Atticus White 的 Twitter: “🤔💡#JavaScript Tip -- type ".editor" in your node REPL for multiline support, and hit ^D to execute. Thanks @ccpmark for this find! 🎉 https://t.co/l7EnUQxpJM”](https://twitter.com/atticoos/status/893496002933657600) 

@@ -643,3 +643,6 @@
 
 ### September 15, 2017 
 - [css预处理器 - 老调新弹](http://leeluolee.github.io/css-conf/#/) 
+
+### September 18, 2017 
+- [Use standard JS classes instead of custom syntax? · Issue #2371 · vuejs/vue](https://github.com/vuejs/vue/issues/2371#issuecomment-330068362) 

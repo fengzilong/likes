@@ -653,3 +653,4 @@
 - [〽️artypd⚔ 的 Twitter: “@robocell @mipearson @dan_abramov @copyconstruct Issue isn't size of function, its dealing with loss of cohesiveness that comes with small functions.”](https://twitter.com/martypdx/status/909448370199990272) 
 - [Matt Phillips 的 Twitter: “@dan_abramov @copyconstruct SRP, testability & composition are 3 reasons to keep fns small. Use fns as reusable components like React & compose them together see #ramda”](https://twitter.com/mattphillipsio/status/909402343019569152) 
 - [Dan Abramov 的 Twitter: “@copyconstruct I’m not suggesting always writing large blobs of code. Be critical. Are you extracting to make things simpler, or to conceal the complexity?”](https://twitter.com/dan_abramov/status/909399889091682304) 
+- [question about setstate · Issue #10708 · facebook/react](https://github.com/facebook/react/issues/10708#issuecomment-329443706) 

@@ -655,4 +655,4 @@
 - [Dan Abramov 的 Twitter: “@copyconstruct I’m not suggesting always writing large blobs of code. Be critical. Are you extracting to make things simpler, or to conceal the complexity?”](https://twitter.com/dan_abramov/status/909399889091682304) 
 - [How do you update a nested object without mutating it](https://github.com/facebook/react/issues/10708#issuecomment-329443706) 
 - [Dan Abramov 的 Twitter: “How do you update a nested object without mutating it? My answer: https://t.co/K8oknMHgfY https://t.co/iVCIlIo7MR”](https://twitter.com/dan_abramov/status/908279264025497600) 
-- [Reactive.how - Learn reactive programming with animated cards](http://reactive.how/#subscribe) 
+- [Reactive.how - Learn reactive programming with animated cards](http://reactive.how/) 

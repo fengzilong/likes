@@ -649,3 +649,4 @@
 - [add hasCrashed function to determin whether the code has minified or not by loatheb · Pull Request #6631 · vuejs/vue](https://github.com/vuejs/vue/pull/6631#issuecomment-330066919) 
 - [Small Functions considered Harmful – Cindy Sridharan – Medium](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29) 
 - [[译]方法的长度 – Bu・log](https://yaowenjie.github.io/coding/function-length) 
+- [coding style - The Stepdown Rule in Clean Code - Stack Overflow](https://stackoverflow.com/questions/18266821/the-stepdown-rule-in-clean-code) 

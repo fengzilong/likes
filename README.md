@@ -651,3 +651,4 @@
 - [[译]方法的长度 – Bu・log](https://yaowenjie.github.io/coding/function-length) 
 - [coding style - The Stepdown Rule in Clean Code - Stack Overflow](https://stackoverflow.com/questions/18266821/the-stepdown-rule-in-clean-code) 
 - [〽️artypd⚔ 的 Twitter: “@robocell @mipearson @dan_abramov @copyconstruct Issue isn't size of function, its dealing with loss of cohesiveness that comes with small functions.”](https://twitter.com/martypdx/status/909448370199990272) 
+- [Matt Phillips 的 Twitter: “@dan_abramov @copyconstruct SRP, testability & composition are 3 reasons to keep fns small. Use fns as reusable components like React & compose them together see #ramda”](https://twitter.com/mattphillipsio/status/909402343019569152) 

@@ -646,3 +646,4 @@
 
 ### September 18, 2017 
 - [Use standard JS classes instead of custom syntax? · Issue #2371 · vuejs/vue](https://github.com/vuejs/vue/issues/2371#issuecomment-330068362) 
+- [add hasCrashed function to determin whether the code has minified or not by loatheb · Pull Request #6631 · vuejs/vue](https://github.com/vuejs/vue/pull/6631#issuecomment-330066919) 

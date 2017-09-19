@@ -667,3 +667,4 @@
 
 ### September 20, 2017 
 - [One simple trick for JavaScript package maintainers to avoid breaking their user’s software and to…](https://blog.greenkeeper.io/one-simple-trick-for-javascript-package-maintainers-to-avoid-breaking-their-user-s-software-and-to-6edf06dc5617) 
+- [One simple trick for JavaScript package maintainers to avoid breaking their user’s software and to…](https://blog.greenkeeper.io/one-simple-trick-for-javascript-package-maintainers-to-avoid-breaking-their-user-s-software-and-to-6edf06dc5617) 

@@ -662,3 +662,4 @@
 - [CSS 高级布局技巧 · Issue #14 · sorrycc/blog](https://github.com/sorrycc/blog/issues/14) 
 - [Electron 应用实战 (架构篇) · Issue #13 · sorrycc/blog](https://github.com/sorrycc/blog/issues/13) 
 - [RFC: Remove support for `browser` field and ?main at "bare" URLs · Issue #63 · unpkg/unpkg-website](https://github.com/unpkg/unpkg-website/issues/63) 
+- [defunctzombie/package-browser-field-spec: Spec document for the 'browser' field in package.json](https://github.com/defunctzombie/package-browser-field-spec) 

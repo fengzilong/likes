@@ -671,3 +671,4 @@
 
 ### September 22, 2017 
 - [node-github](http://mikedeboer.github.io/node-github/) 
+- [GitHub API v3 | GitHub Developer Guide](https://developer.github.com/v3/) 

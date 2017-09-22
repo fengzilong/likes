@@ -668,3 +668,6 @@
 ### September 20, 2017 
 - [One simple trick for JavaScript package maintainers to avoid breaking their user’s software and to…](https://blog.greenkeeper.io/one-simple-trick-for-javascript-package-maintainers-to-avoid-breaking-their-user-s-software-and-to-6edf06dc5617)
 - ["latest" version is most recently released, not the highest version · Issue #89 · npm/www](https://github.com/npm/www/issues/89#issuecomment-268575735) 
+
+### September 22, 2017 
+- [node-github](http://mikedeboer.github.io/node-github/) 

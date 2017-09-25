@@ -676,3 +676,4 @@
 
 ### September 25, 2017 
 - [webpack Migrating Versions](https://webpack.js.org/guides/migrating/) 
+- [pkg.module · rollup/rollup Wiki](https://github.com/rollup/rollup/wiki/pkg.module) 

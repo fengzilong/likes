@@ -681,3 +681,4 @@
 ### September 26, 2017 
 - [Auto-deploying built products to gh-pages with Travis](https://gist.github.com/domenic/ec8b0fc8ab45f39403dd) 
 - [zones/deploy.sh at master · domenic/zones](https://github.com/domenic/zones/blob/master/deploy.sh) 
+- [Deploying ES2015+ Code in Production Today — Philip Walton](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/) 

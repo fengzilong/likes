@@ -677,3 +677,6 @@
 ### September 25, 2017 
 - [webpack Migrating Versions](https://webpack.js.org/guides/migrating/) 
 - [pkg.module · rollup/rollup Wiki](https://github.com/rollup/rollup/wiki/pkg.module) 
+
+### September 26, 2017 
+- [Auto-deploying built products to gh-pages with Travis](https://gist.github.com/domenic/ec8b0fc8ab45f39403dd) 

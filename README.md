@@ -683,3 +683,6 @@
 - [zones/deploy.sh at master · domenic/zones](https://github.com/domenic/zones/blob/master/deploy.sh) 
 - [Deploying ES2015+ Code in Production Today — Philip Walton](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/) 
 - [Sam Saccone 的 Twitter: “In September 2017 <script type="module"> and async imports === how to make really really slow websites 🐢 please still compile your code.”](https://twitter.com/samccone/status/905875254693777409) 
+
+### September 29, 2017 
+- [GoogleChrome/essential-image-optimization: Essential Image Optimization - an eBook](https://github.com/GoogleChrome/essential-image-optimization) 

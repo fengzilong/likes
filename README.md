@@ -690,3 +690,4 @@
 ### October 1, 2017 
 - [Use Yarn Workspaces by hzoo · Pull Request #6056 · babel/babel](https://github.com/babel/babel/pull/6056) 
 - [The zen of Just Writing CSS](https://svelte.technology/blog/the-zen-of-just-writing-css) 
+- [React FAQ](https://reactfaq.site/) 

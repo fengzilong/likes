@@ -693,3 +693,4 @@
 - [React FAQ](https://reactfaq.site/) 
 - [refiddle正则](http://refiddle.com/) 
 - [Element Screenshots - Chrome DevTools - Dev Tips](https://umaar.com/dev-tips/156-element-screenshot/) 
+- [Typing import statements more quickly](http://2ality.com/2017/08/typing-import-statements.html) 

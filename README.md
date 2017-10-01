@@ -686,3 +686,6 @@
 
 ### September 29, 2017 
 - [GoogleChrome/essential-image-optimization: Essential Image Optimization - an eBook](https://github.com/GoogleChrome/essential-image-optimization) 
+
+### October 1, 2017 
+- [Use Yarn Workspaces by hzoo · Pull Request #6056 · babel/babel](https://github.com/babel/babel/pull/6056) 

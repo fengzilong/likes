@@ -707,3 +707,4 @@
 - [美团外卖前端可视化界面组装平台 —— 乐高 -](https://tech.meituan.com/waimai-lego.html) 
 - [前端感官性能的衡量和优化实践 -](https://tech.meituan.com/Optimization_of_front_end_sensory_properties.html) 
 - [Latest contributions from Ilya Grigorik  |  Web  |  Google Developers](https://developers.google.com/web/resources/contributors/ilyagrigorik) 
+- [dbrock/semver-howto: Simple guide to using semantic versioning](https://github.com/dbrock/semver-howto) 

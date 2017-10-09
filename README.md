@@ -702,3 +702,4 @@
 - [Conditional loading of resources with mediaqueries | Christian Heilmann](https://christianheilmann.com/2012/12/19/conditional-loading-of-resources-with-mediaqueries/) 
 - [CSS files with media queries](http://vanillawebdiet.com/demos/conditional-mediaqueries-loading/conditional-loading-fail.html) 
 - [Render-Blocking Resources  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/lighthouse/audits/blocking-resources) 
+- [Analyzing Critical Rendering Path Performance  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp) 

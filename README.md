@@ -712,3 +712,4 @@
 
 ### October 18, 2017 
 - [JSTracker：前端异常数据采集 | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2015/10/28/jstracker-how-to-collect-data/) 
+- [try catch 对代码运行的性能影响 | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2015/10/28/try-catch-runing-problem/) 

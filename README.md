@@ -719,3 +719,4 @@
 - [Niffy: Perceptual Diffing to Catch Invisible Bugs · Segment Blog](https://segment.com/blog/perceptual-diffing-with-niffy/) 
 - [How To Install and Use Docker Compose on Ubuntu 14.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-14-04) 
 - [How To Install Wordpress and PhpMyAdmin with Docker Compose on Ubuntu 14.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04) 
+- [谁可以简单介绍一下docker到底是干什么用的？ - SegmentFault](https://segmentfault.com/q/1010000007381706?_ea=1349233) 

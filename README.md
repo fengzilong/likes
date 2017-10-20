@@ -715,4 +715,4 @@
 - [try catch 对代码运行的性能影响 | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2015/10/28/try-catch-runing-problem/) 
 
 ### October 20, 2017 
-- [react-basic/README.md at master · reactjs/react-basic](https://github.com/reactjs/react-basic/blob/master/README.md) 
+- [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic/blob/master/README.md) 

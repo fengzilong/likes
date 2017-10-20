@@ -716,3 +716,4 @@
 
 ### October 20, 2017 
 - [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic/blob/master/README.md) 
+- [Niffy: Perceptual Diffing to Catch Invisible Bugs · Segment Blog](https://segment.com/blog/perceptual-diffing-with-niffy/) 

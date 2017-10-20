@@ -718,3 +718,4 @@
 - [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic/blob/master/README.md) 
 - [Niffy: Perceptual Diffing to Catch Invisible Bugs · Segment Blog](https://segment.com/blog/perceptual-diffing-with-niffy/) 
 - [How To Install and Use Docker Compose on Ubuntu 14.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-14-04) 
+- [How To Install Wordpress and PhpMyAdmin with Docker Compose on Ubuntu 14.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-and-phpmyadmin-with-docker-compose-on-ubuntu-14-04) 

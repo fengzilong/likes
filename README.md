@@ -723,3 +723,4 @@
 
 ### October 23, 2017 
 - [海豚-Web UI自动化测试工具 - Div.IO](http://div.io/topic/1339) 
+- [Exploring EcmaScript Decorators – Google Developers – Medium](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841) 

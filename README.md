@@ -729,3 +729,6 @@
 - [Koa 的中间件和 Express 不同，Koa 选择了洋葱圈模型](https://eggjs.org/zh-cn/intro/egg-and-koa.html#middleware) 
 - [长期支持 LTS - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E9%95%B7%E6%9C%9F%E6%94%AF%E6%8F%B4) 
 - [Long-term support - LTS - Wikipedia](https://en.wikipedia.org/wiki/Long-term_support) 
+
+### October 25, 2017 
+- [NightmareJS screenshots using device emulator](https://gist.github.com/emenoh/65708b03f1a99d92f14db9b0d60d8fd0) 

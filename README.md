@@ -735,3 +735,4 @@
 
 ### October 26, 2017 
 - [Networking in Compose | Docker Documentation](https://docs.docker.com/compose/networking/#update-containers) 
+- [如何修改容器的 /etc/hosts 文件 - FAQ列表 - docker中文社区](http://www.docker.org.cn/faq.html#faq16) 

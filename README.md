@@ -732,3 +732,6 @@
 
 ### October 25, 2017 
 - [NightmareJS screenshots using device emulator](https://gist.github.com/emenoh/65708b03f1a99d92f14db9b0d60d8fd0) 
+
+### October 26, 2017 
+- [Networking in Compose | Docker Documentation](https://docs.docker.com/compose/networking/#update-containers) 

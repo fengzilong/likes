@@ -737,3 +737,6 @@
 - [Networking in Compose | Docker Documentation](https://docs.docker.com/compose/networking/#update-containers) 
 - [如何修改容器的 /etc/hosts 文件 - FAQ列表 - docker中文社区](http://www.docker.org.cn/faq.html#faq16) 
 - [为什么要用 Docker · Docker —— 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/introduction/why.html) 
+
+### October 27, 2017 
+- [Network Overrides - Chrome DevTools - Dev Tips](https://umaar.com/dev-tips/162-network-overrides/) 

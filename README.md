@@ -753,3 +753,4 @@
 - [Performance Analysis Reference  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference#network) 
 - [Retina Display Media Query | CSS-Tricks](https://css-tricks.com/snippets/css/retina-display-media-query/) 
 - [Absolute Center (Vertical & Horizontal) an Image | CSS-Tricks](https://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/) 
+- [little useful snippets - CSS | CSS-Tricks](https://css-tricks.com/snippets/css/) 

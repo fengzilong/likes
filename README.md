@@ -745,3 +745,6 @@
 
 ### October 31, 2017 
 - [前端小团队如何培养技术积累？ - GitChat精选 | 十条](http://www.10tiao.com/html/689/201709/2651577594/1.html) 
+
+### November 1, 2017 
+- [覆盖层设计(上)-对话框&浮层-UI中国-专业用户体验设计平台](http://www.ui.cn/detail/224467.html) 

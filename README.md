@@ -754,3 +754,6 @@
 - [Retina Display Media Query | CSS-Tricks](https://css-tricks.com/snippets/css/retina-display-media-query/) 
 - [Absolute Center (Vertical & Horizontal) an Image | CSS-Tricks](https://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/) 
 - [little useful snippets - CSS | CSS-Tricks](https://css-tricks.com/snippets/css/) 
+
+### November 2, 2017 
+- [反向代理为何叫反向代理？ - 知乎](https://www.zhihu.com/question/24723688) 

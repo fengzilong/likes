@@ -761,3 +761,4 @@
 
 ### November 5, 2017 
 - [Docker for windows is not mapping ports to localhost · Issue #204 · docker/for-win](https://github.com/docker/for-win/issues/204#issuecomment-303461340) 
+- [restart - Compose file version 3 reference | Docker Documentation](https://docs.docker.com/compose/compose-file/#restart) 

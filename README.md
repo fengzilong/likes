@@ -766,3 +766,6 @@
 ### November 6, 2017 
 - [pfcarrier/debian-locale - Docker Hub](https://hub.docker.com/r/pfcarrier/debian-locale/~/dockerfile/) 
 - [Ubuntu Server环境下中文乱码之显示方块_Linux系统教程_红联Linux门户](http://www.linuxdiyf.com/linux/17432.html) 
+
+### November 7, 2017 
+- [LANGUAGE - node-docker/Dockerfile at master · jacksoncage/node-docker](https://github.com/jacksoncage/node-docker/blob/master/Dockerfile#L9) 

@@ -774,3 +774,4 @@
 
 ### November 8, 2017 
 - [阿里的鲁班智能设计机器人具体是什么样的？ - 知乎](https://www.zhihu.com/question/51978360) 
+- [设计与人工智能研究报告final.key](http://7xii9g.com1.z0.glb.clouddn.com/2017%E8%AE%BE%E8%AE%A1%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf) 

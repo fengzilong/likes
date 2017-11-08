@@ -771,3 +771,6 @@
 - [LANGUAGE - node-docker/Dockerfile at master · jacksoncage/node-docker](https://github.com/jacksoncage/node-docker/blob/master/Dockerfile#L9) 
 - [Locales in Debian](https://people.debian.org/~schultmc/locales.html) 
 - [Koa 框架 -- JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/nodejs/koa.html) 
+
+### November 8, 2017 
+- [阿里的鲁班智能设计机器人具体是什么样的？ - 知乎](https://www.zhihu.com/question/51978360) 

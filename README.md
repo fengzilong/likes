@@ -790,3 +790,4 @@
 - [Database Everywhere @ ShenJS by Evan You](http://slides.com/evanyou/shenjs#/) 
 - [Build-time Optimizations in Frontend Engineering - JSConf China 2017 - Google 幻灯片](https://docs.google.com/presentation/d/1ot0JYflhGmPq5Y_PAIEEyYH4APWBK17Zf7-d1dM4v7g/edit#slide=id.p) 
 - [尤雨溪：回应『Angular有哪些地方比Vue更优秀？』 - 前端 - 掘金](https://juejin.im/entry/5982b470518825357165340d) 
+- [Node.js 服务端实践之 GraphQL 初探 | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2015/11/26/graphql-basics-server-implementation/) 

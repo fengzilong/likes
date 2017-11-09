@@ -779,3 +779,4 @@
 
 ### November 9, 2017 
 - [solve sudo problem with git  - add your SSH key to the ssh-agent - User Documentation](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) 
+- [【翻译】借助 HTTP/2 打造更迅捷的 Web 体验 - w3ctech](https://www.w3ctech.com/topic/862) 

@@ -781,3 +781,4 @@
 - [solve sudo problem with git  - add your SSH key to the ssh-agent - User Documentation](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) 
 - [【翻译】借助 HTTP/2 打造更迅捷的 Web 体验 - w3ctech](https://www.w3ctech.com/topic/862) 
 - [http-2 - 如何理解http2的多路复用（Multiplexing）（两个小问题）？ - SegmentFault](https://segmentfault.com/q/1010000005167289) 
+- [多路复用 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8) 

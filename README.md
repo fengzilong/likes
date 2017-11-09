@@ -788,3 +788,4 @@
 - [HTML Reference - A free guide to all HTML elements and attributes.](http://htmlreference.io/) 
 - [Presentations by Evan You](http://slides.com/evanyou) 
 - [Database Everywhere @ ShenJS by Evan You](http://slides.com/evanyou/shenjs#/) 
+- [Build-time Optimizations in Frontend Engineering - JSConf China 2017 - Google 幻灯片](https://docs.google.com/presentation/d/1ot0JYflhGmPq5Y_PAIEEyYH4APWBK17Zf7-d1dM4v7g/edit#slide=id.p) 

@@ -785,3 +785,4 @@
 - [Link prefetching FAQ - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Link_prefetching_FAQ) 
 - [HTTP | MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP) 
 - [CSS Reference - A free visual guide to CSS](http://cssreference.io/) 
+- [HTML Reference - A free guide to all HTML elements and attributes.](http://htmlreference.io/) 

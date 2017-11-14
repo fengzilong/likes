@@ -795,3 +795,6 @@
 ### November 13, 2017 
 - [node.js - How to implement a writable stream - Stack Overflow](https://stackoverflow.com/questions/21491567/how-to-implement-a-writable-stream) 
 - [网络文件系统 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F) 
+
+### November 14, 2017 
+- [Pomelo的设计动机 · NetEase/pomelo Wiki](https://github.com/NetEase/pomelo/wiki/Pomelo%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E6%9C%BA) 

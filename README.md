@@ -798,3 +798,6 @@
 
 ### November 14, 2017 
 - [Pomelo的设计动机 · NetEase/pomelo Wiki](https://github.com/NetEase/pomelo/wiki/Pomelo%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8A%A8%E6%9C%BA) 
+
+### November 15, 2017 
+- [CodeMirror: Set Focus at End of Line](https://davidwalsh.name/codemirror-set-focus-line) 

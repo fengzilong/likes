@@ -811,3 +811,6 @@
 
 ### November 17, 2017 
 - [javascript - dev.to](https://dev.to/t/javascript) 
+
+### November 21, 2017 
+- [lerna add <package>[@version] [--dev]](https://github.com/lerna/lerna#add) 

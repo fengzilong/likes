@@ -814,3 +814,6 @@
 
 ### November 21, 2017 
 - [lerna add <package>[@version] [--dev]](https://github.com/lerna/lerna#add) 
+
+### November 23, 2017 
+- [A new Console API for querying objects - What's New In DevTools (Chrome 62)  |  Web  |  Google Developers](https://developers.google.com/web/updates/2017/08/devtools-release-notes#query-objects) 

@@ -820,3 +820,4 @@
 
 ### November 27, 2017 
 - [nitin42/Making-a-custom-React-renderer: Tutorial on how to make a custom React renderer](https://github.com/nitin42/Making-a-custom-React-renderer) 
+- [Distributing flow-type definitions for node and browser modules](https://medium.com/@kentcdodds/3952ad38b357) 

@@ -817,3 +817,6 @@
 
 ### November 23, 2017 
 - [A new Console API for querying objects - What's New In DevTools (Chrome 62)  |  Web  |  Google Developers](https://developers.google.com/web/updates/2017/08/devtools-release-notes#query-objects) 
+
+### November 27, 2017 
+- [nitin42/Making-a-custom-React-renderer: Tutorial on how to make a custom React renderer](https://github.com/nitin42/Making-a-custom-React-renderer) 

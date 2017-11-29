@@ -824,3 +824,6 @@
 
 ### November 28, 2017 
 - [Observer vs Pub-Sub pattern – Hacker Noon](https://hackernoon.com/observer-vs-pub-sub-pattern-50d3b27f838c) 
+
+### November 29, 2017 
+- [GraphQL is the better REST - GraphQL vs REST - A comparison](https://www.howtographql.com/basics/1-graphql-is-the-better-rest/) 

@@ -827,3 +827,4 @@
 
 ### November 29, 2017 
 - [GraphQL is the better REST - GraphQL vs REST - A comparison](https://www.howtographql.com/basics/1-graphql-is-the-better-rest/) 
+- [Security and GraphQL Tutorial](https://www.howtographql.com/advanced/4-security/) 

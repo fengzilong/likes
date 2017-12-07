@@ -829,3 +829,6 @@
 - [GraphQL is the better REST - GraphQL vs REST - A comparison](https://www.howtographql.com/basics/1-graphql-is-the-better-rest/) 
 - [Security and GraphQL Tutorial](https://www.howtographql.com/advanced/4-security/) 
 - [Common GraphQL Questions](https://www.howtographql.com/advanced/5-common-questions/) 
+
+### December 7, 2017 
+- [认识Skeleton Screen【屏幕加载骨架】 - 掘金](https://juejin.im/post/59ef52226fb9a0451543135f) 

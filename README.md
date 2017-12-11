@@ -833,3 +833,6 @@
 ### December 7, 2017 
 - [认识Skeleton Screen【屏幕加载骨架】 - 掘金](https://juejin.im/post/59ef52226fb9a0451543135f) 
 - [Progressive Web App Checklist  |  Web  |  Google Developers](https://developers.google.cn/web/progressive-web-apps/checklist) 
+
+### December 11, 2017 
+- [Swift语言指南 By @SwiftLanguage](http://dev.swiftguide.cn/) 

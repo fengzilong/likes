@@ -838,3 +838,6 @@
 - [Swift语言指南 By @SwiftLanguage](http://dev.swiftguide.cn/) 
 - [javascript - Access vue instance/data inside filter method - Stack Overflow](https://stackoverflow.com/questions/42828664/access-vue-instance-data-inside-filter-method/42829248#42829248) 
 - [React v16.2.0: Improved Support for Fragments - React Blog](https://reactjs.org/blog/2017/11/28/react-v16.2.0-fragment-support.html) 
+
+### December 12, 2017 
+- [国内首位！Node.js社区将阿里云工程师张秋怡吸纳为CTC成员](https://zhuanlan.zhihu.com/p/27492270) 

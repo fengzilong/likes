@@ -842,3 +842,4 @@
 ### December 12, 2017 
 - [国内首位！Node.js社区将阿里云工程师张秋怡吸纳为CTC成员](https://zhuanlan.zhihu.com/p/27492270) 
 - [多进程模型和进程间通讯 - 为企业级框架和应用而生](https://eggjs.org/zh-cn/core/cluster-and-ipc.html) 
+- [多进程研发模式增强 - 为企业级框架和应用而生](https://eggjs.org/zh-cn/advanced/cluster-client.html) 

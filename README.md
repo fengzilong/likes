@@ -845,3 +845,6 @@
 - [多进程研发模式增强 - 为企业级框架和应用而生](https://eggjs.org/zh-cn/advanced/cluster-client.html) 
 - [eggjs-feed-03](https://zhuanlan.zhihu.com/p/25457918) 
 - [通过源码解析 Node.js 中 cluster 模块的主要功能实现 - CNode技术社区](https://cnodejs.org/topic/56e84480833b7c8a0492e20c) 
+
+### December 13, 2017 
+- [npm-link: Symlink a package folder | npm Documentation](https://docs.npmjs.com/cli/link) 

@@ -848,3 +848,4 @@
 
 ### December 13, 2017 
 - [npm-link: Symlink a package folder | npm Documentation](https://docs.npmjs.com/cli/link) 
+- [快速了解监控 - Ready to boot](http://www.midwayjs.org/pandora/zh-cn/base/quick_monitor.html) 

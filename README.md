@@ -854,3 +854,6 @@
 
 ### December 14, 2017 
 - [防御性编程 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E9%98%B2%E5%BE%A1%E6%80%A7%E7%BC%96%E7%A8%8B) 
+
+### December 21, 2017 
+- [node.js - Cannot overwrite model once compiled Mongoose - Stack Overflow](https://stackoverflow.com/questions/19051041/cannot-overwrite-model-once-compiled-mongoose/34291140#34291140) 

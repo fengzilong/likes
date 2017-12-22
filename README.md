@@ -860,3 +860,4 @@
 
 ### December 22, 2017 
 - [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/) 
+- [RESTful API 设计指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/05/restful_api.html) 

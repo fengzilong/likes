@@ -857,3 +857,6 @@
 
 ### December 21, 2017 
 - [node.js - Cannot overwrite model once compiled Mongoose - Stack Overflow](https://stackoverflow.com/questions/19051041/cannot-overwrite-model-once-compiled-mongoose/34291140#34291140) 
+
+### December 22, 2017 
+- [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/) 

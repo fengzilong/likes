@@ -871,3 +871,4 @@
 - [REST - build-web-application-with-golang/08.3.md at master · astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/08.3.md) 
 - [RPC - build-web-application-with-golang/08.4.md at master · astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/08.4.md) 
 - [六个问题带你了解服务发现 - DockOne.io](http://dockone.io/article/509) 
+- [微服务实战（二）：使用API Gateway - DockOne.io](http://dockone.io/article/482) 

@@ -875,3 +875,4 @@
 - [微服务实战（四）：服务发现的可行方案以及实践案例 - DockOne.io](http://dockone.io/article/771) 
 - [Install and config Redis on Mac OS X via Homebrew – Pete Houston – Medium](https://medium.com/@petehouston/install-and-config-redis-on-mac-os-x-via-homebrew-eb8df9a4f298) 
 - [微服务架构模式与最佳实践](https://blog.laisky.com/p/microservice/) 
+- [ECMA-262-3 in detail. Chapter 5. Functions. – .ds laboratory](http://dmitrysoshnikov.com/ecmascript/chapter-5-functions/#feature-of-named-function-expression-nfe) 

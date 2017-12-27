@@ -873,3 +873,4 @@
 - [六个问题带你了解服务发现 - DockOne.io](http://dockone.io/article/509) 
 - [微服务实战（二）：使用API Gateway - DockOne.io](http://dockone.io/article/482) 
 - [微服务实战（四）：服务发现的可行方案以及实践案例 - DockOne.io](http://dockone.io/article/771) 
+- [Install and config Redis on Mac OS X via Homebrew – Pete Houston – Medium](https://medium.com/@petehouston/install-and-config-redis-on-mac-os-x-via-homebrew-eb8df9a4f298) 

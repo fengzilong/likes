@@ -864,3 +864,6 @@
 - [curl网站开发指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/09/curl.html) 
 - [六个问题带你了解服务发现 - DockOne.io](http://dockone.io/article/509) 
 - [Docker in Docker · moby/moby Wiki](https://github.com/moby/moby/wiki/Docker-in-Docker) 
+
+### December 27, 2017 
+- [Staying off the Rocks: Using Lighthouse to Build Seaworthy Progressive Web Apps (Google I/O '17) - YouTube](https://www.youtube.com/watch?v=NoRYn6gOtVo) 

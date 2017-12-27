@@ -867,3 +867,4 @@
 
 ### December 27, 2017 
 - [Staying off the Rocks: Using Lighthouse to Build Seaworthy Progressive Web Apps (Google I/O '17) - YouTube](https://www.youtube.com/watch?v=NoRYn6gOtVo) 
+- [怎样用通俗的语言解释REST，以及RESTful？ - 知乎](https://www.zhihu.com/question/28557115) 

@@ -870,3 +870,4 @@
 - [怎样用通俗的语言解释REST，以及RESTful？ - 知乎](https://www.zhihu.com/question/28557115) 
 - [REST - build-web-application-with-golang/08.3.md at master · astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/08.3.md) 
 - [RPC - build-web-application-with-golang/08.4.md at master · astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/08.4.md) 
+- [六个问题带你了解服务发现 - DockOne.io](http://dockone.io/article/509) 

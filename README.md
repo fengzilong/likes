@@ -876,3 +876,6 @@
 - [Install and config Redis on Mac OS X via Homebrew – Pete Houston – Medium](https://medium.com/@petehouston/install-and-config-redis-on-mac-os-x-via-homebrew-eb8df9a4f298) 
 - [微服务架构模式与最佳实践](https://blog.laisky.com/p/microservice/) 
 - [ECMA-262-3 in detail. Chapter 5. Functions. – .ds laboratory](http://dmitrysoshnikov.com/ecmascript/chapter-5-functions/#feature-of-named-function-expression-nfe) 
+
+### January 2, 2018 
+- [A sample Docker workflow with Nginx, Node.js and Redis · Anand Mani Sankar](http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/) 

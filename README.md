@@ -886,3 +886,4 @@
 - [docker 跨主机网络：overlay 简介 – Cizixs Writes Here](http://cizixs.com/2016/06/13/docker-overlay-network) 
 - [node.js - Connect to host mongodb from docker container - Stack Overflow](https://stackoverflow.com/questions/45461017/connect-to-host-mongodb-from-docker-container/45461181#45461181) 
 - [Accessing host machine from within docker container - Docker for Mac - Docker Forums](https://forums.docker.com/t/accessing-host-machine-from-within-docker-container/14248/15) 
+- [Server-Sent Events 教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/05/server-sent_events.html) 

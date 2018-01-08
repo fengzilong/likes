@@ -890,3 +890,6 @@
 
 ### January 5, 2018 
 - [lighthouse/architecture.md at master · GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse/blob/master/docs/architecture.md) 
+
+### January 8, 2018 
+- [网站在其自身的脚本中不使用 console.time()  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/lighthouse/audits/console-time) 

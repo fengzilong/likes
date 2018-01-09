@@ -894,3 +894,6 @@
 ### January 8, 2018 
 - [网站在其自身的脚本中不使用 console.time()  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/lighthouse/audits/console-time) 
 - [网站在其自身的脚本中不使用 Date.now()  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/lighthouse/audits/date-now) 
+
+### January 9, 2018 
+- [使用 hreflang 设置语言和区域网址 - Search Console帮助](https://support.google.com/webmasters/answer/189077) 

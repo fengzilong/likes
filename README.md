@@ -898,3 +898,4 @@
 ### January 9, 2018 
 - [使用 hreflang 设置语言和区域网址 - Search Console帮助](https://support.google.com/webmasters/answer/189077) 
 - [避免大型、复杂的布局和布局抖动  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing) 
+- [坚持仅合成器的属性和管理层计数  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count) 

@@ -900,3 +900,6 @@
 - [避免大型、复杂的布局和布局抖动  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing) 
 - [坚持仅合成器的属性和管理层计数  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count) 
 - [渲染性能  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/rendering/) 
+
+### January 10, 2018 
+- [速度指标  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/lighthouse/audits/speed-index?hl=zh-cn) 

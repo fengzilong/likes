@@ -903,4 +903,4 @@
 
 ### January 10, 2018 
 - [速度指标  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/lighthouse/audits/speed-index?hl=zh-cn) 
-- [Frequently Asked Questions  |  WebP  |  Google Developers](https://developers.google.com/speed/webp/faq?hl=zh-cn#how_can_i_detect_browser_support_for_webp) 
+- [How can I detect browser support for WebP - Frequently Asked Questions  |  WebP  |  Google Developers](https://developers.google.com/speed/webp/faq?hl=zh-cn#how_can_i_detect_browser_support_for_webp) 

@@ -908,3 +908,4 @@
 ### January 11, 2018 
 - [Launching applications using custom browser protocols – Shotgun Support](https://support.shotgunsoftware.com/hc/en-us/articles/219031308-Launching-applications-using-custom-browser-protocols) 
 - [Server-Sent Events 教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/05/server-sent_events.html) 
+- [Content-Encoding - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Encoding) 

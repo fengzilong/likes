@@ -904,3 +904,6 @@
 ### January 10, 2018 
 - [速度指标  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/lighthouse/audits/speed-index?hl=zh-cn) 
 - [How can I detect browser support for WebP - Frequently Asked Questions  |  WebP  |  Google Developers](https://developers.google.com/speed/webp/faq?hl=zh-cn#how_can_i_detect_browser_support_for_webp) 
+
+### January 11, 2018 
+- [Launching applications using custom browser protocols – Shotgun Support](https://support.shotgunsoftware.com/hc/en-us/articles/219031308-Launching-applications-using-custom-browser-protocols) 

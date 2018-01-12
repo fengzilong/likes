@@ -910,3 +910,6 @@
 - [Server-Sent Events 教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/05/server-sent_events.html) 
 - [Content-Encoding - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Encoding) 
 - [macOS Development for Beginners: Part 1](https://www.raywenderlich.com/151741/macos-development-beginners-part-1) 
+
+### January 12, 2018 
+- [Clipboard API and events](https://www.w3.org/TR/clipboard-apis/#integration-with-rich-text-editing) 

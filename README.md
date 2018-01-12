@@ -913,3 +913,4 @@
 
 ### January 12, 2018 
 - [Clipboard API and events](https://www.w3.org/TR/clipboard-apis/#integration-with-rich-text-editing) 
+- [基于 ZeroMQ 优化处理云计算中的并发问题](https://www.ibm.com/developerworks/cn/cloud/library/1605-zeromq-concurrency/index.html) 

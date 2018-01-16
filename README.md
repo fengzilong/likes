@@ -919,3 +919,4 @@
 
 ### January 16, 2018 
 - [Socket connection limit? · Issue #1393 · socketio/socket.io](https://github.com/socketio/socket.io/issues/1393#issuecomment-32442188) 
+- [Is it possible to populate without `_id` ? · Issue #2562 · Automattic/mongoose](https://github.com/Automattic/mongoose/issues/2562) 

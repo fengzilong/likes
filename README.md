@@ -920,3 +920,6 @@
 ### January 16, 2018 
 - [Socket connection limit? · Issue #1393 · socketio/socket.io](https://github.com/socketio/socket.io/issues/1393#issuecomment-32442188) 
 - [Is it possible to populate without `_id` ? · Issue #2562 · Automattic/mongoose](https://github.com/Automattic/mongoose/issues/2562) 
+
+### January 18, 2018 
+- [有关agent.messenger.sendRandom(action, data)的问题 · Issue #1888 · eggjs/egg](https://github.com/eggjs/egg/issues/1888) 

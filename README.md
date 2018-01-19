@@ -923,3 +923,6 @@
 
 ### January 18, 2018 
 - [有关agent.messenger.sendRandom(action, data)的问题 · Issue #1888 · eggjs/egg](https://github.com/eggjs/egg/issues/1888) 
+
+### January 19, 2018 
+- [修改 hosts 文件的原理是什么？ - 知乎](https://www.zhihu.com/question/19782572) 

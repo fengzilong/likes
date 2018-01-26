@@ -933,3 +933,6 @@
 
 ### January 25, 2018 
 - [使用 Elasticsearch 实现博客站内搜索 | JerryQu 的小站](https://imququ.com/post/elasticsearch.html) 
+
+### January 26, 2018 
+- [CSS Modules: Rethinking the Past](https://x-team.com/blog/css-modules-rethinking-the-past/) 

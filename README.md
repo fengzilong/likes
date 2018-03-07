@@ -955,3 +955,4 @@
 - [机器学习简介 (Introduction to Machine Learning)  |  机器学习速成课程  |  Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=zh-cn) 
 - [xviniette/FlappyLearning: Program learning to play Flappy Bird by machine learning (Neuroevolution)](https://github.com/xviniette/FlappyLearning) 
 - [Docker 问答录（100 问） · 大桥下的蜗牛](https://blog.lab99.org/post/docker-2016-07-14-faq.html) 
+- [How To Run Your Tests Headlessly with Xvfb](http://elementalselenium.com/tips/38-headless) 

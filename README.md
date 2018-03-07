@@ -947,3 +947,4 @@
 - [天干物燥，小心抠图 —— A journey of matting](https://zhuanlan.zhihu.com/p/27852081) 
 - [抠图技术及方法简介（Image Matting Overview） - CSDN博客](http://blog.csdn.net/qq_36165459/article/details/78549686) 
 - [还在用ps抠图抠瞎眼？机器学习通用背景去除产品诞生记_36氪](https://36kr.com/p/5096622.html) 
+- [Deep Image Matting](https://sites.google.com/view/deepimagematting) 

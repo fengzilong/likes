@@ -956,3 +956,4 @@
 - [xviniette/FlappyLearning: Program learning to play Flappy Bird by machine learning (Neuroevolution)](https://github.com/xviniette/FlappyLearning) 
 - [Docker 问答录（100 问） · 大桥下的蜗牛](https://blog.lab99.org/post/docker-2016-07-14-faq.html) 
 - [How To Run Your Tests Headlessly with Xvfb](http://elementalselenium.com/tips/38-headless) 
+- [jQuery最佳实践 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/08/jquery_best_practices.html) 

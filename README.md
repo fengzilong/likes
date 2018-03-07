@@ -948,3 +948,4 @@
 - [抠图技术及方法简介（Image Matting Overview） - CSDN博客](http://blog.csdn.net/qq_36165459/article/details/78549686) 
 - [还在用ps抠图抠瞎眼？机器学习通用背景去除产品诞生记_36氪](https://36kr.com/p/5096622.html) 
 - [Deep Image Matting](https://sites.google.com/view/deepimagematting) 
+- [Making your own Face Recognition System – freeCodeCamp](https://medium.freecodecamp.org/making-your-own-face-recognition-system-29a8e728107c) 

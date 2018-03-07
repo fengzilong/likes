@@ -949,3 +949,4 @@
 - [还在用ps抠图抠瞎眼？机器学习通用背景去除产品诞生记_36氪](https://36kr.com/p/5096622.html) 
 - [Deep Image Matting](https://sites.google.com/view/deepimagematting) 
 - [Making your own Face Recognition System – freeCodeCamp](https://medium.freecodecamp.org/making-your-own-face-recognition-system-29a8e728107c) 
+- [Turning Design Mockups Into Code With Deep Learning - FloydHub Blog](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/) 

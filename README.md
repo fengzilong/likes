@@ -952,3 +952,4 @@
 - [Turning Design Mockups Into Code With Deep Learning - FloydHub Blog](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/) 
 - [#4.1 神经网络进化 NeuroEvolution (机器学习 进化算法 Evolutionary Algorithm 教程教学 tutorial) - YouTube](https://www.youtube.com/watch?v=0wWajjm9xj8) 
 - [什么是遗传算法? What is Genetic Algorithm? - YouTube](https://www.youtube.com/watch?v=BEquIwfEXes&list=PLXO45tsB95cJyeE6BgkApUbAREpkoPDvG) 
+- [机器学习简介 (Introduction to Machine Learning)  |  机器学习速成课程  |  Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=zh-cn) 

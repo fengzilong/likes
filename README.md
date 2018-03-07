@@ -939,3 +939,4 @@
 
 ### March 7, 2018 
 - [CNN笔记：通俗理解卷积神经网络 - CSDN博客](http://blog.csdn.net/v_july_v/article/details/51812459) 
+- [Deep Learning Book Chinese Translation – Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/) 

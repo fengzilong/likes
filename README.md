@@ -936,3 +936,6 @@
 
 ### January 26, 2018 
 - [CSS Modules: Rethinking the Past](https://x-team.com/blog/css-modules-rethinking-the-past/) 
+
+### March 7, 2018 
+- [CNN笔记：通俗理解卷积神经网络 - CSDN博客](http://blog.csdn.net/v_july_v/article/details/51812459) 

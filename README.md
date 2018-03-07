@@ -942,3 +942,4 @@
 - [Deep Learning Book Chinese Translation – Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/) 
 - [斯坦福李飞飞-深度学习计算机视觉 - 网易云课堂](http://study.163.com/course/courseLearn.htm?referered=http://study.163.com/course/courseMain.htm?courseId=1003223001&courseId=1003223001#/learn/video?lessonId=1003659005&courseId=1003223001) 
 - [李飞飞：如何教计算机理解图片_李飞飞：如何教计算机理解图片_网易公开课](https://open.163.com/movie/2015/3/Q/R/MAKN9A24M_MAKN9QAQR.html) 
+- [Deep Image Matting复现过程总结](http://calebml.leanote.com/post/Deep-Image-Matting%E5%A4%8D%E7%8E%B0%E8%BF%87%E7%A8%8B%E6%80%BB%E7%BB%93) 

@@ -950,3 +950,4 @@
 - [Deep Image Matting](https://sites.google.com/view/deepimagematting) 
 - [Making your own Face Recognition System – freeCodeCamp](https://medium.freecodecamp.org/making-your-own-face-recognition-system-29a8e728107c) 
 - [Turning Design Mockups Into Code With Deep Learning - FloydHub Blog](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/) 
+- [#4.1 神经网络进化 NeuroEvolution (机器学习 进化算法 Evolutionary Algorithm 教程教学 tutorial) - YouTube](https://www.youtube.com/watch?v=0wWajjm9xj8) 

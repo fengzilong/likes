@@ -965,3 +965,4 @@
 - [Sticky Footer，完美的绝对底部 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2017/04/13/Sticky-footer/) 
 - [Redirect debug output from required modules? · Issue #505 · visionmedia/debug](https://github.com/visionmedia/debug/issues/505#issuecomment-333097386) 
 - [debug/index.js at master · visionmedia/debug](https://github.com/visionmedia/debug/blob/master/src/index.js) 
+- [javascript - Difference between "process.stdout.write" and "console.log" in node.js? - Stack Overflow](https://stackoverflow.com/questions/4976466/difference-between-process-stdout-write-and-console-log-in-node-js/4984464#4984464) 

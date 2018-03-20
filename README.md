@@ -966,3 +966,4 @@
 - [Redirect debug output from required modules? · Issue #505 · visionmedia/debug](https://github.com/visionmedia/debug/issues/505#issuecomment-333097386) 
 - [debug/index.js at master · visionmedia/debug](https://github.com/visionmedia/debug/blob/master/src/index.js) 
 - [javascript - Difference between "process.stdout.write" and "console.log" in node.js? - Stack Overflow](https://stackoverflow.com/questions/4976466/difference-between-process-stdout-write-and-console-log-in-node-js/4984464#4984464) 
+- [RunKit + npm: regularjs](https://npm.runkit.com/regularjs) 

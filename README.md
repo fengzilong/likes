@@ -967,3 +967,6 @@
 - [debug/index.js at master · visionmedia/debug](https://github.com/visionmedia/debug/blob/master/src/index.js) 
 - [javascript - Difference between "process.stdout.write" and "console.log" in node.js? - Stack Overflow](https://stackoverflow.com/questions/4976466/difference-between-process-stdout-write-and-console-log-in-node-js/4984464#4984464) 
 - [RunKit + npm: regularjs](https://npm.runkit.com/regularjs) 
+
+### March 23, 2018 
+- [用Vue.js开发微信小程序：开源框架mpvue解析 -](https://tech.meituan.com/mt-mpvue-development-framework.html) 

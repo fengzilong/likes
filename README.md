@@ -981,3 +981,4 @@
 - [Node.js file upload from command line interface - Stack Overflow](https://stackoverflow.com/questions/31454669/node-js-file-upload-from-command-line-interface) 
 - [Node 地下铁沙龙](http://nodejs.club/) 
 - [Running Chrome in a Docker container – .debug – Medium](https://medium.com/dot-debug/running-chrome-in-a-docker-container-a55e7f4da4a8) 
+- [Automated Nginx Reverse Proxy for Docker ·](http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/) 

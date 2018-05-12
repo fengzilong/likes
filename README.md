@@ -978,3 +978,4 @@
 - [专访死马：为什么说Egg.js是企业级Node框架](https://mp.weixin.qq.com/s/5aAgEc6lr5B3OerPv_IgGg) 
 - [美团点评金融平台Web前端技术体系](https://mp.weixin.qq.com/s/FIVMx-qj03KC5l2p4Q_72g) 
 - [移动客户端编程实战](https://xudafeng.github.io/slide/archives/native-in-practice/#/) 
+- [Node.js file upload from command line interface - Stack Overflow](https://stackoverflow.com/questions/31454669/node-js-file-upload-from-command-line-interface) 

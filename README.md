@@ -980,3 +980,4 @@
 - [移动客户端编程实战](https://xudafeng.github.io/slide/archives/native-in-practice/#/) 
 - [Node.js file upload from command line interface - Stack Overflow](https://stackoverflow.com/questions/31454669/node-js-file-upload-from-command-line-interface) 
 - [Node 地下铁沙龙](http://nodejs.club/) 
+- [Running Chrome in a Docker container – .debug – Medium](https://medium.com/dot-debug/running-chrome-in-a-docker-container-a55e7f4da4a8) 

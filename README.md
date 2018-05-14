@@ -985,3 +985,4 @@
 
 ### May 14, 2018 
 - [run and detach · Issue #188 · apocas/dockerode](https://github.com/apocas/dockerode/issues/188) 
+- [Need official node-yarn docker image · Issue #2686 · yarnpkg/yarn](https://github.com/yarnpkg/yarn/issues/2686) 

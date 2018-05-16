@@ -991,3 +991,4 @@
 - [eggjs + docker 最佳实践 · Issue #1431 · eggjs/egg](https://github.com/eggjs/egg/issues/1431) 
 - [Allow emojis to be force enabled with `--emoji`. by elyobo · Pull Request #3126 · yarnpkg/yarn](https://github.com/yarnpkg/yarn/pull/3126) 
 - [jwilder/nginx-proxy upload limits? · Issue #981 · jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy/issues/981#issuecomment-345434827) 
+- [jquery - How to detect input type=file "change" for the same file? - Stack Overflow](https://stackoverflow.com/questions/4109276/how-to-detect-input-type-file-change-for-the-same-file/4118320#4118320) 

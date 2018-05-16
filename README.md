@@ -989,3 +989,4 @@
 
 ### May 16, 2018 
 - [eggjs + docker 最佳实践 · Issue #1431 · eggjs/egg](https://github.com/eggjs/egg/issues/1431) 
+- [Allow emojis to be force enabled with `--emoji`. by elyobo · Pull Request #3126 · yarnpkg/yarn](https://github.com/yarnpkg/yarn/pull/3126) 

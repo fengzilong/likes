@@ -992,3 +992,6 @@
 - [Allow emojis to be force enabled with `--emoji`. by elyobo · Pull Request #3126 · yarnpkg/yarn](https://github.com/yarnpkg/yarn/pull/3126) 
 - [jwilder/nginx-proxy upload limits? · Issue #981 · jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy/issues/981#issuecomment-345434827) 
 - [jquery - How to detect input type=file "change" for the same file? - Stack Overflow](https://stackoverflow.com/questions/4109276/how-to-detect-input-type-file-change-for-the-same-file/4118320#4118320) 
+
+### May 17, 2018 
+- [跨域资源共享 CORS 详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/04/cors.html) 

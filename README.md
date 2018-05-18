@@ -997,3 +997,6 @@
 - [跨域资源共享 CORS 详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/04/cors.html) 
 - [Chrome 52: Contain Property, the PerformanceObserver API & Service Worker Stream - YouTube](https://www.youtube.com/watch?v=Pii-LaWOyuo) 
 - [前端小团队如何培养技术积累](https://mp.weixin.qq.com/s/-GRwJl_n4iMIn7o8WF-zBA) 
+
+### May 18, 2018 
+- [GMTC2018全球大前端技术大会 - 技术专栏](https://gmtc.geekbang.org/article) 

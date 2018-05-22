@@ -1006,3 +1006,4 @@
 
 ### May 22, 2018 
 - [JSLint/jslint.js at master · douglascrockford/JSLint](https://github.com/douglascrockford/JSLint/blob/master/jslint.js) 
+- [ios - Xcode 6 - Launch simulator from command line - Stack Overflow](https://stackoverflow.com/questions/26031601/xcode-6-launch-simulator-from-command-line) 

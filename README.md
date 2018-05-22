@@ -1003,3 +1003,6 @@
 - [How Hyperapp Works](https://gist.github.com/JorgeBucaran/8dc33b7947f3193eb2ea3d5700e27036) 
 - [setState：这个API设计到底怎么样](https://zhuanlan.zhihu.com/p/25954470) 
 - [从setState promise化的探讨 体会React团队设计思想](https://zhuanlan.zhihu.com/p/28905707) 
+
+### May 22, 2018 
+- [JSLint/jslint.js at master · douglascrockford/JSLint](https://github.com/douglascrockford/JSLint/blob/master/jslint.js) 

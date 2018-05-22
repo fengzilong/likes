@@ -1008,3 +1008,4 @@
 - [JSLint/jslint.js at master · douglascrockford/JSLint](https://github.com/douglascrockford/JSLint/blob/master/jslint.js) 
 - [ios - Xcode 6 - Launch simulator from command line - Stack Overflow](https://stackoverflow.com/questions/26031601/xcode-6-launch-simulator-from-command-line) 
 - [checkout to a brand new branch · Issue #1 · egoist/notes](https://github.com/egoist/notes/issues/1) 
+- [peco/cli.js at master · egojump/peco](https://github.com/egojump/peco/blob/master/bin/cli.js) 

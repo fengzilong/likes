@@ -1017,3 +1017,6 @@
 - [checkout to a brand new branch · Issue #1 · egoist/notes](https://github.com/egoist/notes/issues/1) 
 - [peco/cli.js at master · egojump/peco](https://github.com/egojump/peco/blob/master/bin/cli.js) 
 - [Error starting daemon: Error initializing network controller: list bridge addresses failed: no available network · Issue #123 · docker/for-linux](https://github.com/docker/for-linux/issues/123#issuecomment-346546953) 
+
+### May 29, 2018 
+- [Kubernretes免费视频课程 | 开放技术*IBM微讲堂出品_Kubernetes中文社区](https://www.kubernetes.org.cn/3546.html/2) 

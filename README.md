@@ -2,6 +2,7 @@
 
 ### May 28, 2018 
 - [从IaaS到FaaS—— Serverless架构的前世今生 | 亚马逊AWS官方博客](https://aws.amazon.com/cn/blogs/china/iaas-faas-serverless/) 
+- [什么是serverless架构？ - jimmysong.io|宋净超的博客|Cloud Native|Big Data](https://jimmysong.io/posts/what-is-serverless/) 
 ### August 8, 2016
 - [Streams › Cycle.js](http://cycle.js.org/streams.html) 
 - [André Staltz - Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) 

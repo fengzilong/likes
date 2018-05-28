@@ -1020,3 +1020,4 @@
 
 ### May 29, 2018 
 - [Kubernretes免费视频课程 | 开放技术*IBM微讲堂出品_Kubernetes中文社区](https://www.kubernetes.org.cn/3546.html/2) 
+- [Kubernretes免费视频课程 | 开放技术*IBM微讲堂出品_Kubernetes中文社区](https://www.kubernetes.org.cn/3546.html) 

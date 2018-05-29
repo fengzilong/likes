@@ -1026,3 +1026,6 @@
 ### May 29, 2018 
 - [Kubernretes免费视频课程 | 开放技术*IBM微讲堂出品_Kubernetes中文社区](https://www.kubernetes.org.cn/3546.html/2) 
 - [Kubernretes免费视频课程 | 开放技术*IBM微讲堂出品_Kubernetes中文社区](https://www.kubernetes.org.cn/3546.html) 
+
+### May 30, 2018 
+- [树莓派-安装摄像头模块 - Mr.韦淋 - 博客园](https://www.cnblogs.com/hzdx/p/raspberry_install_camera.html) 

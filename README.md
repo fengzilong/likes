@@ -6,6 +6,7 @@
 - [从 Docker 到 Kubernetes 中的容器网络图书资料分享 - jimmysong.io|宋净超的博客|Cloud Native|Big Data](https://jimmysong.io/posts/container-networking-from-docker-to-kubernetes-nginx/) 
 - [Play with Docker](https://labs.play-with-docker.com/) 
 - [DockerCon 2017: Moby’s Cool Hack sessions - Docker Blog](https://blog.docker.com/2017/04/dockercon-2017-mobys-cool-hack-sessions/) 
+- [树莓派九层双色外壳安装教程 树莓派1代B+，2代B，3代B适用 - 树莓派2代论坛 - 树莓派论坛 - Powered by Shumeipai.net!](http://www.shumeipai.net/thread-27266-1-1.html) 
 ### August 8, 2016
 - [Streams › Cycle.js](http://cycle.js.org/streams.html) 
 - [André Staltz - Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) 

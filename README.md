@@ -14,6 +14,7 @@
 - [修改 树莓派 主机名 - wiki](http://wiki.guoruei.org/computer/software/linux/pi-hostname) 
 - [Raspberry Pi 与 Docker 构建 Serverless 集群 | 玩点什么『智能硬件社区』](https://www.wandianshenme.com/play/raspberry-pi-docker-swarm-build-faas-cluster/) 
 - [树莓派教程 - KittyCam：在 Node.js 中构建一个带有猫脸部检测器 | 玩点什么『智能硬件社区』](https://www.wandianshenme.com/play/raspberry-pi-build-cat-watch-kittycam/) 
+- [Get Started with Docker 1.12 on Raspberry Pi](https://blog.alexellis.io/getting-started-with-docker-on-raspberry-pi/) 
 ### August 8, 2016
 - [Streams › Cycle.js](http://cycle.js.org/streams.html) 
 - [André Staltz - Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) 

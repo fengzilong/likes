@@ -11,6 +11,7 @@
 - [ROS（10）：mac 下树莓派Raspberry Pi 烧录 img - CSDN博客](https://blog.csdn.net/freewebsys/article/details/48980993) 
 - [树莓派（raspberrypi）常用镜像高速下载 | 科技爱好者博客](http://blog.lxx1.com/raspberrypi-jingxiang) 
 - [raspbian release_notes](http://downloads.raspberrypi.org/raspbian/release_notes.txt) 
+- [修改 树莓派 主机名 - wiki](http://wiki.guoruei.org/computer/software/linux/pi-hostname) 
 ### August 8, 2016
 - [Streams › Cycle.js](http://cycle.js.org/streams.html) 
 - [André Staltz - Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) 

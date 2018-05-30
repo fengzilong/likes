@@ -12,6 +12,7 @@
 - [树莓派（raspberrypi）常用镜像高速下载 | 科技爱好者博客](http://blog.lxx1.com/raspberrypi-jingxiang) 
 - [raspbian release_notes](http://downloads.raspberrypi.org/raspbian/release_notes.txt) 
 - [修改 树莓派 主机名 - wiki](http://wiki.guoruei.org/computer/software/linux/pi-hostname) 
+- [Raspberry Pi 与 Docker 构建 Serverless 集群 | 玩点什么『智能硬件社区』](https://www.wandianshenme.com/play/raspberry-pi-docker-swarm-build-faas-cluster/) 
 ### August 8, 2016
 - [Streams › Cycle.js](http://cycle.js.org/streams.html) 
 - [André Staltz - Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html) 

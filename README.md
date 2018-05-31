@@ -1,5 +1,8 @@
 # likes
 
+
+### May 31, 2018 
+- [树莓派3代散热片安装指南_高清，树莓派中国（视频）](http://v.qiye10000.com/v/XMTYeMuhrNDYsOA.html) 
 ### May 28, 2018 
 - [从IaaS到FaaS—— Serverless架构的前世今生 | 亚马逊AWS官方博客](https://aws.amazon.com/cn/blogs/china/iaas-faas-serverless/) 
 - [什么是serverless架构？ - jimmysong.io|宋净超的博客|Cloud Native|Big Data](https://jimmysong.io/posts/what-is-serverless/) 

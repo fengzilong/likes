@@ -1,6 +1,9 @@
 # likes
 
 
+
+### June 1, 2018 
+- [18. scp 跨机远程拷贝 — Linux Tools Quick Tutorial](http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/scp.html) 
 ### May 31, 2018 
 - [树莓派3代散热片安装指南_高清，树莓派中国（视频）](http://v.qiye10000.com/v/XMTYeMuhrNDYsOA.html) 
 ### May 28, 2018 

@@ -5,6 +5,7 @@
 
 ### June 5, 2018 
 - [The engine "node" is incompatible with this module · Issue #827 · yarnpkg/yarn](https://github.com/yarnpkg/yarn/issues/827#issuecomment-253644898) 
+- [Building A Circuit Breaker For Node.js](https://www.bennadel.com/blog/3299-building-a-circuit-breaker-for-node-js.htm) 
 ### June 1, 2018 
 - [18. scp 跨机远程拷贝 — Linux Tools Quick Tutorial](http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/scp.html) 
 ### May 31, 2018 

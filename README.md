@@ -3,6 +3,9 @@
 
 
 
+
+### June 6, 2018 
+- [How to enable the root user on your Mac or change your root password - Apple Support](https://support.apple.com/en-us/HT204012) 
 ### June 5, 2018 
 - [The engine "node" is incompatible with this module · Issue #827 · yarnpkg/yarn](https://github.com/yarnpkg/yarn/issues/827#issuecomment-253644898) 
 - [Building A Circuit Breaker For Node.js](https://www.bennadel.com/blog/3299-building-a-circuit-breaker-for-node-js.htm) 

@@ -6,6 +6,7 @@
 
 ### June 6, 2018 
 - [How to enable the root user on your Mac or change your root password - Apple Support](https://support.apple.com/en-us/HT204012) 
+- [osx - I accidentally deleted the sudoers file on Mac OS X; is there any way to recover it? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/37764/i-accidentally-deleted-the-sudoers-file-on-mac-os-x-is-there-any-way-to-recover/272520#272520) 
 ### June 5, 2018 
 - [The engine "node" is incompatible with this module · Issue #827 · yarnpkg/yarn](https://github.com/yarnpkg/yarn/issues/827#issuecomment-253644898) 
 - [Building A Circuit Breaker For Node.js](https://www.bennadel.com/blog/3299-building-a-circuit-breaker-for-node-js.htm) 

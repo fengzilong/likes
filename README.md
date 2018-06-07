@@ -7,6 +7,7 @@
 
 ### June 7, 2018 
 - [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=M3BM9TB-8yA) 
+- [perf: vastly improve rebuild perf with caching · vuejs/vuepress@dfdc00c](https://github.com/vuejs/vuepress/commit/dfdc00c) 
 ### June 6, 2018 
 - [How to enable the root user on your Mac or change your root password - Apple Support](https://support.apple.com/en-us/HT204012) 
 - [osx - I accidentally deleted the sudoers file on Mac OS X; is there any way to recover it? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/37764/i-accidentally-deleted-the-sudoers-file-on-mac-os-x-is-there-any-way-to-recover/272520#272520) 

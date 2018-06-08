@@ -5,6 +5,9 @@
 
 
 
+
+### June 8, 2018 
+- [Using the Console - WeDeploy™](https://wedeploy.com/docs/intro/using-the-console/) 
 ### June 7, 2018 
 - [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=M3BM9TB-8yA) 
 - [perf: vastly improve rebuild perf with caching · vuejs/vuepress@dfdc00c](https://github.com/vuejs/vuepress/commit/dfdc00c) 

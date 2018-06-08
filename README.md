@@ -12,6 +12,7 @@
 - [Install Elasticsearch with Docker | Elasticsearch Reference [6.2] | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html) 
 - [Usage with Elasticsearch · mongodb-labs/mongo-connector Wiki](https://github.com/mongodb-labs/mongo-connector/wiki/Usage-with-ElasticSearch) 
 - [正在开发中的 Photoshop 设计构建工具：UI-DNA – 浅藏的宝藏](http://nullice.com/archives/2080) 
+- [Photoshop 的扩展插件要用什么开发？ - 知乎](https://www.zhihu.com/question/43875279) 
 ### June 7, 2018 
 - [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=M3BM9TB-8yA) 
 - [perf: vastly improve rebuild perf with caching · vuejs/vuepress@dfdc00c](https://github.com/vuejs/vuepress/commit/dfdc00c) 

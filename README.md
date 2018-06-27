@@ -8,6 +8,9 @@
 
 
 
+
+### June 27, 2018 
+- [javascript - How to get the string length in bytes in nodejs? - Stack Overflow](https://stackoverflow.com/questions/9864662/how-to-get-the-string-length-in-bytes-in-nodejs) 
 ### June 13, 2018 
 - [面向设计的 CSS-V5.key](https://gw.alipayobjects.com/os/rmsportal/ZHphUvNmOitpPcGdxvKI.pdf) 
 ### June 11, 2018 

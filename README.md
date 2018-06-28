@@ -13,6 +13,7 @@
 ### June 28, 2018 
 - [Houdini 实战：自定义 checkbox](https://zhuanlan.zhihu.com/p/35479957) 
 - [前端工程师为什么要学习编译原理？](https://zhuanlan.zhihu.com/p/31096468) 
+- [自动化生成 H5 骨架页面](https://zhuanlan.zhihu.com/p/34702561) 
 ### June 27, 2018 
 - [javascript - How to get the string length in bytes in nodejs? - Stack Overflow](https://stackoverflow.com/questions/9864662/how-to-get-the-string-length-in-bytes-in-nodejs) 
 - [babel-code-frame · Babel](https://babeljs.io/docs/en/next/babel-code-frame.html) 

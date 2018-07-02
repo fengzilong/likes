@@ -15,6 +15,7 @@
 - [Chromatic visual testing for React](https://www.chromaticqa.com/) 
 - [Record a video of the browser screen and analyze it to get Visual Metrics.](https://www.sitespeed.io/documentation/sitespeed.io/video/) 
 - [x11grab - FFmpeg Devices Documentation](https://www.ffmpeg.org/ffmpeg-devices.html#x11grab) 
+- [HTTP 缓存  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn) 
 ### June 28, 2018 
 - [Houdini 实战：自定义 checkbox](https://zhuanlan.zhihu.com/p/35479957) 
 - [前端工程师为什么要学习编译原理？](https://zhuanlan.zhihu.com/p/31096468) 

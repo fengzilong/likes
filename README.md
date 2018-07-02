@@ -13,6 +13,7 @@
 
 ### July 2, 2018 
 - [Chromatic visual testing for React](https://www.chromaticqa.com/) 
+- [Record a video of the browser screen and analyze it to get Visual Metrics.](https://www.sitespeed.io/documentation/sitespeed.io/video/) 
 ### June 28, 2018 
 - [Houdini 实战：自定义 checkbox](https://zhuanlan.zhihu.com/p/35479957) 
 - [前端工程师为什么要学习编译原理？](https://zhuanlan.zhihu.com/p/31096468) 

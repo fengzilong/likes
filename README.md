@@ -15,6 +15,7 @@
 
 ### July 6, 2018 
 - [Do not support touchstart/touchmove/touchend? · Issue #1976 · GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer/issues/1976#issuecomment-367880075) 
+- [GoogleChromeLabs/puppeteer-examples: Use case-driven examples for using Puppeteer and headless chrome](https://github.com/GoogleChromelabs/puppeteer-examples#code_coveragejs) 
 ### July 3, 2018 
 - [聊聊 Nodejs RPC（一） · 语雀](https://yuque.com/egg/nodejs/dklip5) 
 ### July 2, 2018 

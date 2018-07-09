@@ -13,6 +13,9 @@
 
 
 
+
+### July 9, 2018 
+- [移动端高清、多屏适配方案 - Div.IO](https://div.io/topic/1092) 
 ### July 6, 2018 
 - [Do not support touchstart/touchmove/touchend? · Issue #1976 · GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer/issues/1976#issuecomment-367880075) 
 - [GoogleChromeLabs/puppeteer-examples: Use case-driven examples for using Puppeteer and headless chrome](https://github.com/GoogleChromelabs/puppeteer-examples#code_coveragejs) 

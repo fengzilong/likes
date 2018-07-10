@@ -14,6 +14,9 @@
 
 
 
+
+### July 10, 2018 
+- [Linux 守护进程的启动方法 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/02/linux-daemon.html) 
 ### July 9, 2018 
 - [移动端高清、多屏适配方案 - Div.IO](https://div.io/topic/1092) 
 ### July 6, 2018 

@@ -22,6 +22,7 @@
 - [Commit message 和 Change log 编写指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html) 
 - [personal-access-tokens GitLab API | GitLab](https://docs.gitlab.com/ee/api/README.html#personal-access-tokens) 
 - [personal-access-tokens - GitLab API | GitLab](https://docs.gitlab.com/ee/api/README.html#personal-access-tokens) 
+- [GitLab API | GitLab](https://docs.gitlab.com/ee/api/README.html) 
 ### July 19, 2018 
 - [重新理解JS的6种继承方式 | 黯羽轻扬](http://www.ayqy.net/blog/%E9%87%8D%E6%96%B0%E7%90%86%E8%A7%A3js%E7%9A%846%E7%A7%8D%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F/) 
 ### July 17, 2018 

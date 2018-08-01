@@ -19,6 +19,9 @@
 
 
 
+
+### August 1, 2018 
+- [git clone <git-url> -b <branch/tag> - git-clone Documentation](https://git-scm.com/docs/git-clone#git-clone--bltnamegt) 
 ### July 30, 2018 
 - [GitHub Polls](https://app.gh-polls.com/) 
 ### July 24, 2018 

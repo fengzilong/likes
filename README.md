@@ -20,6 +20,9 @@
 
 
 
+
+### August 2, 2018 
+- [Browser connection limitations | Documentation](https://docs.pushtechnology.com/cloud/latest/manual/html/designguide/solution/support/connection_limitations.html) 
 ### August 1, 2018 
 - [git clone <git-url> -b <branch/tag> - git-clone Documentation](https://git-scm.com/docs/git-clone#git-clone--bltnamegt) 
 - [git clone 获取指定指定分支的指定commit版本？ - 知乎](https://www.zhihu.com/question/56763744) 

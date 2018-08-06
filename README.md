@@ -25,6 +25,7 @@
 
 ### August 6, 2018 
 - [RIP CommonsChunkPlugin.md](https://gist.github.com/sokra/1522d586b8e5c0f5072d7565c2bee693) 
+- [webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366) 
 ### August 3, 2018 
 - [梯度下降法的神经网络容易收敛到局部最优，为什么应用广泛？ - 知乎](https://www.zhihu.com/question/68109802) 
 - [蚁群算法 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E8%9A%81%E7%BE%A4%E7%AE%97%E6%B3%95) 

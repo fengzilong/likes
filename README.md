@@ -23,6 +23,9 @@
 
 
 
+
+### August 7, 2018 
+- [Documentation for pitch vs normal loader isn't very clear · Issue #360 · webpack/webpack](https://github.com/webpack/webpack/issues/360#issuecomment-49028914) 
 ### August 6, 2018 
 - [RIP CommonsChunkPlugin.md](https://gist.github.com/sokra/1522d586b8e5c0f5072d7565c2bee693) 
 - [webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366) 

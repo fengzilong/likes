@@ -27,6 +27,7 @@
 ### August 7, 2018 
 - [Documentation for pitch vs normal loader isn't very clear · Issue #360 · webpack/webpack](https://github.com/webpack/webpack/issues/360#issuecomment-49028914) 
 - [I feel loaders are most naturally explained as middleware for require · Issue #360 · webpack/webpack](https://github.com/webpack/webpack/issues/360#issuecomment-60729428) 
+- [Web前端面试指导(三十六)：["1", "2", "3"].map(parseInt) 答案是多少？](https://zhuanlan.zhihu.com/p/23768420) 
 ### August 6, 2018 
 - [RIP CommonsChunkPlugin.md](https://gist.github.com/sokra/1522d586b8e5c0f5072d7565c2bee693) 
 - [webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366) 

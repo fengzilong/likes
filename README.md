@@ -24,6 +24,9 @@
 
 
 
+
+### August 8, 2018 
+- [webpack 应用编译优化之路 · Issue #23 · DDFE/DDFE-blog](https://github.com/DDFE/DDFE-blog/issues/23) 
 ### August 7, 2018 
 - [Documentation for pitch vs normal loader isn't very clear · Issue #360 · webpack/webpack](https://github.com/webpack/webpack/issues/360#issuecomment-49028914) 
 - [I feel loaders are most naturally explained as middleware for require · Issue #360 · webpack/webpack](https://github.com/webpack/webpack/issues/360#issuecomment-60729428) 

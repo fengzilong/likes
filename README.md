@@ -30,6 +30,7 @@
 
 ### August 15, 2018 
 - [Compositing in Blink and WebKit - YouTube](https://www.youtube.com/watch?v=Lpk1dYdo62o) 
+- [How Browsers Work: Behind the scenes of modern web browsers - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) 
 ### August 13, 2018 
 - [webpack 术语表](https://webpack.js.org/glossary/) 
 ### August 9, 2018 

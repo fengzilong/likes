@@ -27,6 +27,9 @@
 
 
 
+
+### August 15, 2018 
+- [Compositing in Blink and WebKit - YouTube](https://www.youtube.com/watch?v=Lpk1dYdo62o) 
 ### August 13, 2018 
 - [webpack 术语表](https://webpack.js.org/glossary/) 
 ### August 9, 2018 

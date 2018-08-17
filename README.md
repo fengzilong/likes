@@ -31,6 +31,7 @@
 
 ### August 17, 2018 
 - [微信小程序架构解析-腾讯大讲堂](http://djt.qq.com/article/view/1510) 
+- [王跃：关于微信小程序的技术，也许你想错了](http://www.infoq.com/cn/news/2017/10/wangyue-interview) 
 ### August 15, 2018 
 - [Compositing in Blink and WebKit - YouTube](https://www.youtube.com/watch?v=Lpk1dYdo62o) 
 - [How Browsers Work: Behind the scenes of modern web browsers - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) 

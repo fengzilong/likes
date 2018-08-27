@@ -29,6 +29,9 @@
 
 
 
+
+### August 27, 2018 
+- [node.js - How do I get the redirected url from the nodejs request module? - Stack Overflow](https://stackoverflow.com/questions/16687618/how-do-i-get-the-redirected-url-from-the-nodejs-request-module/17362976#17362976) 
 ### August 17, 2018 
 - [微信小程序架构解析-腾讯大讲堂](http://djt.qq.com/article/view/1510) 
 - [王跃：关于微信小程序的技术，也许你想错了](http://www.infoq.com/cn/news/2017/10/wangyue-interview) 

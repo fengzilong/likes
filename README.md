@@ -31,6 +31,9 @@
 
 
 
+
+### August 30, 2018 
+- [V8 JavaScript Engine](https://v8project.blogspot.com/) 
 ### August 29, 2018 
 - [Node.js ES2015/ES6, ES2016 and ES2017 support](https://node.green/) 
 ### August 27, 2018 

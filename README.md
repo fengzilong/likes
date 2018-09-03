@@ -32,6 +32,9 @@
 
 
 
+
+### September 3, 2018 
+- [How to Watch for Files Changes in Node.js • thisDaveJ](https://thisdavej.com/how-to-watch-for-files-changes-in-node-js/) 
 ### August 30, 2018 
 - [V8 JavaScript Engine](https://v8project.blogspot.com/) 
 ### August 29, 2018 

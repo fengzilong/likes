@@ -36,6 +36,7 @@
 
 ### September 11, 2018 
 - [nohoist in Workspaces | Yarn Blog](https://yarnpkg.com/blog/2018/02/15/nohoist/) 
+- ["opener" 攻击 · 语雀](https://www.yuque.com/afx/blog/xifli0) 
 ### September 3, 2018 
 - [How to Watch for Files Changes in Node.js • thisDaveJ](https://thisdavej.com/how-to-watch-for-files-changes-in-node-js/) 
 - [解析器系列之二：教你手写递归下降 · Issue #10 · frontend9/fe9-library](https://github.com/frontend9/fe9-library/issues/10) 

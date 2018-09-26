@@ -36,6 +36,9 @@
 
 
 
+
+### September 26, 2018 
+- [【译】如何用人类的方式进行 Code Review](https://zhuanlan.zhihu.com/p/31581735) 
 ### September 14, 2018 
 - [Ps 里蒙版有哪些用途？ - 知乎](https://www.zhihu.com/question/21772918) 
 ### September 12, 2018 

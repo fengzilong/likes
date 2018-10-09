@@ -37,6 +37,9 @@
 
 
 
+
+### October 9, 2018 
+- [HTTP 缓存  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn) 
 ### September 26, 2018 
 - [【译】如何用人类的方式进行 Code Review](https://zhuanlan.zhihu.com/p/31581735) 
 - [【译】如何用人类的方式进行 Code Review（二）](https://zhuanlan.zhihu.com/p/31786640) 

@@ -38,6 +38,9 @@
 
 
 
+
+### October 10, 2018 
+- [14.9.4 Cache Revalidation and Reload Controls](https://www.freesoft.org/CIE/RFC/2068/168.htm) 
 ### October 9, 2018 
 - [HTTP 缓存  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn) 
 - [A Web Developer’s Guide to Browser Caching – Amir Boroumand – Medium](https://medium.com/@codebyamir/a-web-developers-guide-to-browser-caching-cc41f3b73e7c) 

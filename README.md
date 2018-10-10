@@ -43,6 +43,7 @@
 - [14.9.4 Cache Revalidation and Reload Controls](https://www.freesoft.org/CIE/RFC/2068/168.htm) 
 - [Uncaught TypeError: Cannot read property 'call' of undefined · Issue #959 · webpack/webpack](https://github.com/webpack/webpack/issues/959) 
 - [Why don't you add ES5 transpiled code to your modules for browsers? · Issue #446 · sindresorhus/ama](https://github.com/sindresorhus/ama/issues/446) 
+- [Should we be transpiling lib? · Issue #23 · jaredpalmer/after.js](https://github.com/jaredpalmer/after.js/issues/23#issuecomment-357798271) 
 ### October 9, 2018 
 - [HTTP 缓存  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn) 
 - [A Web Developer’s Guide to Browser Caching – Amir Boroumand – Medium](https://medium.com/@codebyamir/a-web-developers-guide-to-browser-caching-cc41f3b73e7c) 

@@ -45,6 +45,7 @@
 - [Why don't you add ES5 transpiled code to your modules for browsers? · Issue #446 · sindresorhus/ama](https://github.com/sindresorhus/ama/issues/446) 
 - [Should we be transpiling lib? · Issue #23 · jaredpalmer/after.js](https://github.com/jaredpalmer/after.js/issues/23#issuecomment-357798271) 
 - [Dan Abramov 的 Twitter: “If you’re curious about how the next version of Create React App will handle node_modules: https://t.co/FPp1LHiGd8… ”](https://twitter.com/dan_abramov/status/953024646747705346) 
+- [Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-blog/block-element-modifying-your-javascript-components-d7f99fcab52b) 
 ### October 9, 2018 
 - [HTTP 缓存  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn) 
 - [A Web Developer’s Guide to Browser Caching – Amir Boroumand – Medium](https://medium.com/@codebyamir/a-web-developers-guide-to-browser-caching-cc41f3b73e7c) 

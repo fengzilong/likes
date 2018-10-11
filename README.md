@@ -48,6 +48,7 @@
 - [Sam William Smith - Rethinking the macOS Font Picker](https://swilliamsmith.com/copy-of-graphic-design) 
 - [perf: remove src directory from npm module by KELiON · Pull Request #6072 · vuejs/vue](https://github.com/vuejs/vue/pull/6072) 
 - [I'm Addy Osmani, Ask Me Anything! - DEV Community 👩‍💻👨‍💻](https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c) 
+- [Adaptive Serving using JavaScript and the Network Information API - DEV Community 👩‍💻👨‍💻](https://dev.to/addyosmani/adaptive-serving-using-javascript-and-the-network-information-api-331p) 
 ### October 10, 2018 
 - [14.9.4 Cache Revalidation and Reload Controls](https://www.freesoft.org/CIE/RFC/2068/168.htm) 
 - [Uncaught TypeError: Cannot read property 'call' of undefined · Issue #959 · webpack/webpack](https://github.com/webpack/webpack/issues/959) 

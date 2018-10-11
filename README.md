@@ -39,6 +39,9 @@
 
 
 
+
+### October 11, 2018 
+- [A Swift Tour — The Swift Programming Language (Swift 4.2)](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html) 
 ### October 10, 2018 
 - [14.9.4 Cache Revalidation and Reload Controls](https://www.freesoft.org/CIE/RFC/2068/168.htm) 
 - [Uncaught TypeError: Cannot read property 'call' of undefined · Issue #959 · webpack/webpack](https://github.com/webpack/webpack/issues/959) 

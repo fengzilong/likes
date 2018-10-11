@@ -44,6 +44,7 @@
 - [A Swift Tour — The Swift Programming Language (Swift 4.2)](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html) 
 - [CodePen - Opening screen for a banking app](https://codepen.io/kiyutink/full/ddMdwm/) 
 - [A tour of JavaScript timers on the web | Read the Tea Leaves](https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/) 
+- [scroll-behavior - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior) 
 ### October 10, 2018 
 - [14.9.4 Cache Revalidation and Reload Controls](https://www.freesoft.org/CIE/RFC/2068/168.htm) 
 - [Uncaught TypeError: Cannot read property 'call' of undefined · Issue #959 · webpack/webpack](https://github.com/webpack/webpack/issues/959) 

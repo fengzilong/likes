@@ -46,6 +46,7 @@
 - [A tour of JavaScript timers on the web | Read the Tea Leaves](https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/) 
 - [scroll-behavior - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior) 
 - [Sam William Smith - Rethinking the macOS Font Picker](https://swilliamsmith.com/copy-of-graphic-design) 
+- [perf: remove src directory from npm module by KELiON · Pull Request #6072 · vuejs/vue](https://github.com/vuejs/vue/pull/6072) 
 ### October 10, 2018 
 - [14.9.4 Cache Revalidation and Reload Controls](https://www.freesoft.org/CIE/RFC/2068/168.htm) 
 - [Uncaught TypeError: Cannot read property 'call' of undefined · Issue #959 · webpack/webpack](https://github.com/webpack/webpack/issues/959) 

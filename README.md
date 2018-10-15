@@ -40,6 +40,9 @@
 
 
 
+
+### October 15, 2018 
+- [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://tools.ietf.org/html/rfc7234#section-5.2.1) 
 ### October 11, 2018 
 - [A Swift Tour — The Swift Programming Language (Swift 4.2)](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html) 
 - [CodePen - Opening screen for a banking app](https://codepen.io/kiyutink/full/ddMdwm/) 

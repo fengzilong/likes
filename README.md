@@ -41,6 +41,9 @@
 
 
 
+
+### October 16, 2018 
+- [Paint Timing 1](https://w3c.github.io/paint-timing/) 
 ### October 15, 2018 
 - [RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching](https://tools.ietf.org/html/rfc7234#section-5.2.1) 
 ### October 11, 2018 

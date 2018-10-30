@@ -43,6 +43,9 @@
 
 
 
+
+### October 30, 2018 
+- [Vue CLI 3.0 is here! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb) 
 ### October 19, 2018 
 - [Fontello - icon fonts generator](http://fontello.com/) 
 ### October 16, 2018 

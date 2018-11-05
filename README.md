@@ -48,6 +48,7 @@
 ### November 5, 2018 
 - [Front-End Performance Checklist 2018 [PDF, Apple Pages] — Smashing Magazine](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/) 
 - [Chrome User Experience Report  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/chrome-user-experience-report/) 
+- [google chrome - Background/element goes black when entering Fullscreen with HTML5 - Stack Overflow](https://stackoverflow.com/questions/16163089/background-element-goes-black-when-entering-fullscreen-with-html5) 
 ### October 30, 2018 
 - [Vue CLI 3.0 is here! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb) 
 ### October 19, 2018 

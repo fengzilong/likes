@@ -44,6 +44,9 @@
 
 
 
+
+### November 5, 2018 
+- [Front-End Performance Checklist 2018 [PDF, Apple Pages] — Smashing Magazine](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/) 
 ### October 30, 2018 
 - [Vue CLI 3.0 is here! – The Vue Point – Medium](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb) 
 ### October 19, 2018 

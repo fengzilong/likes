@@ -45,6 +45,9 @@
 
 
 
+
+### November 6, 2018 
+- [CentOS 7.0 （Linux）下配置frp进行内网穿透 - 简书](https://www.jianshu.com/p/297fe1f7d297) 
 ### November 5, 2018 
 - [Front-End Performance Checklist 2018 [PDF, Apple Pages] — Smashing Magazine](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/) 
 - [Chrome User Experience Report  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/chrome-user-experience-report/) 

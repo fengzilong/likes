@@ -47,6 +47,9 @@
 
 
 
+
+### November 20, 2018 
+- [Compile-time Optimizations in Frontend Engineering - Evan You · JSConf China 2017 - YouTube](https://www.youtube.com/watch?v=1bKWIp-eVQE) 
 ### November 7, 2018 
 - [[SOLVED]systemd enable error: connect: network is unreachable / Networking, Server, and Protection / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=219130) 
 - [Tree-shaking versus dead code elimination – Rich Harris – Medium](https://medium.com/@Rich_Harris/tree-shaking-versus-dead-code-elimination-d3765df85c80) 

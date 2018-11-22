@@ -48,6 +48,9 @@
 
 
 
+
+### November 22, 2018 
+- [SlidesCodeHighlighter](https://romannurik.github.io/SlidesCodeHighlighter/) 
 ### November 20, 2018 
 - [Compile-time Optimizations in Frontend Engineering - Evan You · JSConf China 2017 - YouTube](https://www.youtube.com/watch?v=1bKWIp-eVQE) 
 - [Evan You - State of Vue | VueConf 2017 - YouTube](https://www.youtube.com/watch?v=lG0Ys-2d4MA&list=PLnD0FnpbHjOzZvLsO6IPiVMoohmyYjaau) 

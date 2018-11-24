@@ -49,6 +49,9 @@
 
 
 
+
+### November 24, 2018 
+- [Localization Platform for Translating Digital Content | Transifex](https://www.transifex.com/) 
 ### November 22, 2018 
 - [SlidesCodeHighlighter](https://romannurik.github.io/SlidesCodeHighlighter/) 
 ### November 20, 2018 

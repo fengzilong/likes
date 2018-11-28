@@ -50,6 +50,9 @@
 
 
 
+
+### November 28, 2018 
+- [NodeConf Argentina - YouTube](https://www.youtube.com/channel/UCSnHfAloFJ5m6MymGycUeaQ) 
 ### November 24, 2018 
 - [Localization Platform for Translating Digital Content | Transifex](https://www.transifex.com/) 
 ### November 22, 2018 

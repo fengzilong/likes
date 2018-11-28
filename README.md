@@ -56,6 +56,7 @@
 - [NodeConfEU 2018 - Highlights - YouTube](https://www.youtube.com/watch?v=UMgMSb7d-Os&list=PL0CdgOSSGlBY7DBgOp1xsRvV31AAUZrX2) 
 - [NodeConf EU 2017 - The highlights - YouTube](https://www.youtube.com/watch?v=cvKzBEUy6sA&list=PL0CdgOSSGlBaxNkrUIHrhd1f3ch45f66_) 
 - [Robots, code and people - Kassandra Perch - YouTube](https://www.youtube.com/watch?v=edYnouynBxg&list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2) 
+- [Faster async functions and promises · V8](https://v8.dev/blog/fast-async) 
 ### November 24, 2018 
 - [Localization Platform for Translating Digital Content | Transifex](https://www.transifex.com/) 
 ### November 22, 2018 

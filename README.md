@@ -52,6 +52,9 @@
 
 
 
+
+### December 6, 2018 
+- [macos - Is it possible to display all of the Service titles in the context menu? - Ask Different](https://apple.stackexchange.com/questions/271121/is-it-possible-to-display-all-of-the-service-titles-in-the-context-menu/271152#271152) 
 ### December 5, 2018 
 - [Your First iOS App | raywenderlich.com](https://www.raywenderlich.com/5993-your-first-ios-app) 
 ### November 28, 2018 

@@ -53,6 +53,9 @@
 
 
 
+
+### December 8, 2018 
+- [Doka, A JavaScript Image Editor for your Website](https://pqina.nl/doka/) 
 ### December 6, 2018 
 - [macos - Is it possible to display all of the Service titles in the context menu? - Ask Different](https://apple.stackexchange.com/questions/271121/is-it-possible-to-display-all-of-the-service-titles-in-the-context-menu/271152#271152) 
 ### December 5, 2018 

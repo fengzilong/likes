@@ -54,6 +54,9 @@
 
 
 
+
+### December 10, 2018 
+- [the keynote presentation at NgConf 2018 - YouTube](https://www.youtube.com/watch?v=dIxknqPOWms&feature=youtu.be&t=22m43s) 
 ### December 8, 2018 
 - [Doka, A JavaScript Image Editor for your Website](https://pqina.nl/doka/) 
 ### December 6, 2018 

@@ -55,6 +55,9 @@
 
 
 
+
+### December 14, 2018 
+- [Make use of long-term caching  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/webpack/use-long-term-caching) 
 ### December 10, 2018 
 - [the keynote presentation at NgConf 2018 - YouTube](https://www.youtube.com/watch?v=dIxknqPOWms&feature=youtu.be&t=22m43s) 
 ### December 8, 2018 

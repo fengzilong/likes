@@ -56,6 +56,9 @@
 
 
 
+
+### December 17, 2018 
+- [Making Sense of React Hooks – Dan Abramov – Medium](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889) 
 ### December 14, 2018 
 - [Make use of long-term caching  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/webpack/use-long-term-caching) 
 - [macos - How can I see a visual overlay of shortcut keys I've pressed? - Super User](https://superuser.com/questions/407334/how-can-i-see-a-visual-overlay-of-shortcut-keys-ive-pressed/1239253#1239253) 

@@ -57,6 +57,9 @@
 
 
 
+
+### December 18, 2018 
+- [php - How to get user image with Twitter API 1.1? - Stack Overflow](https://stackoverflow.com/questions/14836956/how-to-get-user-image-with-twitter-api-1-1/29699589#29699589) 
 ### December 17, 2018 
 - [Making Sense of React Hooks – Dan Abramov – Medium](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889) 
 - [Bret Victor - Inventing on Principle on Vimeo](https://vimeo.com/36579366) 

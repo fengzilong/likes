@@ -61,6 +61,7 @@
 
 ### December 19, 2018 
 - [Swift 教程 - Swift 语言学习 - Swift code - SwiftGG 翻译组 - 高质量的 Swift 译文网站](https://swift.gg/) 
+- [Menus and Popovers in Menu Bar Apps for macOS | raywenderlich.com](https://www.raywenderlich.com/450-menus-and-popovers-in-menu-bar-apps-for-macos) 
 ### December 18, 2018 
 - [php - How to get user image with Twitter API 1.1? - Stack Overflow](https://stackoverflow.com/questions/14836956/how-to-get-user-image-with-twitter-api-1-1/29699589#29699589) 
 ### December 17, 2018 

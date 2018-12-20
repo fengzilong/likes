@@ -59,6 +59,9 @@
 
 
 
+
+### December 20, 2018 
+- [patching Module._load · zeit/hyper](https://github.com/zeit/hyper/blob/da535403776f956a9351cffe6f6b2d0fea03d4f5/app/plugins.js#L51-L80) 
 ### December 19, 2018 
 - [Swift 教程 - Swift 语言学习 - Swift code - SwiftGG 翻译组 - 高质量的 Swift 译文网站](https://swift.gg/) 
 - [Menus and Popovers in Menu Bar Apps for macOS | raywenderlich.com](https://www.raywenderlich.com/450-menus-and-popovers-in-menu-bar-apps-for-macos) 

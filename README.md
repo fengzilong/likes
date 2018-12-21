@@ -63,6 +63,7 @@
 
 ### December 21, 2018 
 - [Simplify React Apps with React Hooks from @kentcdodds on @eggheadio](https://egghead.io/courses/simplify-react-apps-with-react-hooks) 
+- [webpack – Medium](https://medium.com/webpack) 
 ### December 20, 2018 
 - [patching Module._load · zeit/hyper](https://github.com/zeit/hyper/blob/da535403776f956a9351cffe6f6b2d0fea03d4f5/app/plugins.js#L51-L80) 
 ### December 19, 2018 

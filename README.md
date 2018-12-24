@@ -61,6 +61,9 @@
 
 
 
+
+### December 24, 2018 
+- [Custom JavaScript Errors in ES6 – Jamund Ferguson – Medium](https://medium.com/@xjamundx/custom-javascript-errors-in-es6-aa891b173f87) 
 ### December 21, 2018 
 - [Simplify React Apps with React Hooks from @kentcdodds on @eggheadio](https://egghead.io/courses/simplify-react-apps-with-react-hooks) 
 - [webpack – Medium](https://medium.com/webpack) 

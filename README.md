@@ -62,6 +62,9 @@
 
 
 
+
+### December 27, 2018 
+- [Converting a Buffer to JSON and Utf8 Strings in Nodejs](https://hackernoon.com/https-medium-com-amanhimself-converting-a-buffer-to-json-and-utf8-strings-in-nodejs-2150b1e3de57) 
 ### December 24, 2018 
 - [Custom JavaScript Errors in ES6 – Jamund Ferguson – Medium](https://medium.com/@xjamundx/custom-javascript-errors-in-es6-aa891b173f87) 
 ### December 21, 2018 

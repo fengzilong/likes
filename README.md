@@ -63,6 +63,9 @@
 
 
 
+
+### January 2, 2019 
+- [The State of JavaScript 2018: JavaScript Flavors - Overview](https://2018.stateofjs.com/javascript-flavors/overview/) 
 ### December 27, 2018 
 - [Converting a Buffer to JSON and Utf8 Strings in Nodejs](https://hackernoon.com/https-medium-com-amanhimself-converting-a-buffer-to-json-and-utf8-strings-in-nodejs-2150b1e3de57) 
 ### December 24, 2018 

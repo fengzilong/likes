@@ -64,6 +64,9 @@
 
 
 
+
+### January 4, 2019 
+- [10 Tools To Power Up Your Command Line - DEV Community 👩‍💻👨‍💻](https://dev.to/_darrenburns/10-tools-to-power-up-your-command-line-4id4) 
 ### January 2, 2019 
 - [The State of JavaScript 2018: JavaScript Flavors - Overview](https://2018.stateofjs.com/javascript-flavors/overview/) 
 ### December 27, 2018 

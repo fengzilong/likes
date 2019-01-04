@@ -70,6 +70,7 @@
 - [How to lint TypeScript with ESLint - YouTube](https://www.youtube.com/watch?v=Pl2heYVwQ-Q) 
 - [如何引导程序员新人按正确的流程开发? - 知乎](https://www.zhihu.com/question/300762444/answer/529335326) 
 - [[译] 你所需要知道的关于 Node.js Streams 的一切 · 语雀](https://www.yuque.com/afx/blog/node-js-streams-everything-you-need-to-know) 
+- [Things I Don’t Know as of 2018 - Overreacted](https://overreacted.io/things-i-dont-know-as-of-2018/) 
 ### January 2, 2019 
 - [The State of JavaScript 2018: JavaScript Flavors - Overview](https://2018.stateofjs.com/javascript-flavors/overview/) 
 ### December 27, 2018 

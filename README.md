@@ -65,6 +65,9 @@
 
 
 
+
+### January 8, 2019 
+- [Is there a way to list files inside a docker volume? - Stack Overflow](https://stackoverflow.com/questions/46866933/is-there-a-way-to-list-files-inside-a-docker-volume/46875500#46875500) 
 ### January 4, 2019 
 - [10 Tools To Power Up Your Command Line - DEV Community 👩‍💻👨‍💻](https://dev.to/_darrenburns/10-tools-to-power-up-your-command-line-4id4) 
 - [How to lint TypeScript with ESLint - YouTube](https://www.youtube.com/watch?v=Pl2heYVwQ-Q) 

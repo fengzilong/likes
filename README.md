@@ -66,6 +66,9 @@
 
 
 
+
+### January 10, 2019 
+- [After Effects character animation workflow - YouTube](https://www.youtube.com/watch?v=--oTQCysVTs) 
 ### January 8, 2019 
 - [Is there a way to list files inside a docker volume? - Stack Overflow](https://stackoverflow.com/questions/46866933/is-there-a-way-to-list-files-inside-a-docker-volume/46875500#46875500) 
 ### January 4, 2019 

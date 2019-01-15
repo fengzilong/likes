@@ -67,6 +67,9 @@
 
 
 
+
+### January 15, 2019 
+- [All in One Bookmark Links for Designer - Evernote Design](https://www.evernote.design/) 
 ### January 10, 2019 
 - [After Effects character animation workflow - YouTube](https://www.youtube.com/watch?v=--oTQCysVTs) 
 ### January 8, 2019 

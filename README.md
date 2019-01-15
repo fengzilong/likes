@@ -74,6 +74,7 @@
 - [Git Explorer](https://gitexplorer.com/) 
 - [Design Camera – 3D mockups in 3 seconds](https://www.designcamera.app/) 
 - [Remove Background from Image – remove.bg](https://www.remove.bg/) 
+- [Logo by ShapeFactory | Clean, Simple, Hassle-free Logo Design](https://logo.shapefactory.co/) 
 ### January 10, 2019 
 - [After Effects character animation workflow - YouTube](https://www.youtube.com/watch?v=--oTQCysVTs) 
 ### January 8, 2019 

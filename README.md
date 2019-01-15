@@ -70,6 +70,7 @@
 
 ### January 15, 2019 
 - [All in One Bookmark Links for Designer - Evernote Design](https://www.evernote.design/) 
+- [Web Design & UI Inspiration with Code Snippets Ξ ℂ𝕠𝕕𝕖𝕄𝕪𝕌𝕀](https://codemyui.com/) 
 ### January 10, 2019 
 - [After Effects character animation workflow - YouTube](https://www.youtube.com/watch?v=--oTQCysVTs) 
 ### January 8, 2019 

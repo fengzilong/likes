@@ -68,6 +68,9 @@
 
 
 
+
+### January 29, 2019 
+- [神奇的斐波那契数列_神奇的斐波那契数列_网易公开课](https://open.163.com/movie/2014/2/N/O/M9HKRT25D_M9HNA0UNO.html) 
 ### January 15, 2019 
 - [All in One Bookmark Links for Designer - Evernote Design](https://www.evernote.design/) 
 - [Web Design & UI Inspiration with Code Snippets Ξ ℂ𝕠𝕕𝕖𝕄𝕪𝕌𝕀](https://codemyui.com/) 

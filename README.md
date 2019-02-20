@@ -72,6 +72,9 @@
 
 
 
+
+### February 20, 2019 
+- [The CodePen Spark](https://codepen.io/spark/) 
 ### February 19, 2019 
 - [Hacktoberfest 2018 - DigitalOcean](https://hacktoberfest.digitalocean.com/) 
 ### February 13, 2019 

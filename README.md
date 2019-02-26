@@ -75,6 +75,9 @@
 
 
 
+
+### February 26, 2019 
+- [Best practices for cache control settings for your website](https://medium.com/pixelpoint/best-practices-for-cache-control-settings-for-your-website-ff262b38c5a2) 
 ### February 25, 2019 
 - [Explore · Spectrum - create your own community](https://spectrum.chat/explore) 
 - [Workona - Transform Chrome into a professional work tool for free | Product Hunt](https://www.producthunt.com/posts/workona) 

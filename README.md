@@ -81,6 +81,7 @@
 
 ### March 6, 2019 
 - [Chrome headless doesn't launch - puppeteer/troubleshooting.md at master · GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md#chrome-headless-doesnt-launch) 
+- [Question: How to test page behind authentication? · Issue #1418 · GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse/issues/1418#issuecomment-360860914) 
 ### February 28, 2019 
 - [关于form表单提交file的问题 · Issue #2178 · eggjs/egg](https://github.com/eggjs/egg/issues/2178#issuecomment-371431226) 
 ### February 27, 2019 

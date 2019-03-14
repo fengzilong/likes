@@ -90,6 +90,7 @@
 - [Subresource Integrity 介绍 | JerryQu 的小站](https://imququ.com/post/subresource-integrity.html) 
 - [在想一个问题： HSTS 为什么有意义？ - V2EX](https://www.v2ex.com/t/336979#r_3991380) 
 - [CSP: upgrade-insecure-requests - HTTP | MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers/Content-Security-Policy__by_cnvoid/upgrade-insecure-requests) 
+- [What are SSL Stripping Attacks and How to Prevent Them?](https://www.eurodns.com/blog/ssl-stripping-attack-prevention) 
 ### March 13, 2019 
 - [CSS Nesting Rules](https://cssdb.org/#nesting-rules) 
 ### March 11, 2019 

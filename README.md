@@ -86,6 +86,7 @@
 ### March 14, 2019 
 - [User-centric Performance Metrics  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics) 
 - [你所不知道的 HSTS | 小胡子哥的个人网站](https://www.barretlee.com/blog/2015/10/22/hsts-intro/) 
+- [关于启用 HTTPS 的一些经验分享（一） | JerryQu 的小站](https://imququ.com/post/sth-about-switch-to-https.html#toc-2) 
 ### March 13, 2019 
 - [CSS Nesting Rules](https://cssdb.org/#nesting-rules) 
 ### March 11, 2019 

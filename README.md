@@ -88,6 +88,7 @@
 - [你所不知道的 HSTS | 小胡子哥的个人网站](https://www.barretlee.com/blog/2015/10/22/hsts-intro/) 
 - [关于启用 HTTPS 的一些经验分享（一） | JerryQu 的小站](https://imququ.com/post/sth-about-switch-to-https.html#toc-2) 
 - [Subresource Integrity 介绍 | JerryQu 的小站](https://imququ.com/post/subresource-integrity.html) 
+- [在想一个问题： HSTS 为什么有意义？ - V2EX](https://www.v2ex.com/t/336979#r_3991380) 
 ### March 13, 2019 
 - [CSS Nesting Rules](https://cssdb.org/#nesting-rules) 
 ### March 11, 2019 

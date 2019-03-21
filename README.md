@@ -84,6 +84,9 @@
 
 
 
+
+### March 21, 2019 
+- [Fast load times  |  web.dev](https://web.dev/fast) 
 ### March 19, 2019 
 - [Grafana - The open platform for analytics and monitoring](https://grafana.com/) 
 - [Lighthouse CLI hangs on certain websites · Issue #3993 · GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse/issues/3993#issuecomment-353653270) 

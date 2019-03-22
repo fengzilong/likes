@@ -90,6 +90,7 @@
 - [image-orientation - CSS：层叠样式表 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/image-orientation) 
 - [Using Lighthouse To Improve Page Load Performance  |  Web  |  Google Developers](https://developers.google.com/web/updates/2018/05/lighthouse) 
 - [Understanding lab vs. field data - How To Think About Speed Tools  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/speed-tools/?hl=zh-cn) 
+- [First Input Delay  |  Web  |  Google Developers](https://developers.google.com/web/updates/2018/05/first-input-delay) 
 ### March 21, 2019 
 - [Fast load times  |  web.dev](https://web.dev/fast) 
 - [Home  |  web.dev](https://web.dev/) 

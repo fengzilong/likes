@@ -86,6 +86,9 @@
 
 
 
+
+### March 25, 2019 
+- [Distributed locks with Redis – Redis](https://redis.io/topics/distlock) 
 ### March 22, 2019 
 - [image-orientation - CSS：层叠样式表 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/image-orientation) 
 - [Using Lighthouse To Improve Page Load Performance  |  Web  |  Google Developers](https://developers.google.com/web/updates/2018/05/lighthouse) 

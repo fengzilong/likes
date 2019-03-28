@@ -88,6 +88,9 @@
 
 
 
+
+### March 28, 2019 
+- [Free HTML landing page templates for startups - Cruip](https://cruip.com/) 
 ### March 27, 2019 
 - [force reload on file change when HMR is on · Issue #1271 · webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server/issues/1271#issuecomment-359817498) 
 ### March 25, 2019 

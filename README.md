@@ -89,6 +89,9 @@
 
 
 
+
+### April 1, 2019 
+- [Dealing with line endings - GitHub Help](https://help.github.com/en/enterprise/2.14/user/articles/dealing-with-line-endings#refreshing-a-repository-after-changing-line-endings) 
 ### March 28, 2019 
 - [Free HTML landing page templates for startups - Cruip](https://cruip.com/) 
 ### March 27, 2019 

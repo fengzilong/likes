@@ -90,6 +90,9 @@
 
 
 
+
+### April 4, 2019 
+- [Lighthouse Audit References  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/lighthouse/audits/critical-request-chains) 
 ### April 1, 2019 
 - [Dealing with line endings - GitHub Help](https://help.github.com/en/enterprise/2.14/user/articles/dealing-with-line-endings#refreshing-a-repository-after-changing-line-endings) 
 ### March 28, 2019 

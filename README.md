@@ -96,6 +96,7 @@
 
 ### April 25, 2019 
 - [javascript - Can't find serviceWorker in navigator anymore - Stack Overflow](https://stackoverflow.com/questions/52299246/cant-find-serviceworker-in-navigator-anymore/52300901#52300901) 
+- [Official page for Language Server Protocol](https://microsoft.github.io/language-server-protocol/) 
 ### April 17, 2019 
 - [runtimeExecutable  - Cannot find runtime 'node' on PATH · Issue #14229 · Microsoft/vscode](https://github.com/Microsoft/vscode/issues/14229#issuecomment-312616519) 
 ### April 15, 2019 

@@ -98,6 +98,7 @@
 
 ### May 8, 2019 
 - [如何解构单体前端应用——前端应用的微服务式拆分 - Phodal | Phodal - A Growth Engineer](https://www.phodal.com/blog/how-to-build-a-microfrontend-framework-mooa/) 
+- [用微前端的方式搭建类单页应用 - 美团技术团队](https://tech.meituan.com/2018/09/06/fe-tiny-spa.html) 
 ### May 7, 2019 
 - [微前端的那些事儿 | microfrontends](https://microfrontend.cn/) 
 ### April 25, 2019 

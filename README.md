@@ -102,6 +102,7 @@
 - [firefox-browser-architecture - Design Review: Key-Value Storage](https://mozilla.github.io/firefox-browser-architecture/text/0015-rkv.html) 
 - [Issue 21680002: Up the window.localstorage limit to 10M from 5M. - Code Review](https://chromiumcodereview.appspot.com/21680002) 
 - [225934 - LocalStorage: switch to leveldb as the backing store. - chromium - Monorail](https://bugs.chromium.org/p/chromium/issues/detail?id=225934) 
+- [Paint Holding @ I/O 2019 - YouTube](https://www.youtube.com/watch?v=3k1I_zA1SEg) 
 ### May 8, 2019 
 - [如何解构单体前端应用——前端应用的微服务式拆分 - Phodal | Phodal - A Growth Engineer](https://www.phodal.com/blog/how-to-build-a-microfrontend-framework-mooa/) 
 - [用微前端的方式搭建类单页应用 - 美团技术团队](https://tech.meituan.com/2018/09/06/fe-tiny-spa.html) 

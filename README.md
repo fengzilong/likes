@@ -97,6 +97,9 @@
 
 
 
+
+### May 13, 2019 
+- [关于【缓存穿透、缓存击穿、缓存雪崩、热点数据失效】问题的解决方案 - 掘金](https://juejin.im/post/5c9a67ac6fb9a070cb24bf34) 
 ### May 10, 2019 
 - [Design Documents - The Chromium Projects](https://www.chromium.org/developers/design-documents) 
 - [firefox-browser-architecture - Design Review: Key-Value Storage](https://mozilla.github.io/firefox-browser-architecture/text/0015-rkv.html) 

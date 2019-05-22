@@ -101,6 +101,7 @@
 
 ### May 22, 2019 
 - [Trie 树与不可变数据结构 - 知乎](https://zhuanlan.zhihu.com/p/63207283) 
+- [Immutable.js, persistent data structures and structural sharing](https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2) 
 ### May 13, 2019 
 - [关于【缓存穿透、缓存击穿、缓存雪崩、热点数据失效】问题的解决方案 - 掘金](https://juejin.im/post/5c9a67ac6fb9a070cb24bf34) 
 ### May 10, 2019 

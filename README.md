@@ -103,6 +103,7 @@
 - [Trie 树与不可变数据结构 - 知乎](https://zhuanlan.zhihu.com/p/63207283) 
 - [Immutable.js, persistent data structures and structural sharing](https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2) 
 - [模型驱动体系架构(MDA)和领域驱动设计(DDD)有什么关系和区别? - 知乎](https://www.zhihu.com/question/20889144) 
+- [NOP --- 下一代软件生产范式 - 知乎](https://zhuanlan.zhihu.com/p/66548896) 
 ### May 13, 2019 
 - [关于【缓存穿透、缓存击穿、缓存雪崩、热点数据失效】问题的解决方案 - 掘金](https://juejin.im/post/5c9a67ac6fb9a070cb24bf34) 
 ### May 10, 2019 

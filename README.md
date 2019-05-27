@@ -99,6 +99,9 @@
 
 
 
+
+### May 27, 2019 
+- [webpack 4: Changes Part 1 (week 24–25) – webpack – Medium](https://medium.com/webpack/webpack-4-changes-part-1-week-24-25-fd4d77674e55) 
 ### May 22, 2019 
 - [Trie 树与不可变数据结构 - 知乎](https://zhuanlan.zhihu.com/p/63207283) 
 - [Immutable.js, persistent data structures and structural sharing](https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2) 

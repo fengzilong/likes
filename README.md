@@ -104,6 +104,7 @@
 ### May 28, 2019 
 - [Webpack and Rollup: the same but different – webpack – Medium](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c) 
 - [Tree-shaking versus dead code elimination – Rich Harris – Medium](https://medium.com/@Rich_Harris/tree-shaking-versus-dead-code-elimination-d3765df85c80) 
+- [📦 Parcel v1.9.0 — Tree Shaking, 2x faster watcher, and more! 🚀 – Medium](https://medium.com/@devongovett/parcel-v1-9-0-tree-shaking-2x-faster-watcher-and-more-87f2e1a70f79) 
 ### May 27, 2019 
 - [webpack 4: Changes Part 1 (week 24–25) – webpack – Medium](https://medium.com/webpack/webpack-4-changes-part-1-week-24-25-fd4d77674e55) 
 ### May 22, 2019 

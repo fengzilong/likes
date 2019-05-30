@@ -101,6 +101,9 @@
 
 
 
+
+### May 30, 2019 
+- [Issuehunt](https://issuehunt.io/r?search=%252Blanguage%253Ajavascript&page=1) 
 ### May 28, 2019 
 - [Webpack and Rollup: the same but different – webpack – Medium](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c) 
 - [Tree-shaking versus dead code elimination – Rich Harris – Medium](https://medium.com/@Rich_Harris/tree-shaking-versus-dead-code-elimination-d3765df85c80) 

@@ -106,6 +106,9 @@
 
 
 
+
+### June 18, 2019 
+- [Selective dependency resolutions | Yarn](https://yarnpkg.com/en/docs/selective-version-resolutions#search) 
 ### June 13, 2019 
 - [Introducing npx: an npm package runner – Kat Marchán – Medium](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) 
 - [13 Essential React.js Interview Questions and Answers](https://www.toptal.com/react/interview-questions) 

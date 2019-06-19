@@ -107,6 +107,9 @@
 
 
 
+
+### June 19, 2019 
+- [Creating a parallel, offline, extensible, browser based bundler for CodeSandbox](https://hackernoon.com/how-i-created-a-parallel-offline-extensible-browser-based-bundler-886db508cc31) 
 ### June 18, 2019 
 - [Selective dependency resolutions | Yarn](https://yarnpkg.com/en/docs/selective-version-resolutions#search) 
 ### June 13, 2019 

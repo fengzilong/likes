@@ -110,6 +110,7 @@
 
 ### June 19, 2019 
 - [Creating a parallel, offline, extensible, browser based bundler for CodeSandbox](https://hackernoon.com/how-i-created-a-parallel-offline-extensible-browser-based-bundler-886db508cc31) 
+- [Announcing “Playground Toolkit” – Ives van Hoorne – Medium](https://medium.com/@compuives/9808b549f11e) 
 ### June 18, 2019 
 - [Selective dependency resolutions | Yarn](https://yarnpkg.com/en/docs/selective-version-resolutions#search) 
 ### June 13, 2019 

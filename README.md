@@ -108,6 +108,9 @@
 
 
 
+
+### June 24, 2019 
+- [tink — Next Generation Package Management](https://blog.npmjs.org/post/178027064160/next-generation-package-management) 
 ### June 19, 2019 
 - [Creating a parallel, offline, extensible, browser based bundler for CodeSandbox](https://hackernoon.com/how-i-created-a-parallel-offline-extensible-browser-based-bundler-886db508cc31) 
 - [Announcing “Playground Toolkit” – Ives van Hoorne – Medium](https://medium.com/@compuives/9808b549f11e) 

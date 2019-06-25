@@ -109,6 +109,9 @@
 
 
 
+
+### June 25, 2019 
+- [Changing a commit message - GitHub Help](https://help.github.com/en/articles/changing-a-commit-message) 
 ### June 24, 2019 
 - [tink — Next Generation Package Management](https://blog.npmjs.org/post/178027064160/next-generation-package-management) 
 ### June 19, 2019 

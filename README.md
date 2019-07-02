@@ -111,6 +111,9 @@
 
 
 
+
+### July 2, 2019 
+- [Controlling access to global variables via an ES6 proxy](https://2ality.com/2016/11/trace-globals-proxy.html) 
 ### June 26, 2019 
 - [Yarn 的 Plug'n'Play 特性](https://loveky.github.io/2019/02/11/yarn-pnp/) 
 - [Plug'n'Play support by arcanis · Pull Request #5136 · facebook/create-react-app](https://github.com/facebook/create-react-app/pull/5136) 

@@ -112,6 +112,9 @@
 
 
 
+
+### July 3, 2019 
+- [Cross-Origin Read Blocking for Web Developers - The Chromium Projects](https://www.chromium.org/Home/chromium-security/corb-for-developers) 
 ### July 2, 2019 
 - [Controlling access to global variables via an ES6 proxy](https://2ality.com/2016/11/trace-globals-proxy.html) 
 - [Vue: the production code you eventually ship to users contain neither Proxies nor `with`](https://2ality.com/2016/11/trace-globals-proxy.html#comment-3022863617) 

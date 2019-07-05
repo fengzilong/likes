@@ -113,6 +113,9 @@
 
 
 
+
+### July 5, 2019 
+- [docsearch crawler - Run your own](https://community.algolia.com/docsearch/run-your-own.html) 
 ### July 3, 2019 
 - [Cross-Origin Read Blocking for Web Developers - The Chromium Projects](https://www.chromium.org/Home/chromium-security/corb-for-developers) 
 ### July 2, 2019 

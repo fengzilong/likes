@@ -114,6 +114,9 @@
 
 
 
+
+### July 6, 2019 
+- [(4) Rich Harris - Rethinking reactivity - YouTube](https://www.youtube.com/watch?v=AdNJ3fydeao) 
 ### July 5, 2019 
 - [docsearch crawler - Run your own](https://community.algolia.com/docsearch/run-your-own.html) 
 ### July 3, 2019 

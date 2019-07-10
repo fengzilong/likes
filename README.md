@@ -115,6 +115,9 @@
 
 
 
+
+### July 11, 2019 
+- [[译] Kubernetes 儿童插图指南 - 掘金](https://juejin.im/post/5d1b2a656fb9a07edc0b7058) 
 ### July 6, 2019 
 - [(4) Rich Harris - Rethinking reactivity - YouTube](https://www.youtube.com/watch?v=AdNJ3fydeao) 
 ### July 5, 2019 

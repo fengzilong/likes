@@ -118,6 +118,7 @@
 
 ### July 11, 2019 
 - [[译] Kubernetes 儿童插图指南 - 掘金](https://juejin.im/post/5d1b2a656fb9a07edc0b7058) 
+- [Excluding directories does not work · Issue #31 · webpack-contrib/terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin/issues/31) 
 ### July 6, 2019 
 - [(4) Rich Harris - Rethinking reactivity - YouTube](https://www.youtube.com/watch?v=AdNJ3fydeao) 
 ### July 5, 2019 

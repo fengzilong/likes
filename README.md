@@ -122,6 +122,7 @@
 - [Great import schism: Typescript confusion around imports explained](https://itnext.io/great-import-schism-typescript-confusion-around-imports-explained-d512fc6769c2) 
 - [nodejs CPU profile · Issue #4550 · webpack/webpack](https://github.com/webpack/webpack/issues/4550#issuecomment-306750677) 
 - [Build Performance | webpack](https://webpack.js.org/guides/build-performance/) 
+- [Building a code editor with Monaco - Exposition](https://blog.expo.io/building-a-code-editor-with-monaco-f84b3a06deaf) 
 ### July 6, 2019 
 - [(4) Rich Harris - Rethinking reactivity - YouTube](https://www.youtube.com/watch?v=AdNJ3fydeao) 
 ### July 5, 2019 

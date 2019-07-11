@@ -124,6 +124,7 @@
 - [Build Performance | webpack](https://webpack.js.org/guides/build-performance/) 
 - [Building a code editor with Monaco - Exposition](https://blog.expo.io/building-a-code-editor-with-monaco-f84b3a06deaf) 
 - [How to convert vscode theme json file to monaco editor theme · Issue #675 · microsoft/monaco-editor](https://github.com/Microsoft/monaco-editor/issues/675#issuecomment-412763665) 
+- [Introducing Themes - Ives van Hoorne - Medium](https://medium.com/@compuives/introducing-themes-e6818088bfc2) 
 ### July 6, 2019 
 - [(4) Rich Harris - Rethinking reactivity - YouTube](https://www.youtube.com/watch?v=AdNJ3fydeao) 
 ### July 5, 2019 

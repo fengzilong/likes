@@ -116,6 +116,9 @@
 
 
 
+
+### July 12, 2019 
+- [Cannot create Uri using with method · Issue #1188 · microsoft/monaco-editor](https://github.com/Microsoft/monaco-editor/issues/1188#issuecomment-461700105) 
 ### July 11, 2019 
 - [[译] Kubernetes 儿童插图指南 - 掘金](https://juejin.im/post/5d1b2a656fb9a07edc0b7058) 
 - [Excluding directories does not work · Issue #31 · webpack-contrib/terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin/issues/31) 

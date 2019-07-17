@@ -117,6 +117,9 @@
 
 
 
+
+### July 17, 2019 
+- [Feature Request: Stats for time spent in different loaders · Issue #2811 · webpack/webpack](https://github.com/webpack/webpack/issues/2811#issuecomment-361431466) 
 ### July 12, 2019 
 - [Cannot create Uri using with method · Issue #1188 · microsoft/monaco-editor](https://github.com/Microsoft/monaco-editor/issues/1188#issuecomment-461700105) 
 - [monaco-editor.IStandaloneCodeEditor.editor JavaScript and Node.js code examples | Codota](https://www.codota.com/code/javascript/functions/monaco-editor/IStandaloneCodeEditor/editor) 

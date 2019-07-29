@@ -124,6 +124,7 @@
 
 ### July 29, 2019 
 - [Webpack4 has memory leak in development mode · Issue #6929 · webpack/webpack](https://github.com/webpack/webpack/issues/6929) 
+- [Finding And Fixing Node.js Memory Leaks: A Practical Guide](https://marmelab.com/blog/2018/04/03/how-to-track-and-fix-memory-leak-with-nodejs.html) 
 ### July 26, 2019 
 - [File and Folder Icons in Visual Studio Code](https://code.visualstudio.com/blogs/2016/09/08/icon-themes) 
 - [bundling less 3.0.1 with web-pack, targeting web-worker. · Issue #3178 · less/less.js](https://github.com/less/less.js/issues/3178#issuecomment-379632191) 

@@ -127,6 +127,7 @@
 ### August 13, 2019 
 - [Language Server Extension Guide | Visual Studio Code Extension API](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) 
 - [Programmatic Language Features | Visual Studio Code Extension API](https://code.visualstudio.com/api/language-extensions/programmatic-language-features) 
+- [html - flex child is growing out of parent - Stack Overflow](https://stackoverflow.com/questions/41674979/flex-child-is-growing-out-of-parent/41675912#41675912) 
 ### August 12, 2019 
 - [Teaching the Language Server Protocol to Microsoft’s Monaco Editor – TypeFox](https://typefox.io/teaching-the-language-server-protocol-to-microsofts-monaco-editor) 
 ### July 29, 2019 

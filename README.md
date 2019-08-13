@@ -126,6 +126,7 @@
 
 ### August 13, 2019 
 - [Language Server Extension Guide | Visual Studio Code Extension API](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) 
+- [Programmatic Language Features | Visual Studio Code Extension API](https://code.visualstudio.com/api/language-extensions/programmatic-language-features) 
 ### August 12, 2019 
 - [Teaching the Language Server Protocol to Microsoft’s Monaco Editor – TypeFox](https://typefox.io/teaching-the-language-server-protocol-to-microsofts-monaco-editor) 
 ### July 29, 2019 

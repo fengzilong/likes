@@ -124,6 +124,9 @@
 
 
 
+
+### August 19, 2019 
+- [MySQL scripts in docker-entrypoint-initdb are not executed - Stack Overflow](https://stackoverflow.com/questions/38504257/mysql-scripts-in-docker-entrypoint-initdb-are-not-executed/39765233#39765233) 
 ### August 13, 2019 
 - [Language Server Extension Guide | Visual Studio Code Extension API](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) 
 - [Programmatic Language Features | Visual Studio Code Extension API](https://code.visualstudio.com/api/language-extensions/programmatic-language-features) 

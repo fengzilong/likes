@@ -125,6 +125,9 @@
 
 
 
+
+### August 27, 2019 
+- [How to get your shared Vue components to show IntelliSense in VScode - DEV Community 👩‍💻👨‍💻](https://dev.to/amroessam/how-to-get-your-shared-vue-components-to-show-intellisense-in-vscode-42gk) 
 ### August 19, 2019 
 - [MySQL scripts in docker-entrypoint-initdb are not executed - Stack Overflow](https://stackoverflow.com/questions/38504257/mysql-scripts-in-docker-entrypoint-initdb-are-not-executed/39765233#39765233) 
 ### August 13, 2019 

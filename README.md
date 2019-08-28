@@ -129,6 +129,7 @@
 
 ### August 28, 2019 
 - [.sync vs v-model - General Discussion - Vue Forum](https://forum.vuejs.org/t/sync-vs-v-model/19380) 
+- [Using Git Hooks in Your Development Workflow ― Scotch.io](https://scotch.io/tutorials/using-git-hooks-in-your-development-workflow) 
 ### August 27, 2019 
 - [How to get your shared Vue components to show IntelliSense in VScode - DEV Community 👩‍💻👨‍💻](https://dev.to/amroessam/how-to-get-your-shared-vue-components-to-show-intellisense-in-vscode-42gk) 
 ### August 19, 2019 

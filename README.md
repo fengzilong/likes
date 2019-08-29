@@ -127,6 +127,9 @@
 
 
 
+
+### August 29, 2019 
+- [Visual Studio Code Updates](https://code.visualstudio.com/updates/v1_37) 
 ### August 28, 2019 
 - [.sync vs v-model - General Discussion - Vue Forum](https://forum.vuejs.org/t/sync-vs-v-model/19380) 
 - [Using Git Hooks in Your Development Workflow ― Scotch.io](https://scotch.io/tutorials/using-git-hooks-in-your-development-workflow) 

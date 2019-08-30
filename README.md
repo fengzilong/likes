@@ -133,6 +133,7 @@
 - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) 
 - [Subatomic Design Systems | Daniel Eden, Designer](https://daneden.me/2018/01/05/subatomic-design-systems/) 
 - [Building a beautiful, reusable button with Styled System | johno](https://johno.com/styled-system-button) 
+- [The Three Tenets of Styled System | Jxnblk](https://jxnblk.com/blog/the-three-tenets-of-styled-system/) 
 ### August 29, 2019 
 - [Visual Studio Code Updates](https://code.visualstudio.com/updates/v1_37) 
 ### August 28, 2019 

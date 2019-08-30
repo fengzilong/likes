@@ -136,6 +136,7 @@
 - [The Three Tenets of Styled System | Jxnblk](https://jxnblk.com/blog/the-three-tenets-of-styled-system/) 
 - [Build Better Component Libraries with Styled System](https://medium.com/styled-components/build-better-component-libraries-with-styled-system-4951653d54ee) 
 - [Component Based Design System With Styled-System](https://varun.ca/styled-system/) 
+- [Creating Style Guides – A List Apart](https://alistapart.com/article/creating-style-guides/) 
 ### August 29, 2019 
 - [Visual Studio Code Updates](https://code.visualstudio.com/updates/v1_37) 
 ### August 28, 2019 

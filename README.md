@@ -131,6 +131,7 @@
 
 ### August 30, 2019 
 - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) 
+- [Subatomic Design Systems | Daniel Eden, Designer](https://daneden.me/2018/01/05/subatomic-design-systems/) 
 ### August 29, 2019 
 - [Visual Studio Code Updates](https://code.visualstudio.com/updates/v1_37) 
 ### August 28, 2019 

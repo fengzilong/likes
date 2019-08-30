@@ -128,6 +128,9 @@
 
 
 
+
+### August 30, 2019 
+- [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) 
 ### August 29, 2019 
 - [Visual Studio Code Updates](https://code.visualstudio.com/updates/v1_37) 
 ### August 28, 2019 

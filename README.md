@@ -129,6 +129,9 @@
 
 
 
+
+### September 3, 2019 
+- [javascript - How do I auto-reload a Chrome extension I'm developing? - Stack Overflow](https://stackoverflow.com/questions/2963260/how-do-i-auto-reload-a-chrome-extension-im-developing/16702458#16702458) 
 ### August 30, 2019 
 - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) 
 - [Subatomic Design Systems | Daniel Eden, Designer](https://daneden.me/2018/01/05/subatomic-design-systems/) 

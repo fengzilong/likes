@@ -130,6 +130,9 @@
 
 
 
+
+### September 7, 2019 
+- [tolerant-php-parser/HowItWorks.md at master · microsoft/tolerant-php-parser](https://github.com/Microsoft/tolerant-php-parser/blob/master/docs/HowItWorks.md) 
 ### September 3, 2019 
 - [javascript - How do I auto-reload a Chrome extension I'm developing? - Stack Overflow](https://stackoverflow.com/questions/2963260/how-do-i-auto-reload-a-chrome-extension-im-developing/16702458#16702458) 
 ### August 30, 2019 

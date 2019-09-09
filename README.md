@@ -134,6 +134,7 @@
 
 ### September 9, 2019 
 - [Proxy for page · Issue #678 · GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer/issues/678#issuecomment-345875917) 
+- [Configuring a SOCKS proxy server in Chrome - The Chromium Projects](http://www.chromium.org/developers/design-documents/network-stack/socks-proxy) 
 ### September 7, 2019 
 - [tolerant-php-parser/HowItWorks.md at master · microsoft/tolerant-php-parser](https://github.com/Microsoft/tolerant-php-parser/blob/master/docs/HowItWorks.md) 
 ### September 3, 2019 

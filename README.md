@@ -135,6 +135,7 @@
 
 ### September 11, 2019 
 - [jest TypeError: mappedCoverage.addStatement is not a function · Issue #7921 · facebook/jest](https://github.com/facebook/jest/issues/7921#issuecomment-466204098) 
+- [Something about the clientSecret of GitHub · Issue #16 · meteorlxy/vssue](https://github.com/meteorlxy/vssue/issues/16) 
 ### September 9, 2019 
 - [Proxy for page · Issue #678 · GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer/issues/678#issuecomment-345875917) 
 - [Configuring a SOCKS proxy server in Chrome - The Chromium Projects](http://www.chromium.org/developers/design-documents/network-stack/socks-proxy) 

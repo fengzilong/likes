@@ -136,6 +136,7 @@
 
 ### September 17, 2019 
 - [一种让小程序支持JSX语法的新思路 · GitBook](https://areslabs.github.io/alita/%E4%B8%80%E7%A7%8D%E8%AE%A9%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%94%AF%E6%8C%81JSX%E8%AF%AD%E6%B3%95%E7%9A%84%E6%96%B0%E6%80%9D%E8%B7%AF.html) 
+- [MiniApp Standardization White Paper](https://www.w3.org/TR/mini-app-white-paper/) 
 ### September 11, 2019 
 - [jest TypeError: mappedCoverage.addStatement is not a function · Issue #7921 · facebook/jest](https://github.com/facebook/jest/issues/7921#issuecomment-466204098) 
 - [Something about the clientSecret of GitHub · Issue #16 · meteorlxy/vssue](https://github.com/meteorlxy/vssue/issues/16) 

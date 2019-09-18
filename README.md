@@ -134,6 +134,9 @@
 
 
 
+
+### September 18, 2019 
+- [webpack-dev-server/middleware security issues - webpack - Medium](https://medium.com/webpack/webpack-dev-server-middleware-security-issues-1489d950874a) 
 ### September 17, 2019 
 - [一种让小程序支持JSX语法的新思路 · GitBook](https://areslabs.github.io/alita/%E4%B8%80%E7%A7%8D%E8%AE%A9%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%94%AF%E6%8C%81JSX%E8%AF%AD%E6%B3%95%E7%9A%84%E6%96%B0%E6%80%9D%E8%B7%AF.html) 
 - [MiniApp Standardization White Paper](https://www.w3.org/TR/mini-app-white-paper/) 

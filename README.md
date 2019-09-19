@@ -135,6 +135,9 @@
 
 
 
+
+### September 19, 2019 
+- [Delivering Modern Website Experiences: The Journey to a Content Mesh | GatsbyJS](https://www.gatsbyjs.org/blog/2018-10-04-journey-to-the-content-mesh) 
 ### September 18, 2019 
 - [webpack-dev-server/middleware security issues - webpack - Medium](https://medium.com/webpack/webpack-dev-server-middleware-security-issues-1489d950874a) 
 - [webpack-dev-server vulnerable to DNS rebinding attack · Issue #887 · webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server/issues/887) 

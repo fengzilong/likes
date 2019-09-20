@@ -136,6 +136,9 @@
 
 
 
+
+### September 20, 2019 
+- [puppeteer/troubleshooting.md at master · GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md#tips) 
 ### September 19, 2019 
 - [Delivering Modern Website Experiences: The Journey to a Content Mesh | GatsbyJS](https://www.gatsbyjs.org/blog/2018-10-04-journey-to-the-content-mesh) 
 ### September 18, 2019 

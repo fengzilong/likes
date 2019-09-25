@@ -138,6 +138,9 @@
 
 
 
+
+### September 25, 2019 
+- [Checkly](https://app.checklyhq.com/) 
 ### September 24, 2019 
 - [微前端说明书 - 知乎](https://zhuanlan.zhihu.com/p/82051427) 
 ### September 20, 2019 

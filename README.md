@@ -146,6 +146,7 @@
 - [Largest Contentful Paint  |  web.dev](https://web.dev/largest-contentful-paint/) 
 - [Faster web navigation with predictive prefetching  |  web.dev](https://web.dev/predictive-prefetching/) 
 - [Faster Web Navigation with Predictive Prefetching - YouTube](https://www.youtube.com/watch?v=0jB4YWgAxUo) 
+- [Modern Script Loading](https://jasonformat.com/modern-script-loading/) 
 ### September 25, 2019 
 - [Checkly](https://app.checklyhq.com/) 
 ### September 24, 2019 

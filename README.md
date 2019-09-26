@@ -142,6 +142,7 @@
 
 ### September 26, 2019 
 - [How HTTPS works - How HTTPS works](https://howhttps.works/) 
+- [Rendering on the Web  |  Google Developers](https://developers.google.com/web/updates/2019/02/rendering-on-the-web) 
 ### September 25, 2019 
 - [Checkly](https://app.checklyhq.com/) 
 ### September 24, 2019 

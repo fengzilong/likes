@@ -149,6 +149,7 @@
 - [Modern Script Loading](https://jasonformat.com/modern-script-loading/) 
 - [Why is my webpack build slow?](https://samsaccone.com/posts/why-is-my-webpack-build-slow.html) 
 - [The cost of JavaScript in 2019 · V8](https://v8.dev/blog/cost-of-javascript-2019#json) 
+- [Response: process events in under 50ms  |  Web Fundamentals](https://developers.google.com/web/fundamentals/performance/rail#response) 
 ### September 25, 2019 
 - [Checkly](https://app.checklyhq.com/) 
 ### September 24, 2019 

@@ -139,6 +139,9 @@
 
 
 
+
+### September 26, 2019 
+- [How HTTPS works - How HTTPS works](https://howhttps.works/) 
 ### September 25, 2019 
 - [Checkly](https://app.checklyhq.com/) 
 ### September 24, 2019 

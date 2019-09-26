@@ -145,6 +145,7 @@
 - [Rendering on the Web  |  Google Developers](https://developers.google.com/web/updates/2019/02/rendering-on-the-web) 
 - [Largest Contentful Paint  |  web.dev](https://web.dev/largest-contentful-paint/) 
 - [Faster web navigation with predictive prefetching  |  web.dev](https://web.dev/predictive-prefetching/) 
+- [Faster Web Navigation with Predictive Prefetching - YouTube](https://www.youtube.com/watch?v=0jB4YWgAxUo) 
 ### September 25, 2019 
 - [Checkly](https://app.checklyhq.com/) 
 ### September 24, 2019 

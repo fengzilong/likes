@@ -144,6 +144,7 @@
 - [How HTTPS works - How HTTPS works](https://howhttps.works/) 
 - [Rendering on the Web  |  Google Developers](https://developers.google.com/web/updates/2019/02/rendering-on-the-web) 
 - [Largest Contentful Paint  |  web.dev](https://web.dev/largest-contentful-paint/) 
+- [Faster web navigation with predictive prefetching  |  web.dev](https://web.dev/predictive-prefetching/) 
 ### September 25, 2019 
 - [Checkly](https://app.checklyhq.com/) 
 ### September 24, 2019 

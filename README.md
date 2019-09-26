@@ -147,6 +147,7 @@
 - [Faster web navigation with predictive prefetching  |  web.dev](https://web.dev/predictive-prefetching/) 
 - [Faster Web Navigation with Predictive Prefetching - YouTube](https://www.youtube.com/watch?v=0jB4YWgAxUo) 
 - [Modern Script Loading](https://jasonformat.com/modern-script-loading/) 
+- [Why is my webpack build slow?](https://samsaccone.com/posts/why-is-my-webpack-build-slow.html) 
 ### September 25, 2019 
 - [Checkly](https://app.checklyhq.com/) 
 ### September 24, 2019 

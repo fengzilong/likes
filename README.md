@@ -140,6 +140,9 @@
 
 
 
+
+### October 14, 2019 
+- [umi 架构、生态和未来 · 语雀](https://www.yuque.com/preview/yuque/0/2019/pdf/84184/1569318486837-37eeba0d-ebc1-452a-9f6a-a6a02cd27726.pdf) 
 ### September 26, 2019 
 - [How HTTPS works - How HTTPS works](https://howhttps.works/) 
 - [Rendering on the Web  |  Google Developers](https://developers.google.com/web/updates/2019/02/rendering-on-the-web) 

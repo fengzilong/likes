@@ -145,6 +145,7 @@
 ### October 15, 2019 
 - [干货分享：蚂蚁金服前端框架和工程化实践-InfoQ](https://www.infoq.cn/article/CaXvurFIN*DqvW4iEh1H) 
 - [Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice!](https://frontendmasters.com/books/front-end-handbook/2019/) 
+- [更改提交消息(amend+rebase) - GitHub 帮助](https://help.github.com/cn/articles/changing-a-commit-message) 
 ### October 14, 2019 
 - [umi 架构、生态和未来 · 语雀](https://www.yuque.com/preview/yuque/0/2019/pdf/84184/1569318486837-37eeba0d-ebc1-452a-9f6a-a6a02cd27726.pdf) 
 ### September 26, 2019 

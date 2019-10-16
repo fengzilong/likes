@@ -142,6 +142,9 @@
 
 
 
+
+### October 16, 2019 
+- [Anatomy of an HTTP Transaction | Node.js](https://nodejs.org/es/docs/guides/anatomy-of-an-http-transaction/) 
 ### October 15, 2019 
 - [干货分享：蚂蚁金服前端框架和工程化实践-InfoQ](https://www.infoq.cn/article/CaXvurFIN*DqvW4iEh1H) 
 - [Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice!](https://frontendmasters.com/books/front-end-handbook/2019/) 

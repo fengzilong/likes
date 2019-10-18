@@ -147,6 +147,7 @@
 ### October 18, 2019 
 - [Announcing CodeSandbox v3 - By](https://hackernoon.com/announcing-codesandbox-v3-4febbaba1963) 
 - ["I got Visual Studio Code working in the browser!" |> News and podcasts for developers |> Changelog](https://changelog.com/news/i-got-visual-studio-code-working-in-the-browser-yWjJ) 
+- [Ives van Hoorne - The Journey of Code Sandbox - YouTube](https://www.youtube.com/watch?v=5lR29NsJKW8) 
 ### October 16, 2019 
 - [Anatomy of an HTTP Transaction | Node.js](https://nodejs.org/es/docs/guides/anatomy-of-an-http-transaction/) 
 ### October 15, 2019 

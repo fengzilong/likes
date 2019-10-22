@@ -144,6 +144,9 @@
 
 
 
+
+### October 22, 2019 
+- [CodeSandbox 1.5 Changelog - By](https://hackernoon.com/codesandbox-1-5-changelog-bbf941c7f0dc) 
 ### October 18, 2019 
 - [Announcing CodeSandbox v3 - By](https://hackernoon.com/announcing-codesandbox-v3-4febbaba1963) 
 - ["I got Visual Studio Code working in the browser!" |> News and podcasts for developers |> Changelog](https://changelog.com/news/i-got-visual-studio-code-working-in-the-browser-yWjJ) 

@@ -145,6 +145,9 @@
 
 
 
+
+### October 30, 2019 
+- [CodingLabs - 2048-AI](http://blog.codinglabs.org/articles/2048-ai-analysis.html) 
 ### October 22, 2019 
 - [CodeSandbox 1.5 Changelog - By](https://hackernoon.com/codesandbox-1-5-changelog-bbf941c7f0dc) 
 ### October 18, 2019 

@@ -146,6 +146,9 @@
 
 
 
+
+### October 31, 2019 
+- [The guide to write universal, SSR-ready Vue components | blog.Lichter.io](https://blog.lichter.io/posts/universal-ssr-vue-component-guide/) 
 ### October 30, 2019 
 - [CodingLabs - 2048-AI](http://blog.codinglabs.org/articles/2048-ai-analysis.html) 
 ### October 22, 2019 

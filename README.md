@@ -148,6 +148,9 @@
 
 
 
+
+### November 4, 2019 
+- [Building (And Re-Building) the Airbnb Design System | Maja Wichrowska & Tae Kim - YouTube](https://www.youtube.com/watch?v=fHQ1WSx41CA&list=PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh&index=9) 
 ### November 1, 2019 
 - [feat(ssr): render initial and used async css chunks by clarkdo · Pull Request #7902 · vuejs/vue](https://github.com/vuejs/vue/pull/7902) 
 ### October 31, 2019 

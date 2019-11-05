@@ -149,6 +149,9 @@
 
 
 
+
+### November 5, 2019 
+- [Script Error](https://sentry.io/answers/javascript-script-error/?spm=ata.13261165.0.0.668266eagC3MzK) 
 ### November 4, 2019 
 - [Building (And Re-Building) the Airbnb Design System | Maja Wichrowska & Tae Kim - YouTube](https://www.youtube.com/watch?v=fHQ1WSx41CA&list=PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh&index=9) 
 ### November 1, 2019 

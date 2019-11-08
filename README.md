@@ -150,6 +150,9 @@
 
 
 
+
+### November 8, 2019 
+- [神经网络激励函数的作用是什么？有没有形象的解释？ - 知乎](https://www.zhihu.com/question/22334626/answer/465380541) 
 ### November 5, 2019 
 - [Script Error](https://sentry.io/answers/javascript-script-error/?spm=ata.13261165.0.0.668266eagC3MzK) 
 ### November 4, 2019 

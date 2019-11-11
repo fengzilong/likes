@@ -151,6 +151,9 @@
 
 
 
+
+### November 11, 2019 
+- [Clinic.js - An Open Source Node.js performance profiling suite by NearForm](https://clinicjs.org/) 
 ### November 8, 2019 
 - [神经网络激励函数的作用是什么？有没有形象的解释？ - 知乎](https://www.zhihu.com/question/22334626/answer/465380541) 
 ### November 5, 2019 

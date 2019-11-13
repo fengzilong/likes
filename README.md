@@ -152,6 +152,9 @@
 
 
 
+
+### November 13, 2019 
+- [Lighthouse Variance 1-Pager - Google 文档](https://docs.google.com/document/d/1AujmeKvBhzr-d8IsB7zPeS-vOtxCdw2GnspKpxJ7d_I/edit) 
 ### November 11, 2019 
 - [Clinic.js - An Open Source Node.js performance profiling suite by NearForm](https://clinicjs.org/) 
 ### November 8, 2019 

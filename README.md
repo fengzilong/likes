@@ -153,6 +153,9 @@
 
 
 
+
+### November 21, 2019 
+- [webpack performance](https://survivejs.com/webpack/optimizing/performance/) 
 ### November 13, 2019 
 - [Lighthouse Variance 1-Pager - Google 文档](https://docs.google.com/document/d/1AujmeKvBhzr-d8IsB7zPeS-vOtxCdw2GnspKpxJ7d_I/edit) 
 - [I'm seeing differences in the results even though I didn't change anything · GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci/blob/master/docs/troubleshooting.md#im-seeing-differences-in-the-results-even-though-i-didnt-change-anything) 

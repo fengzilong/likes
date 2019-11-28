@@ -154,6 +154,9 @@
 
 
 
+
+### November 28, 2019 
+- [why dll option will be removed - RFC: beta.10, Upgrading to webpack 4 + vue-loader 15 · Issue #1205 · vuejs/vue-cli](https://github.com/vuejs/vue-cli/issues/1205) 
 ### November 21, 2019 
 - [webpack performance](https://survivejs.com/webpack/optimizing/performance/) 
 ### November 13, 2019 

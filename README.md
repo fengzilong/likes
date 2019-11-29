@@ -155,6 +155,9 @@
 
 
 
+
+### November 29, 2019 
+- [How we improved webpack build performance by 95% | Box Blog](https://blog.box.com/how-we-improved-webpack-build-performance-95) 
 ### November 28, 2019 
 - [why dll option will be removed - RFC: beta.10, Upgrading to webpack 4 + vue-loader 15 · Issue #1205 · vuejs/vue-cli](https://github.com/vuejs/vue-cli/issues/1205) 
 ### November 21, 2019 

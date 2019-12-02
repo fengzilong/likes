@@ -156,6 +156,9 @@
 
 
 
+
+### December 2, 2019 
+- [Faster apps with JSON.parse (Chrome Dev Summit 2019) - YouTube](https://www.youtube.com/watch?v=ff4fgQxPaO0) 
 ### November 29, 2019 
 - [How we improved webpack build performance by 95% | Box Blog](https://blog.box.com/how-we-improved-webpack-build-performance-95) 
 ### November 28, 2019 

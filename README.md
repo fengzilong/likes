@@ -157,6 +157,9 @@
 
 
 
+
+### December 4, 2019 
+- [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository) 
 ### December 2, 2019 
 - [Faster apps with JSON.parse (Chrome Dev Summit 2019) - YouTube](https://www.youtube.com/watch?v=ff4fgQxPaO0) 
 - [Regression: -webkit-box-orient rules removed · Issue #776 · postcss/autoprefixer](https://github.com/postcss/autoprefixer/issues/776#issuecomment-401366851) 

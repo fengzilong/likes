@@ -158,6 +158,9 @@
 
 
 
+
+### December 17, 2019 
+- [asar - electron/application-packaging.md at master · electron/electron](https://github.com/electron/electron/blob/master/docs/tutorial/application-packaging.md) 
 ### December 4, 2019 
 - [Removing sensitive data from a repository - GitHub Help](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository) 
 ### December 2, 2019 

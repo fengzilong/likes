@@ -159,6 +159,9 @@
 
 
 
+
+### December 27, 2019 
+- [Babel 6: loose mode](https://2ality.com/2015/12/babel6-loose-mode.html) 
 ### December 17, 2019 
 - [asar - electron/application-packaging.md at master · electron/electron](https://github.com/electron/electron/blob/master/docs/tutorial/application-packaging.md) 
 ### December 4, 2019 

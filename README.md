@@ -160,6 +160,9 @@
 
 
 
+
+### January 6, 2020 
+- [Deep Learning UC Berkeley STAT-157 2019 - YouTube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) 
 ### December 27, 2019 
 - [Babel 6: loose mode](https://2ality.com/2015/12/babel6-loose-mode.html) 
 ### December 17, 2019 

@@ -165,6 +165,7 @@
 ### January 8, 2020 
 - [From Swift to Javascript and Back - Swift Programming - Medium](https://medium.com/swift-programming/from-swift-to-javascript-and-back-fd1f6a7a9f46) 
 - [Swift and JavaScript interaction - DEV Community 👩‍💻👨‍💻](https://dev.to/gualtierofr/swift-and-javascript-interaction-35gm) 
+- [Type-only imports and exports by andrewbranch · Pull Request #35200 · microsoft/TypeScript](https://github.com/microsoft/TypeScript/pull/35200) 
 ### January 6, 2020 
 - [Deep Learning UC Berkeley STAT-157 2019 - YouTube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) 
 ### December 27, 2019 

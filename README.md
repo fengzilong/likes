@@ -162,6 +162,9 @@
 
 
 
+
+### January 9, 2020 
+- [Webpack Build Analysis](https://survivejs.com/webpack/optimizing/build-analysis/) 
 ### January 8, 2020 
 - [From Swift to Javascript and Back - Swift Programming - Medium](https://medium.com/swift-programming/from-swift-to-javascript-and-back-fd1f6a7a9f46) 
 - [Swift and JavaScript interaction - DEV Community 👩‍💻👨‍💻](https://dev.to/gualtierofr/swift-and-javascript-interaction-35gm) 

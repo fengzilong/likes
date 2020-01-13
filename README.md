@@ -163,6 +163,9 @@
 
 
 
+
+### January 13, 2020 
+- [The Native File System API: Simplifying access to local files](https://web.dev/native-file-system/) 
 ### January 9, 2020 
 - [Webpack Build Analysis](https://survivejs.com/webpack/optimizing/build-analysis/) 
 - [Finding and fixing duplicates in webpack with Inspectpack](https://formidable.com/blog/2018/finding-webpack-duplicates-with-inspectpack-plugin/) 

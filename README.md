@@ -171,6 +171,7 @@
 - [Why I Write CSS in JavaScript](https://mxstbr.com/thoughts/css-in-js) 
 - [The tradeoffs of CSS-in-JS - freeCodeCamp.org - Medium](https://medium.com/free-code-camp/the-tradeoffs-of-css-in-js-bee5cf926fdb) 
 - [Stop using CSS in JavaScript for web development - Gajus Kuizinas - Medium](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc) 
+- [Reduce JavaScript Payloads with Tree Shaking  |  Web Fundamentals](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking) 
 ### January 13, 2020 
 - [The Native File System API: Simplifying access to local files](https://web.dev/native-file-system/) 
 - [weekly/136.精读《极客公园 IFX - 下》.md at v2 · dt-fe/weekly](https://github.com/dt-fe/weekly/blob/v2/136.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%9E%81%E5%AE%A2%E5%85%AC%E5%9B%AD%20IFX%20-%20%E4%B8%8B%E3%80%8B.md) 

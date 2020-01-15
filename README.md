@@ -168,6 +168,7 @@
 
 ### January 15, 2020 
 - [React's useReducer vs Redux - RWieruch](https://www.robinwieruch.de/redux-vs-usereducer) 
+- [Understanding the Almighty Reducer | CSS-Tricks](https://css-tricks.com/understanding-the-almighty-reducer/) 
 ### January 14, 2020 
 - [Humaaans: Mix-&-Match illustration library](https://www.humaaans.com/) 
 - [Handling CSS at scale - Trapti Rahangdale - Medium](https://medium.com/@r_tripti/handling-css-at-scale-b74a63c84abb) 

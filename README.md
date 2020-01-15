@@ -170,6 +170,7 @@
 - [React's useReducer vs Redux - RWieruch](https://www.robinwieruch.de/redux-vs-usereducer) 
 - [Understanding the Almighty Reducer | CSS-Tricks](https://css-tricks.com/understanding-the-almighty-reducer/) 
 - [Getting to Know the useReducer React Hook | CSS-Tricks](https://css-tricks.com/getting-to-know-the-usereducer-react-hook/) 
+- [weekly/95.精读《Function VS Class 组件》.md at master · dt-fe/weekly](https://github.com/dt-fe/weekly/blob/master/95.%E7%B2%BE%E8%AF%BB%E3%80%8AFunction%20VS%20Class%20%E7%BB%84%E4%BB%B6%E3%80%8B.md) 
 ### January 14, 2020 
 - [Humaaans: Mix-&-Match illustration library](https://www.humaaans.com/) 
 - [Handling CSS at scale - Trapti Rahangdale - Medium](https://medium.com/@r_tripti/handling-css-at-scale-b74a63c84abb) 

@@ -166,6 +166,9 @@
 
 
 
+
+### February 11, 2020 
+- [transform-runtime regression, not requiring `_objectSpread` helper · Issue #10261 · babel/babel](https://github.com/babel/babel/issues/10261#issuecomment-514687857) 
 ### January 15, 2020 
 - [React's useReducer vs Redux - RWieruch](https://www.robinwieruch.de/redux-vs-usereducer) 
 - [Understanding the Almighty Reducer | CSS-Tricks](https://css-tricks.com/understanding-the-almighty-reducer/) 

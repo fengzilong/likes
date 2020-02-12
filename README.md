@@ -167,6 +167,9 @@
 
 
 
+
+### February 12, 2020 
+- [Turn on Babel `helpers` by Timer · Pull Request #5093 · facebook/create-react-app](https://github.com/facebook/create-react-app/pull/5093) 
 ### February 11, 2020 
 - [transform-runtime regression, not requiring `_objectSpread` helper · Issue #10261 · babel/babel](https://github.com/babel/babel/issues/10261#issuecomment-514687857) 
 - [Add babel runtime version to transform-runtime plugin to reduce bundle size by topaxi · Pull Request #7726 · facebook/create-react-app](https://github.com/facebook/create-react-app/pull/7726) 

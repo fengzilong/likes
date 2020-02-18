@@ -168,6 +168,9 @@
 
 
 
+
+### February 18, 2020 
+- [My experience writing a webpack’s child compiler plugin.](https://medium.com/@prateekbh/my-experience-writing-a-webpacks-child-compiler-plugin-a1237c175947) 
 ### February 12, 2020 
 - [Turn on Babel `helpers` by Timer · Pull Request #5093 · facebook/create-react-app](https://github.com/facebook/create-react-app/pull/5093) 
 ### February 11, 2020 

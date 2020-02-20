@@ -169,6 +169,9 @@
 
 
 
+
+### February 20, 2020 
+- [Request’s Past, Present and Future · Issue #3142 · request/request](https://github.com/request/request/issues/3142) 
 ### February 18, 2020 
 - [My experience writing a webpack’s child compiler plugin.](https://medium.com/@prateekbh/my-experience-writing-a-webpacks-child-compiler-plugin-a1237c175947) 
 ### February 12, 2020 

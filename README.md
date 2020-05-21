@@ -175,6 +175,7 @@
 
 ### May 21, 2020 
 - [Expected Queueing Time & Estimated Scroll Latency - Google 文档](https://docs.google.com/document/d/1b9slyaB9yho91YTOkAQfpCdULFkZM9LqsipcX3t7He8/preview#) 
+- [Definitions of Estimated Input Latency - Google 文档](https://docs.google.com/document/d/13XKD4XQ5a_XA_or9ePZnD0rIJYRFUbdRH1kNAtOQyIc/edit#heading=h.f294oh9v0jlx) 
 ### April 9, 2020 
 - [Illustrations | unDraw](https://undraw.co/illustrations) 
 ### February 29, 2020 

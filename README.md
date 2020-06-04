@@ -174,6 +174,9 @@
 
 
 
+
+### June 4, 2020 
+- [Strategies for Dealing With Variance · GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse/blob/abe3bfc703f517b026a2084d29265205ae6aa5e4/docs/variability.md#strategies-for-dealing-with-variance) 
 ### May 22, 2020 
 - [Custom metrics # Long Tasks API](https://web.dev/custom-metrics/#long-tasks-api) 
 ### May 21, 2020 

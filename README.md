@@ -178,6 +178,7 @@
 
 ### June 13, 2020 
 - [ffmpeg subtitles alignment and position - Stack Overflow](https://stackoverflow.com/questions/57869367/ffmpeg-subtitles-alignment-and-position/57886939#57886939) 
+- [Web Performance Recipes With Puppeteer - AddyOsmani.com](https://addyosmani.com/blog/puppeteer-recipes/#webperf-fp-fcp) 
 ### June 4, 2020 
 - [Strategies for Dealing With Variance · GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse/blob/abe3bfc703f517b026a2084d29265205ae6aa5e4/docs/variability.md#strategies-for-dealing-with-variance) 
 ### May 22, 2020 

@@ -177,6 +177,9 @@
 
 
 
+
+### July 25, 2020 
+- [Let’s Make Development Fast Again! - Ives van Hoorne aka @CompuIves at @ReactEurope 2020 - YouTube](https://www.youtube.com/watch?v=Yu9zcJJ4Uz0) 
 ### July 23, 2020 
 - [[Docs] Explain PnP a bit more · Issue #850 · yarnpkg/berry](https://github.com/yarnpkg/berry/issues/850) 
 ### June 13, 2020 

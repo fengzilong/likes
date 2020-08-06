@@ -178,6 +178,9 @@
 
 
 
+
+### August 6, 2020 
+- [Introducing Yarn 2 ! 🧶🌟 - DEV](https://dev.to/arcanis/introducing-yarn-2-4eh1) 
 ### July 25, 2020 
 - [Let’s Make Development Fast Again! - Ives van Hoorne aka @CompuIves at @ReactEurope 2020 - YouTube](https://www.youtube.com/watch?v=Yu9zcJJ4Uz0) 
 ### July 23, 2020 

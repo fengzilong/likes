@@ -179,6 +179,9 @@
 
 
 
+
+### August 8, 2020 
+- [Plugin systems - when & why? 🧩 - DEV](https://dev.to/arcanis/plugin-systems-when-why-58pp) 
 ### August 6, 2020 
 - [Introducing Yarn 2 ! 🧶🌟 - DEV](https://dev.to/arcanis/introducing-yarn-2-4eh1) 
 ### July 25, 2020 

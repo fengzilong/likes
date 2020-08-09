@@ -180,6 +180,9 @@
 
 
 
+
+### August 9, 2020 
+- [Explaining Soft Link And Hard Link In Linux With Examples - OSTechNix](https://ostechnix.com/explaining-soft-link-and-hard-link-in-linux-with-examples/) 
 ### August 8, 2020 
 - [Plugin systems - when & why? 🧩 - DEV](https://dev.to/arcanis/plugin-systems-when-why-58pp) 
 ### August 6, 2020 

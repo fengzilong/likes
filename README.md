@@ -181,6 +181,9 @@
 
 
 
+
+### August 15, 2020 
+- [Inside Fiber: in-depth overview of the new reconciliation algorithm in React - React inDepth](https://indepth.dev/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react/) 
 ### August 9, 2020 
 - [Explaining Soft Link And Hard Link In Linux With Examples - OSTechNix](https://ostechnix.com/explaining-soft-link-and-hard-link-in-linux-with-examples/) 
 ### August 8, 2020 

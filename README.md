@@ -182,6 +182,9 @@
 
 
 
+
+### August 18, 2020 
+- [Drawing Drag and drop connectors between SVG elements - GSAP - GreenSock](https://greensock.com/forums/topic/17157-drawing-drag-and-drop-connectors-between-svg-elements/) 
 ### August 15, 2020 
 - [Inside Fiber: in-depth overview of the new reconciliation algorithm in React - React inDepth](https://indepth.dev/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react/) 
 ### August 9, 2020 

@@ -183,6 +183,9 @@
 
 
 
+
+### October 31, 2020 
+- [Introducing the New JSX Transform – React Blog](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html) 
 ### August 18, 2020 
 - [Drawing Drag and drop connectors between SVG elements - GSAP - GreenSock](https://greensock.com/forums/topic/17157-drawing-drag-and-drop-connectors-between-svg-elements/) 
 ### August 15, 2020 

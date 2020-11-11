@@ -184,6 +184,9 @@
 
 
 
+
+### November 12, 2020 
+- [HTTP/2 progressive image streaming](https://blog.cloudflare.com/parallel-streaming-of-progressive-images/) 
 ### October 31, 2020 
 - [Introducing the New JSX Transform – React Blog](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html) 
 ### August 18, 2020 

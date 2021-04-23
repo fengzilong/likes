@@ -186,6 +186,9 @@
 
 
 
+
+### April 23, 2021 
+- [AddyOsmani.com - Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/#performance-observer-cls) 
 ### November 13, 2020 
 - [Gatsby Image](https://using-gatsby-image.gatsbyjs.org/blur-up/) 
 - [Progressive Image Loading with React Hooks | Ben Honeywill](https://benhoneywill.com/progressive-image-loading-with-react-hooks/) 

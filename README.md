@@ -187,6 +187,9 @@
 
 
 
+
+### April 25, 2021 
+- [Working With MDX Custom Elements and Shortcodes | CSS-Tricks](https://css-tricks.com/working-with-mdx-custom-elements-and-shortcodes/) 
 ### April 23, 2021 
 - [AddyOsmani.com - Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/#performance-observer-cls) 
 ### November 13, 2020 

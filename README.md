@@ -191,6 +191,7 @@
 
 ### May 28, 2021 
 - [How Babel Is Built - vivaxy's Blog](https://vivaxyblog.github.io/2020/01/05/how-babel-is-built.html) 
+- [AST selectors rule - DEV Community](https://dev.to/mlennox/ast-selectors-rule-286i#formattedmessage) 
 ### April 25, 2021 
 - [Working With MDX Custom Elements and Shortcodes | CSS-Tricks](https://css-tricks.com/working-with-mdx-custom-elements-and-shortcodes/) 
 ### April 23, 2021 

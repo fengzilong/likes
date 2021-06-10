@@ -192,6 +192,7 @@
 
 ### June 10, 2021 
 - [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro) 
+- [Islands Architecture](https://jasonformat.com/islands-architecture/) 
 ### May 28, 2021 
 - [How Babel Is Built - vivaxy's Blog](https://vivaxyblog.github.io/2020/01/05/how-babel-is-built.html) 
 - [AST selectors rule - DEV Community](https://dev.to/mlennox/ast-selectors-rule-286i#formattedmessage) 

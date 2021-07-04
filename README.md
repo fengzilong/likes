@@ -190,6 +190,9 @@
 
 
 
+
+### July 5, 2021 
+- [How to center video source in circle shape using css, html - Stack Overflow](https://stackoverflow.com/questions/35697156/how-to-center-video-source-in-circle-shape-using-css-html) 
 ### June 10, 2021 
 - [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro) 
 - [Islands Architecture](https://jasonformat.com/islands-architecture/) 

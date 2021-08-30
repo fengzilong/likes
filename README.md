@@ -191,6 +191,9 @@
 
 
 
+
+### August 30, 2021 
+- [Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://www.freecodecamp.org/news/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b/) 
 ### July 5, 2021 
 - [How to center video source in circle shape using css, html - Stack Overflow](https://stackoverflow.com/questions/35697156/how-to-center-video-source-in-circle-shape-using-css-html) 
 ### June 10, 2021 

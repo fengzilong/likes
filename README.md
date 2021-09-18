@@ -195,6 +195,7 @@
 
 ### September 18, 2021 
 - [CSS in JS: The Good & Bad Parts](https://www.youtube.com/watch?v=95M-2YzyTno) 
+- [Streaming HTML and Selective Hydration](https://github.com/reactwg/react-18/discussions/37) 
 ### August 30, 2021 
 - [Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://www.freecodecamp.org/news/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b/) 
 ### July 5, 2021 

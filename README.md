@@ -193,6 +193,9 @@
 
 
 
+
+### October 7, 2021 
+- [Enhance TypeScript Code Samples with Compiler Diagnostic - Fatih Kalifa | Interface Engineer](https://fatihkalifa.com/typescript-twoslash) 
 ### September 18, 2021 
 - [CSS in JS: The Good & Bad Parts](https://www.youtube.com/watch?v=95M-2YzyTno) 
 - [Streaming HTML and Selective Hydration](https://github.com/reactwg/react-18/discussions/37) 

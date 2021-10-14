@@ -197,6 +197,7 @@
 
 ### October 14, 2021 
 - [SSR Security Considerations](https://redux.js.org/usage/server-rendering#security-considerations) 
+- [prevent xss](https://github.com/yahoo/serialize-javascript/blob/7f3ac252d86b802454cb43782820aea2e0f6dc25/index.js#L26-L30) 
 ### October 7, 2021 
 - [Enhance TypeScript Code Samples with Compiler Diagnostic - Fatih Kalifa | Interface Engineer](https://fatihkalifa.com/typescript-twoslash) 
 ### September 18, 2021 

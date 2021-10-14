@@ -194,6 +194,9 @@
 
 
 
+
+### October 14, 2021 
+- [SSR Security Considerations](https://redux.js.org/usage/server-rendering#security-considerations) 
 ### October 7, 2021 
 - [Enhance TypeScript Code Samples with Compiler Diagnostic - Fatih Kalifa | Interface Engineer](https://fatihkalifa.com/typescript-twoslash) 
 ### September 18, 2021 

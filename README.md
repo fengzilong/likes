@@ -198,6 +198,7 @@
 
 ### October 17, 2021 
 - [New Built-In Polyfills: fetch(), URL, and Object.assign - Next.js 9.1.7 | Next.js](https://nextjs.org/blog/next-9-1-7#new-built-in-polyfills-fetch-url-and-objectassign) 
+- [Polyfill `Object.assign` by Default by Timer · Pull Request #9369 · vercel/next.js](https://github.com/vercel/next.js/pull/9369) 
 ### October 14, 2021 
 - [SSR Security Considerations](https://redux.js.org/usage/server-rendering#security-considerations) 
 - [prevent xss](https://github.com/yahoo/serialize-javascript/blob/7f3ac252d86b802454cb43782820aea2e0f6dc25/index.js#L26-L30) 

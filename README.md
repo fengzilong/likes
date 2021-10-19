@@ -196,6 +196,9 @@
 
 
 
+
+### October 19, 2021 
+- [RFC: Rethink polyfilling story · Issue #10008 · babel/babel](https://github.com/babel/babel/issues/10008) 
 ### October 17, 2021 
 - [New Built-In Polyfills: fetch(), URL, and Object.assign - Next.js 9.1.7 | Next.js](https://nextjs.org/blog/next-9-1-7#new-built-in-polyfills-fetch-url-and-objectassign) 
 - [Polyfill `Object.assign` by Default by Timer · Pull Request #9369 · vercel/next.js](https://github.com/vercel/next.js/pull/9369) 

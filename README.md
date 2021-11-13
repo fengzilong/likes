@@ -197,6 +197,9 @@
 
 
 
+
+### November 13, 2021 
+- [浅谈基于simhash的文本去重原理 – 闪念基因 – 个人技术分享](https://flashgene.com/archives/86682.html) 
 ### October 19, 2021 
 - [RFC: Rethink polyfilling story · Issue #10008 · babel/babel](https://github.com/babel/babel/issues/10008) 
 - [JavaScript for-loops are… complicated - HTTP203 - YouTube](https://www.youtube.com/watch?v=Nzokr6Boeaw) 

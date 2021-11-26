@@ -201,6 +201,7 @@
 
 ### November 27, 2021 
 - [数据表格应该这样设计 | 人人都是产品经理](http://www.woshipm.com/pd/4239403.html) 
+- [B端体验设计专题——表格篇 | 人人都是产品经理](http://www.woshipm.com/pd/4310935.html) 
 ### November 13, 2021 
 - [浅谈基于simhash的文本去重原理 – 闪念基因 – 个人技术分享](https://flashgene.com/archives/86682.html) 
 - [相似图片搜索的原理 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/07/principle_of_similar_image_search.html) 

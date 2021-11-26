@@ -204,6 +204,7 @@
 - [B端体验设计专题——表格篇 | 人人都是产品经理](http://www.woshipm.com/pd/4310935.html) 
 - [B端可视化：图表设计 | 人人都是产品经理](http://www.woshipm.com/pd/4123232.html) 
 - [B端可视化： 图表设计（2） | 人人都是产品经理](http://www.woshipm.com/pd/4239407.html) 
+- [B端产品中，Web端表单如何设计 | 人人都是产品经理](http://www.woshipm.com/ucd/4107800.html) 
 ### November 13, 2021 
 - [浅谈基于simhash的文本去重原理 – 闪念基因 – 个人技术分享](https://flashgene.com/archives/86682.html) 
 - [相似图片搜索的原理 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/07/principle_of_similar_image_search.html) 

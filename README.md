@@ -200,6 +200,9 @@
 
 
 
+
+### January 13, 2022 
+- [TCP 慢启动和首屏 html 14 KB](https://developers.google.com/speed/docs/insights/mobile?hl=zh-cn) 
 ### December 30, 2021 
 - [【技术干货】编辑器是天坑？来聊聊富文本编辑器 - 掘金](https://juejin.cn/post/6983955312881631268) 
 - [有多大比例的前端工程师，能在合理的时间内独立开发出一个足以供商业网站使用的文本编辑器？ - 知乎](https://www.zhihu.com/question/26739121/answer/291059836) 

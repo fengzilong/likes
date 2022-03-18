@@ -203,6 +203,9 @@
 
 
 
+
+### March 18, 2022 
+- [Remix vs Next.js | Remix](https://remix.run/blog/remix-vs-next) 
 ### March 11, 2022 
 - [Tree-sitter: a new parsing system for programming tools - GitHub Universe 2017 - YouTube](https://www.youtube.com/watch?v=a1rC79DHpmY) 
 ### March 9, 2022 

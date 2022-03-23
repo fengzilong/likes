@@ -205,6 +205,9 @@
 
 
 
+
+### March 23, 2022 
+- [Codemirror 6 and Typescript LSP - /next - discuss.CodeMirror](https://discuss.codemirror.net/t/codemirror-6-and-typescript-lsp/3398) 
 ### March 19, 2022 
 - [TypeScript: Search for typed packages](https://www.typescriptlang.org/dt/search?search=) 
 ### March 18, 2022 

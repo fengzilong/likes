@@ -206,6 +206,9 @@
 
 
 
+
+### March 24, 2022 
+- [Semantic highlighting does not appear to work (due to theming) · Issue #1833 · microsoft/monaco-editor](https://github.com/microsoft/monaco-editor/issues/1833#issuecomment-588108427) 
 ### March 23, 2022 
 - [Codemirror 6 and Typescript LSP - /next - discuss.CodeMirror](https://discuss.codemirror.net/t/codemirror-6-and-typescript-lsp/3398) 
 - [@typescript/vfs - npm](https://www.npmjs.com/package/@typescript/vfs) 

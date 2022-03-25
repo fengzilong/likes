@@ -207,6 +207,9 @@
 
 
 
+
+### March 25, 2022 
+- [Testing lexer without a parser? · Discussion #1036 · tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter/discussions/1036) 
 ### March 24, 2022 
 - [Semantic highlighting does not appear to work (due to theming) · Issue #1833 · microsoft/monaco-editor](https://github.com/microsoft/monaco-editor/issues/1833#issuecomment-588108427) 
 ### March 23, 2022 

@@ -218,6 +218,7 @@
 - [semantic/why-tree-sitter.md at master · github/semantic](https://github.com/github/semantic/blob/master/docs/why-tree-sitter.md) 
 - [Parse Solidity incrementally using tree-sitter](https://joranhonig.nl/incremental-parsing-of-solidity/) 
 - [Testing lexer without a parser? · Discussion #1036 · tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter/discussions/1036#discussioncomment-562824) 
+- [Duplicate decorators when user has press enter for new line · Issue #913 · microsoft/monaco-editor](https://github.com/Microsoft/monaco-editor/issues/913#issuecomment-396537569) 
 ### March 25, 2022 
 - [Testing lexer without a parser? · Discussion #1036 · tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter/discussions/1036) 
 ### March 24, 2022 

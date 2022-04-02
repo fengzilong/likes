@@ -217,6 +217,7 @@
 - [monaco syntax and semantic highlight](https://authzed.com/blog/syntax-and-semantics/) 
 - [semantic/why-tree-sitter.md at master · github/semantic](https://github.com/github/semantic/blob/master/docs/why-tree-sitter.md) 
 - [Parse Solidity incrementally using tree-sitter](https://joranhonig.nl/incremental-parsing-of-solidity/) 
+- [Testing lexer without a parser? · Discussion #1036 · tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter/discussions/1036#discussioncomment-562824) 
 ### March 25, 2022 
 - [Testing lexer without a parser? · Discussion #1036 · tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter/discussions/1036) 
 ### March 24, 2022 

@@ -214,6 +214,7 @@
 - [Enabling bracket colorization in Monaco editor - Stack Overflow](https://stackoverflow.com/questions/69438658/enabling-bracket-colorization-in-monaco-editor) 
 - [Create a Custom Web Editor Using TypeScript, React, ANTLR, and Monaco-Editor | by Amazzal El-habib | Better Programming](https://betterprogramming.pub/create-a-custom-web-editor-using-typescript-react-antlr-and-monaco-editor-bcfc7554e446) 
 - [DocumentSemanticTokensProvider in Monaco handles providing of semantics for an entire entered document - Stack Overflow](https://stackoverflow.com/questions/66025528/monaco-editor-custom-token-provider-behaviour/70912817#70912817) 
+- [monaco syntax and semantic highlight](https://authzed.com/blog/syntax-and-semantics/) 
 ### March 25, 2022 
 - [Testing lexer without a parser? · Discussion #1036 · tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter/discussions/1036) 
 ### March 24, 2022 

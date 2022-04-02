@@ -222,6 +222,7 @@
 - [Building a code editor with Monaco | by Satyajit Sahoo | Exposition](https://blog.expo.dev/building-a-code-editor-with-monaco-f84b3a06deaf) 
 - [is there a method or api to control search/replace widget show or hide ? · Issue #808 · microsoft/monaco-editor](https://github.com/Microsoft/monaco-editor/issues/808#issuecomment-380151046) 
 - [vue-monaco-singleline/monaco-singleline.vue at master · vikyd/vue-monaco-singleline](https://github.com/vikyd/vue-monaco-singleline/blob/master/src/monaco-singleline.vue) 
+- [Building a better search with Monaco and amCharts - Flare blog](https://flareapp.io/blog/36-building-a-better-search-with-monaco-and-amcharts) 
 ### March 25, 2022 
 - [Testing lexer without a parser? · Discussion #1036 · tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter/discussions/1036) 
 ### March 24, 2022 

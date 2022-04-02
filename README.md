@@ -212,6 +212,7 @@
 ### April 2, 2022 
 - [Autosuggest for JSON files with custom schema for Monaco editor? - Stack Overflow](https://stackoverflow.com/questions/55560539/autosuggest-for-json-files-with-custom-schema-for-monaco-editor) 
 - [Enabling bracket colorization in Monaco editor - Stack Overflow](https://stackoverflow.com/questions/69438658/enabling-bracket-colorization-in-monaco-editor) 
+- [Create a Custom Web Editor Using TypeScript, React, ANTLR, and Monaco-Editor | by Amazzal El-habib | Better Programming](https://betterprogramming.pub/create-a-custom-web-editor-using-typescript-react-antlr-and-monaco-editor-bcfc7554e446) 
 ### March 25, 2022 
 - [Testing lexer without a parser? · Discussion #1036 · tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter/discussions/1036) 
 ### March 24, 2022 

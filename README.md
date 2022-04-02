@@ -224,6 +224,7 @@
 - [vue-monaco-singleline/monaco-singleline.vue at master · vikyd/vue-monaco-singleline](https://github.com/vikyd/vue-monaco-singleline/blob/master/src/monaco-singleline.vue) 
 - [Building a better search with Monaco and amCharts - Flare blog](https://flareapp.io/blog/36-building-a-better-search-with-monaco-and-amcharts) 
 - [Primary Expressions - JavaScript: The Definitive Guide, 6th Edition [Book]](https://www.oreilly.com/library/view/javascript-the-definitive/9781449393854/ch04s01.html) 
+- [vue-monaco-singleline-custom-language](https://vikyd.github.io/vue-monaco-singleline-custom-language/) 
 ### March 25, 2022 
 - [Testing lexer without a parser? · Discussion #1036 · tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter/discussions/1036) 
 ### March 24, 2022 

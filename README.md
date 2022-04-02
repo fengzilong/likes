@@ -208,6 +208,9 @@
 
 
 
+
+### April 2, 2022 
+- [Autosuggest for JSON files with custom schema for Monaco editor? - Stack Overflow](https://stackoverflow.com/questions/55560539/autosuggest-for-json-files-with-custom-schema-for-monaco-editor) 
 ### March 25, 2022 
 - [Testing lexer without a parser? · Discussion #1036 · tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter/discussions/1036) 
 ### March 24, 2022 

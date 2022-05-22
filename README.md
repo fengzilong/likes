@@ -211,6 +211,9 @@
 
 
 
+
+### May 23, 2022 
+- [My blog | Adrian Pilarczyk](https://www.peelar.dev/) 
 ### May 21, 2022 
 - [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html) 
 - [Data-Vocabulary.org](https://data-vocabulary.org/) 

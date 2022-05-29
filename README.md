@@ -212,6 +212,9 @@
 
 
 
+
+### May 29, 2022 
+- [Can editor stretch to fit its content? .editor{height: auto} · Issue #794 · microsoft/monaco-editor](https://github.com/microsoft/monaco-editor/issues/794) 
 ### May 23, 2022 
 - [My blog | Adrian Pilarczyk](https://www.peelar.dev/) 
 ### May 21, 2022 

@@ -213,6 +213,9 @@
 
 
 
+
+### June 29, 2022 
+- [Get started with GPU Compute on the web](https://web.dev/gpu-compute/) 
 ### May 29, 2022 
 - [Can editor stretch to fit its content? .editor{height: auto} · Issue #794 · microsoft/monaco-editor](https://github.com/microsoft/monaco-editor/issues/794) 
 ### May 23, 2022 

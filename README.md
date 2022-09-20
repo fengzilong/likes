@@ -214,6 +214,9 @@
 
 
 
+
+### September 21, 2022 
+- [Building a code editor with Monaco | by Satyajit Sahoo | Exposition](https://blog.expo.dev/building-a-code-editor-with-monaco-f84b3a06deaf) 
 ### June 29, 2022 
 - [Get started with GPU Compute on the web](https://web.dev/gpu-compute/) 
 ### May 29, 2022 

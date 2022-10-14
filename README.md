@@ -215,6 +215,9 @@
 
 
 
+
+### October 14, 2022 
+- [在Android Studio中，使用ConstraintLayout 构建界面 - YouTube](https://www.youtube.com/watch?v=XamMbnzI5vE) 
 ### September 21, 2022 
 - [Building a code editor with Monaco | by Satyajit Sahoo | Exposition](https://blog.expo.dev/building-a-code-editor-with-monaco-f84b3a06deaf) 
 ### June 29, 2022 

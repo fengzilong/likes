@@ -217,6 +217,9 @@
 
 
 
+
+### October 19, 2022 
+- [Parsing in JavaScript: all the tools and libraries you can use](https://tomassetti.me/parsing-in-javascript/) 
 ### October 18, 2022 
 - [Introducing Glush: a robust, human readable, top-down parser compiler](https://www.sanity.io/blog/why-we-wrote-yet-another-parser-compiler) 
 ### October 14, 2022 

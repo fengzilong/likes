@@ -218,6 +218,9 @@
 
 
 
+
+### October 20, 2022 
+- [Collaborative Whiteboard - Liveblocks Example](https://liveblocks.io/examples/collaborative-whiteboard/zustand) 
 ### October 19, 2022 
 - [Parsing in JavaScript: all the tools and libraries you can use](https://tomassetti.me/parsing-in-javascript/) 
 ### October 18, 2022 

@@ -219,6 +219,9 @@
 
 
 
+
+### October 22, 2022 
+- [Add support for https_proxy by poshaughnessy · Pull Request #27 · Rich-Harris/degit](https://github.com/Rich-Harris/degit/pull/27/files) 
 ### October 20, 2022 
 - [Collaborative Whiteboard - Liveblocks Example](https://liveblocks.io/examples/collaborative-whiteboard/zustand) 
 ### October 19, 2022 

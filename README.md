@@ -220,6 +220,9 @@
 
 
 
+
+### October 29, 2022 
+- [How the TypeScript Compiler Compiles - understanding the compiler internal - YouTube](https://www.youtube.com/watch?v=X8k_4tZ16qU&list=PLYUbsZda9oHu-EiIdekbAzNO0-pUM5Iqj&index=5) 
 ### October 22, 2022 
 - [Add support for https_proxy by poshaughnessy · Pull Request #27 · Rich-Harris/degit](https://github.com/Rich-Harris/degit/pull/27/files) 
 ### October 20, 2022 

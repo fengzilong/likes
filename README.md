@@ -221,6 +221,9 @@
 
 
 
+
+### November 2, 2022 
+- [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html) 
 ### October 29, 2022 
 - [How the TypeScript Compiler Compiles - understanding the compiler internal - YouTube](https://www.youtube.com/watch?v=X8k_4tZ16qU&list=PLYUbsZda9oHu-EiIdekbAzNO0-pUM5Iqj&index=5) 
 ### October 22, 2022 

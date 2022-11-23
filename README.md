@@ -222,6 +222,9 @@
 
 
 
+
+### November 23, 2022 
+- [On Migrating from Cypress to Playwright · mtlynch.io](https://mtlynch.io/notes/cypress-vs-playwright/#playwright-is-significantly-faster-than-cypress) 
 ### November 2, 2022 
 - [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html) 
 ### October 29, 2022 

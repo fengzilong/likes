@@ -223,6 +223,9 @@
 
 
 
+
+### January 25, 2023 
+- [Bulk generate social media images.](https://www.dito.so/) 
 ### November 23, 2022 
 - [On Migrating from Cypress to Playwright · mtlynch.io](https://mtlynch.io/notes/cypress-vs-playwright/#playwright-is-significantly-faster-than-cypress) 
 ### November 2, 2022 

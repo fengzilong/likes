@@ -224,6 +224,9 @@
 
 
 
+
+### February 9, 2023 
+- [React, Inline Functions, and Performance | by Ryan Florence | Medium](https://medium.com/@ryanflorence/react-inline-functions-and-performance-bdff784f5578) 
 ### January 25, 2023 
 - [Bulk generate social media images.](https://www.dito.so/) 
 ### November 23, 2022 

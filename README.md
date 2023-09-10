@@ -228,6 +228,9 @@
 
 
 
+
+### September 10, 2023 
+- [How to write a Constrained Identity Function (CIF) in TypeScript](https://kentcdodds.com/blog/how-to-write-a-constrained-identity-function-in-typescript) 
 ### August 27, 2023 
 - [zustand/docs/getting-started/comparison.md at main · pmndrs/zustand](https://github.com/pmndrs/zustand/blob/main/docs/getting-started/comparison.md) 
 ### August 22, 2023 

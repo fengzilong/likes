@@ -230,6 +230,9 @@
 
 
 
+
+### October 15, 2023 
+- [Introducing Visual Copilot: A Better Figma-to-Code Workflow](https://www.builder.io/blog/figma-to-code-visual-copilot) 
 ### September 17, 2023 
 - [use http://v0.dev to build http://v0.dev](https://twitter.com/rauchg/status/1702820250541297708) 
 ### September 10, 2023 

@@ -231,6 +231,9 @@
 
 
 
+
+### October 16, 2023 
+- [DIY Islands Architecture with Vite, Ben Holmes, ViteConf 2022 - YouTube](https://www.youtube.com/watch?v=Ptqaqls2SYo) 
 ### October 15, 2023 
 - [Introducing Visual Copilot: A Better Figma-to-Code Workflow](https://www.builder.io/blog/figma-to-code-visual-copilot) 
 ### September 17, 2023 

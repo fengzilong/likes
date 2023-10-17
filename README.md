@@ -232,6 +232,9 @@
 
 
 
+
+### October 18, 2023 
+- [BlockSuite Playground](https://blocksuite-toeverything.vercel.app/starter/?init) 
 ### October 16, 2023 
 - [DIY Islands Architecture with Vite, Ben Holmes, ViteConf 2022 - YouTube](https://www.youtube.com/watch?v=Ptqaqls2SYo) 
 - [Catalog of Refactorings](https://refactoring.com/catalog/) 

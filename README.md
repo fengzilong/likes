@@ -233,6 +233,9 @@
 
 
 
+
+### November 30, 2024 
+- [A custom autocomplete model in 30 minutes using Unsloth (Community post)](https://blog.continue.dev/a-custom-autocomplete-model-in-30-minutes-using-unsloth/) 
 ### October 18, 2023 
 - [BlockSuite Playground](https://blocksuite-toeverything.vercel.app/starter/?init) 
 ### October 16, 2023 

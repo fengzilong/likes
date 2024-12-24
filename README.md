@@ -237,6 +237,7 @@
 
 ### December 25, 2024 
 - [The history of Monokai](https://monokai.pro/history) 
+- [Understanding Concurrency, Parallelism and JS | rugu](https://www.rugu.dev/en/blog/concurrency-and-parallelism/) 
 ### November 30, 2024 
 - [A custom autocomplete model in 30 minutes using Unsloth (Community post)](https://blog.continue.dev/a-custom-autocomplete-model-in-30-minutes-using-unsloth/) 
 - [Language Model API | Visual Studio Code Extension API](https://code.visualstudio.com/api/extension-guides/language-model) 
